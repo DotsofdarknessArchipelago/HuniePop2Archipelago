@@ -82,6 +82,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 archflagprocess(file);
             }
 
+            if (ArchipelagoClient.alist.seed != ArchipelagoClient.session.RoomState.Seed) { ArchipelagoClient.alist.seed = ArchipelagoClient.session.RoomState.Seed; }
+
             //save current archipelago data to file
             ArchipelagoClient.session.DataStorage[Scope.Slot, "savefile"] = JsonConvert.SerializeObject(Game.Persistence.playerData.files[4].WriteData());
             ArchipelagoClient.session.DataStorage[Scope.Slot, "archdata"] = JsonConvert.SerializeObject(ArchipelagoClient.alist);
