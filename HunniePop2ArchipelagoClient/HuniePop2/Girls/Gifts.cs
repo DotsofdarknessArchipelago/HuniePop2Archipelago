@@ -24,13 +24,15 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Girls
             //if the gift has already been given to the girl return true to get rid of the duplicate gift
             if (____receivedUniques.Contains(__instance.girlDefinition.uniqueItemDefs.IndexOf(uniqueDef)))
             {
+                ArchipelagoClient.sendloc($"{__instance.girlDefinition.girlName.ToLower()}_unique_gift_loc_start", IDs.uniqueidtooffset(uniqueDef.id));
                 __result = true;
                 return false;
             }
 
             //send location and add gift the recieved gifts list of the girl and return true
             ____receivedUniques.Add(__instance.girlDefinition.uniqueItemDefs.IndexOf(uniqueDef));
-            ArchipelagoClient.sendloc(IDs.idtoflag(uniqueDef.id) - 44);
+            //ArchipelagoClient.sendloc(IDs.idtoflag(uniqueDef.id) - 44);
+            ArchipelagoClient.sendloc($"{__instance.girlDefinition.girlName.ToLower()}_unique_gift_loc_start", IDs.uniqueidtooffset(uniqueDef.id));
 
             __result = true;
             return false;
@@ -54,13 +56,15 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Girls
             //if the gift has already been given to the girl return true to get rid of the duplicate gift
             if (____receivedShoes.Contains(__instance.girlDefinition.shoesItemDefs.IndexOf(shoesDef)))
             {
+                ArchipelagoClient.sendloc($"{__instance.girlDefinition.girlName.ToLower()}_shoe_gift_loc_start", IDs.shoeidtooffset(shoesDef.id));
                 __result = true;
                 return false;
             }
 
             //send location and add gift the recieved gifts list of the girl and return true
             ____receivedShoes.Add(__instance.girlDefinition.shoesItemDefs.IndexOf(shoesDef));
-            ArchipelagoClient.sendloc(IDs.idtoflag(shoesDef.id) - 44);
+            //ArchipelagoClient.sendloc(IDs.idtoflag(shoesDef.id) - 44);
+            ArchipelagoClient.sendloc($"{__instance.girlDefinition.girlName.ToLower()}_shoe_gift_loc_start", IDs.shoeidtooffset(shoesDef.id));
 
             __result = true;
             return false;

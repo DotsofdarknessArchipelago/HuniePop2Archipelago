@@ -86,7 +86,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //set flag
                 Game.Persistence.playerFile.SetFlagValue((____puzzleStatus.girlStatusLeft.playerFileGirl.girlDefinition.id.ToString() + ":" + Game.Session.gameCanvas.GetDoll(____puzzleStatus.girlStatusLeft.girlDefinition).currentOutfitIndex.ToString()), 1);
                 //send location
-                ArchipelagoClient.sendloc(69420385 + ((____puzzleStatus.girlStatusLeft.girlDefinition.id - 1) * 10) + Game.Session.gameCanvas.GetDoll(____puzzleStatus.girlStatusLeft.girlDefinition).currentOutfitIndex);
+                //ArchipelagoClient.sendloc(69420385 + ((____puzzleStatus.girlStatusLeft.girlDefinition.id - 1) * 10) + Game.Session.gameCanvas.GetDoll(____puzzleStatus.girlStatusLeft.girlDefinition).currentOutfitIndex);
+                ArchipelagoClient.sendloc($"{____puzzleStatus.girlStatusLeft.girlDefinition.girlName.ToLower()}_outfit_loc_start", Game.Session.gameCanvas.GetDoll(____puzzleStatus.girlStatusLeft.girlDefinition).currentOutfitIndex+1);
             }
 
             //check right girls outfit to see if location is not already checked otherwise send location
@@ -95,7 +96,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //set flag
                 Game.Persistence.playerFile.SetFlagValue((____puzzleStatus.girlStatusRight.playerFileGirl.girlDefinition.id.ToString() + ":" + Game.Session.gameCanvas.GetDoll(____puzzleStatus.girlStatusRight.girlDefinition).currentOutfitIndex.ToString()), 1);
                 //send location
-                ArchipelagoClient.sendloc(69420385 + ((____puzzleStatus.girlStatusRight.girlDefinition.id - 1) * 10) + Game.Session.gameCanvas.GetDoll(____puzzleStatus.girlStatusRight.girlDefinition).currentOutfitIndex);
+                //ArchipelagoClient.sendloc(69420385 + ((____puzzleStatus.girlStatusRight.girlDefinition.id - 1) * 10) + Game.Session.gameCanvas.GetDoll(____puzzleStatus.girlStatusRight.girlDefinition).currentOutfitIndex);
+                ArchipelagoClient.sendloc($"{____puzzleStatus.girlStatusRight.girlDefinition.girlName.ToLower()}_outfit_loc_start", Game.Session.gameCanvas.GetDoll(____puzzleStatus.girlStatusRight.girlDefinition).currentOutfitIndex+1);
             }
         }
 

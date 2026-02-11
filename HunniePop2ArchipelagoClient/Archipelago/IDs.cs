@@ -1,15 +1,479 @@
 ﻿
 
+using HunniePop2ArchipelagoClient.HuniePop2.Gameplay;
+using System;
+using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
+using UnityEngine.UIElements.Experimental;
+
 namespace HunniePop2ArchipelagoClient.Archipelago
 {
     public class IDs
     {
 
+        public static int shoeoffsettoid(int offset)
+        {
+            return offset switch
+            {
+                1 => 189,//Knitted Boots
+                2 => 190,//Seasonal Boots
+                3 => 191,//Heavy Boots
+                4 => 192,//Fuzzy Boots
+                5 => 193,//Festive Boots
+                6 => 194,//Elegant Peep Toes
+                7 => 195,//Angel Peep Toes
+                8 => 196,//Plaid Peep Toes
+                9 => 197,//Ribbon Peep Toes
+                10 => 198,//Leopard Peep Toes
+                11 => 199,//Suede Booties
+                12 => 200,//Striped Booties
+                13 => 201,//Goth Booties
+                14 => 202,//Abstract Booties
+                15 => 203,//Satanic Booties
+                16 => 204,//Astro Boots
+                17 => 205,//Sacred Boots
+                18 => 206,//Sherbet Boots
+                19 => 207,//Hydro Boots
+                20 => 208,//Cosmic Boots
+                21 => 209,//Geta Platforms
+                22 => 210,//Candy Platforms
+                23 => 211,//Light Up Platforms
+                24 => 212,//Rainbow Platforms
+                25 => 213,//Star Platforms
+                26 => 214,//Comfy Flip Flops
+                27 => 215,//Palm Flip Flops
+                28 => 216,//Melon Flip Flops
+                29 => 217,//Aqua Flip Flops
+                30 => 218,//Garden Flip Flops
+                31 => 219,//Glittery Heels
+                32 => 220,//Golden Heels
+                33 => 221,//Studded Heels
+                34 => 222,//Neon Heels
+                35 => 223,//Clear Heels
+                36 => 224,//Skater Sneakers
+                37 => 225,//Ballin' Sneakers
+                38 => 226,//High Top Sneakers
+                39 => 227,//Airy Sneakers
+                40 => 228,//Training Sneakers
+                41 => 229,//Patriotic Wedges
+                42 => 230,//Charcoal Wedges
+                43 => 231,//Cork Wedges
+                44 => 232,//Wooden Wedges
+                45 => 233,//Denim Wedges
+                46 => 234,//Zip Up Gladiators
+                47 => 235,//Strap Gladiators
+                48 => 236,//Weave Gladiators
+                49 => 237,//Modest Gladiators
+                50 => 238,//Web Gladiators
+                51 => 239,//Crafted Flats
+                52 => 240,//Basic Flats
+                53 => 241,//Floral Flats
+                54 => 242,//Open Flats
+                55 => 243,//Cozy Flats
+                56 => 244,//Girly Pumps
+                57 => 245,//Classy Pumps
+                58 => 246,//Shiny Pumps
+                59 => 247,//Polka Dot Pumps
+                60 => 248,//Fancy Pumps
+                _ => -1,
+            };
+        }
+        
+        public static int shoeidtooffset(int id)
+        {
+            return id switch
+            {
+                189 => 1 ,//Knitted Boots
+                190 => 2 ,//Seasonal Boots
+                191 => 3 ,//Heavy Boots
+                192 => 4 ,//Fuzzy Boots
+                193 => 5 ,//Festive Boots
+                194 => 6 ,//Elegant Peep Toes
+                195 => 7 ,//Angel Peep Toes
+                196 => 8 ,//Plaid Peep Toes
+                197 => 9 ,//Ribbon Peep Toes
+                198 => 10 ,//Leopard Peep Toes
+                199 => 11 ,//Suede Booties
+                200 => 12 ,//Striped Booties
+                201 => 13 ,//Goth Booties
+                202 => 14 ,//Abstract Booties
+                203 => 15 ,//Satanic Booties
+                204 => 16 ,//Astro Boots
+                205 => 17 ,//Sacred Boots
+                206 => 18 ,//Sherbet Boots
+                207 => 19 ,//Hydro Boots
+                208 => 20 ,//Cosmic Boots
+                209 => 21 ,//Geta Platforms
+                210 => 22 ,//Candy Platforms
+                211 => 23 ,//Light Up Platforms
+                212 => 24 ,//Rainbow Platforms
+                213 => 25 ,//Star Platforms
+                214 => 26 ,//Comfy Flip Flops
+                215 => 27 ,//Palm Flip Flops
+                216 => 28 ,//Melon Flip Flops
+                217 => 29 ,//Aqua Flip Flops
+                218 => 30 ,//Garden Flip Flops
+                219 => 31 ,//Glittery Heels
+                220 => 32 ,//Golden Heels
+                221 => 33 ,//Studded Heels
+                222 => 34 ,//Neon Heels
+                223 => 35 ,//Clear Heels
+                224 => 36 ,//Skater Sneakers
+                225 => 37 ,//Ballin' Sneakers
+                226 => 38 ,//High Top Sneakers
+                227 => 39 ,//Airy Sneakers
+                228 => 40 ,//Training Sneakers
+                229 => 41 ,//Patriotic Wedges
+                230 => 42 ,//Charcoal Wedges
+                231 => 43 ,//Cork Wedges
+                232 => 44 ,//Wooden Wedges
+                233 => 45 ,//Denim Wedges
+                234 => 46 ,//Zip Up Gladiators
+                235 => 47 ,//Strap Gladiators
+                236 => 48 ,//Weave Gladiators
+                237 => 49 ,//Modest Gladiators
+                238 => 50 ,//Web Gladiators
+                239 => 51 ,//Crafted Flats
+                240 => 52 ,//Basic Flats
+                241 => 53 ,//Floral Flats
+                242 => 54 ,//Open Flats
+                243 => 55 ,//Cozy Flats
+                244 => 56 ,//Girly Pumps
+                245 => 57 ,//Classy Pumps
+                246 => 58 ,//Shiny Pumps
+                247 => 59 ,//Polka Dot Pumps
+                248 => 60,//Fancy Pumps
+                _ => -1,
+            };
+        }
+
+        public static int uniqueoffsettoid(int offset)
+        {
+            return offset switch
+            {
+                1 => 129,//Scissors
+                2 => 130,//Spool Of Thread
+                3 => 131,//Buttons
+                4 => 132,//Pincushion
+                5 => 133,//Measuring Tape
+                6 => 134,//Gin
+                7 => 135,//Rum
+                8 => 136,//Whisky
+                9 => 137,//Vodka
+                10 => 138,//Tequila
+                11 => 139,//Witch Hat
+                12 => 140,//Jack O Lantern
+                13 => 141,//Ouija Board
+                14 => 142,//Voodoo Doll
+                15 => 143,//Goat Skull
+                16 => 144,//Crystals
+                17 => 145,//Crystal Ball
+                18 => 146,//Incense
+                19 => 147,//Hourglass
+                20 => 148,//Tarot Cards
+                21 => 149,//Manga Book
+                22 => 150,//Booby Mousepad
+                23 => 151,//Cellphone Cover
+                24 => 152,//Chibi Figurine
+                25 => 153,//Japanese Candy
+                26 => 154,//Bath Salts
+                27 => 155,//Hot Stones
+                28 => 156,//Loofah Sponge
+                29 => 157,//Warm Towels
+                30 => 158,//Cucumber Slices
+                31 => 159,//Letter Blocks
+                32 => 160,//Ring Stacker
+                33 => 161,//Mini Xylophone
+                34 => 162,//Shapes Block
+                35 => 163,//Animal Wheel
+                36 => 164,//Binky
+                37 => 165,//Baby Cap
+                38 => 166,//Diapers
+                39 => 167,//Baby Bottle
+                40 => 168,//Car Carrier
+                41 => 169,//Clutch Purse
+                42 => 170,//Shoulder Bag
+                43 => 171,//Quilted Handbag
+                44 => 172,//Fancy Handbag
+                45 => 173,//Elegant Tote Bag
+                46 => 174,//Microphone
+                47 => 175,//Bass Guitar
+                48 => 176,//Drum Kit
+                49 => 177,//Drum Sticks
+                50 => 178,//Guitar Amp
+                51 => 179,//Spanking Paddle
+                52 => 180,//Ball Gag
+                53 => 181,//Nipple Clamps
+                54 => 182,//Handcuffs
+                55 => 183,//Chain Collar
+                56 => 184,//Television
+                57 => 185,//Jukebox
+                58 => 186,//Phonograph
+                59 => 187,//Radio
+                60 => 188,//Soda Machine
+                _ => -1,
+            };
+        }
+        
+        public static int uniqueidtooffset(int id)
+        {
+            return id switch
+            {
+                129 => 1 ,//Scissors
+                130 => 2 ,//Spool Of Thread
+                131 => 3 ,//Buttons
+                132 => 4 ,//Pincushion
+                133 => 5 ,//Measuring Tape
+                134 => 6 ,//Gin
+                135 => 7 ,//Rum
+                136 => 8 ,//Whisky
+                137 => 9 ,//Vodka
+                138 => 10 ,//Tequila
+                139 => 11 ,//Witch Hat
+                140 => 12 ,//Jack O Lantern
+                141 => 13 ,//Ouija Board
+                142 => 14 ,//Voodoo Doll
+                143 => 15 ,//Goat Skull
+                144 => 16 ,//Crystals
+                145 => 17 ,//Crystal Ball
+                146 => 18 ,//Incense
+                147 => 19 ,//Hourglass
+                148 => 20 ,//Tarot Cards
+                149 => 21 ,//Manga Book
+                150 => 22 ,//Booby Mousepad
+                151 => 23 ,//Cellphone Cover
+                152 => 24 ,//Chibi Figurine
+                153 => 25 ,//Japanese Candy
+                154 => 26 ,//Bath Salts
+                155 => 27 ,//Hot Stones
+                156 => 28 ,//Loofah Sponge
+                157 => 29 ,//Warm Towels
+                158 => 30 ,//Cucumber Slices
+                159 => 31 ,//Letter Blocks
+                160 => 32 ,//Ring Stacker
+                161 => 33 ,//Mini Xylophone
+                162 => 34 ,//Shapes Block
+                163 => 35 ,//Animal Wheel
+                164 => 36 ,//Binky
+                165 => 37 ,//Baby Cap
+                166 => 38 ,//Diapers
+                167 => 39 ,//Baby Bottle
+                168 => 40 ,//Car Carrier
+                169 => 41 ,//Clutch Purse
+                170 => 42 ,//Shoulder Bag
+                171 => 43 ,//Quilted Handbag
+                172 => 44 ,//Fancy Handbag
+                173 => 45 ,//Elegant Tote Bag
+                174 => 46 ,//Microphone
+                175 => 47 ,//Bass Guitar
+                176 => 48 ,//Drum Kit
+                177 => 49 ,//Drum Sticks
+                178 => 50 ,//Guitar Amp
+                179 => 51 ,//Spanking Paddle
+                180 => 52 ,//Ball Gag
+                181 => 53 ,//Nipple Clamps
+                182 => 54 ,//Handcuffs
+                183 => 55 ,//Chain Collar
+                184 => 56 ,//Television
+                185 => 57 ,//Jukebox
+                186 => 58 ,//Phonograph
+                187 => 59 ,//Radio
+                188 => 60,//Soda Machine
+                _ => -1,
+            };
+        }
+        
+        public static int filleroffsettoid(int id)
+        {
+            return id switch
+            {
+                1 => 250,//Ocean Breeze Candle
+                2 => 251,//Pine Forest Candle
+                3 => 252,//Pumpkin Spice Candle
+                4 => 253,//Cinnamon Cider Candle
+                5 => 254,//Tropical Sunset Candle
+                6 => 255,//Midnight Moonlight Candle
+                7 => 256,//Sweet Honeycomb Candle
+                8 => 257,//Spring Rain Candle
+                9 => 258,//Cotton Pillows Candle
+                10 =>  259,//Exfoliating Scrub
+                11 =>  261,//Eyelash Kit
+                12 =>  262,//Powder Brush
+                13 =>  263,//Makeup Palette
+                14 =>  264,//Lipstick
+                15 =>  265,//Moisturizer
+                16 =>  266,//Hair Brush
+                17 =>  268,//Blow Dryer
+                18 =>  25,//Blue Orchid Flowers
+                19 =>  26,//Green Clover Flowers
+                20 =>  27,//Orange Daisy Flowers
+                21 =>  28,//Red Rose Flowers
+                22 =>  29,//Pink Cosmos Flowers
+                23 =>  30,//Violet Pansy Flowers
+                24 =>  32,//Yellow Narcissus Flowers
+                25 =>  31,//Turquoise Tulip Flowers
+                26 =>  33,//White Lily Flowers
+                27 =>  284,//Sanitary Pad
+                28 =>  285,//Tampon
+                29 =>  286,//Feminine Wash
+                30 =>  287,//Feminine Cream
+                31 =>  288,//Feminine Wipes
+                32 =>  289,//Douche
+                33 =>  34,//Sapphire Ring
+                34 =>  35,//Emerald Bracelet
+                35 =>  36,//Citrine Bracelet
+                36 =>  37,//Ruby Ring
+                37 =>  38,//Spinel Necklace
+                38 =>  39,//Amethyst Necklace
+                39 =>  41,//Topaz Earrings
+                40 =>  40,//Aquamarine Earrings
+                41 =>  42,//Diamond Tiara
+                42 =>  43,//Peacock Plush
+                43 =>  44,//Frog Plush
+                44 =>  45,//Goldfish Plush
+                45 =>  46,//Ladybug Plush
+                46 =>  47,//Pig Plush
+                47 =>  48,//Octopus Plush
+                48 =>  50,//Chick Plush
+                49 =>  49,//Elephant Plush
+                50 =>  51,//Bunny Plush
+                51 =>  52,//Fox Plush
+                52 =>  249,//Cow Plush
+                53 =>  294,//Magic Wand
+                54 =>  295,//Egg Vibrator
+                55 =>  296,//Butt Plug
+                56 =>  297,//Anal Beads
+                57 =>  298,//Lube
+                58 =>  299,//Dirty Dice
+                59 =>  300,//Kamasutra
+                60 => 301,//Breast Pump
+                61 => 269,//Beach Ball
+                62 => 270,//Inner Tube
+                63 => 271,//Tiki Head Charm
+                64 => 272,//Surfboard
+                65 => 273,//Snorkel Mask
+                66 => 274,//Flippers
+                67 => 275,//Suntan Lotion
+                68 => 276,//Beach Towel
+                69 => 277,//Tropical Lei
+                70 => 278,//Ceramic Fish
+                71 => 279,//Pinwheel
+                72 => 280,//Hemp Bracelet
+                73 => 281,//Glass Dolphin
+                74 => 282,//Postcard
+                75 => 283,//Snow Globe
+                _ => -1,
+            };
+        }
+
+        public static int baggageoffsettoid(int offset)
+        {
+            return offset switch
+            {
+                1 => 93,//Busy Schedule
+                2 => 94,//Caffeine Junkie
+                3 => 95,//Miss Independent
+                4 => 96,//Depression
+                5 => 97,//Emphysema
+                6 => 98,//Busted Vadge
+                7 => 99,//The Darkness
+                8 => 100,//Asthma
+                9 => 101,//Teen Angst
+                10 => 102,//Aquaphobic
+                11 => 103,//Tinnitus
+                12 => 104,//Kinda Crazy
+                13 => 105,//Annoying as Fuck
+                14 => 106,//Attention Whore
+                15 => 107,//Smelly Pussy
+                16 => 108,//Old Fashioned
+                17 => 109,//Low Self-Esteem
+                18 => 110,//Sheepish
+                19 => 111,//Intellectually Challenged
+                20 => 112,//Hypersensitive
+                21 => 113,//Forgetful
+                22 => 114,//Emotionally Guarded
+                23 => 115,//Abandonment Issues
+                24 => 116,//Vindictive
+                25 => 117,//Gold Digger
+                26 => 118,//Unsentimental
+                27 => 119,//Expensive Tastes
+                28 => 120,//Commitment Issues
+                29 => 121,//Easily Bored
+                30 => 122,//Allergies
+                31 => 123,//Self-Effacing
+                32 => 124,//One Pump Chump
+                33 => 125,//Sex Addict
+                34 => 126,//Jealousy
+                35 => 127,//Drama Queen
+                36 => 128,//Brand Loyalist
+                _ => -1,
+            };
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        public static int unknownidtoid(int id)
+        {
+            DepartLocation.gift_unique_item_start ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["gift_unique_item_start"]);
+            DepartLocation.gift_shoe_item_start ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["gift_shoe_item_start"]);
+            DepartLocation.lola_baggage_item_start ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["lola_baggage_item_start"]);
+
+            if (id > DepartLocation.gift_unique_item_start && id <= DepartLocation.gift_shoe_item_start)
+            {
+                return uniqueoffsettoid((int)(id - DepartLocation.gift_unique_item_start));
+            }
+            else if (id > DepartLocation.gift_shoe_item_start && id <= DepartLocation.lola_baggage_item_start)
+            {
+                return shoeoffsettoid((int)(id - DepartLocation.gift_shoe_item_start));
+            }
+            return -1;
+        }
+
+
+
+
         /// <summary>
         /// HELPER METHOD TO CONVERT AN ITEM ID TO A FLAG/ARCHIPELAGO ID SINCE THERE ARE 5 UNIQUE/SHOE GIFT ITEMS
         /// IN THE GAME BUT YOU CAN ONLY GIVE 4 TO A GIRL 
         /// </summary>
-        public static int idtoflag(int id)
+        public static int idtoflag(int id, bool t)
         {
             if (id == 130) { return 69420093; }
             else if (id == 131) { return 69420094; }
@@ -125,7 +589,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
         /// HELPER METHOD TO CONVERT A FLAG/ARCHIPELAGO ID TO AN ITEM ID SINCE THERE ARE 5 UNIQUE/SHOE GIFT ITEMS
         /// IN THE GAME BUT YOU CAN ONLY GIVE 4 TO A GIRL 
         /// </summary>
-        public static int flagtoid(int flag)
+        public static int flagtoid(int flag, bool t)
         {
             if (flag == 69420093) { return 130; }
             else if (flag == 69420094) { return 131; }
@@ -242,7 +706,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
         /// <summary>
         /// HELPER METHOD TO CONVERT A ITEM FLAG ID TO AN ITEM ID
         /// </summary>
-        public static int itemflagtoid(int flag)
+        public static int itemflagtoid(int flag, bool t)
         {
             if (flag == 69420346) { return 250; }
             else if (flag == 69420347) { return 251; }

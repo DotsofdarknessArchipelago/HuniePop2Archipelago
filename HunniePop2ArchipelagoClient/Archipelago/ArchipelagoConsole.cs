@@ -145,8 +145,15 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                 logLines.RemoveAt(0);
             }
             logLines.Add(message);
-            Plugin.BepinLogger.LogMessage(message);
+            HuniePop2Archipelago.BepinLogger.LogMessage(message);
             lastUpdateTime = Time.time;
+            UpdateWindow();
+        }
+
+        public static void LogError(string message)
+        {
+            LogMessage(message);
+            Hidden = false;
             UpdateWindow();
         }
 
@@ -160,7 +167,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                 logLines.RemoveAt(0);
             }
             logLines.Add(message);
-            Plugin.BepinLogger.LogMessage(message);
+            HuniePop2Archipelago.BepinLogger.LogMessage(message);
             lastUpdateTime = Time.time;
             UpdateWindow();
         }
@@ -190,7 +197,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
             CommandText = GUI.TextField(CommandTextRect, CommandText);
             if (!CommandText.IsNullOrWhiteSpace() && GUI.Button(SendCommandButton, "Send"))
             {
-                Plugin.ArchipelagoClient.SendMessage(CommandText);
+                HuniePop2Archipelago.ArchipelagoClient.SendMessage(CommandText);
                 CommandText = "";
             }
         }

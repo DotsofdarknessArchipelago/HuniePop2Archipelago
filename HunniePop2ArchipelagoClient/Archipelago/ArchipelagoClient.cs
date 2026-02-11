@@ -4,6 +4,7 @@ using Archipelago.MultiClient.Net.Helpers;
 using Archipelago.MultiClient.Net.Models;
 using Archipelago.MultiClient.Net.Packets;
 using BepInEx;
+using HunniePop2ArchipelagoClient.HuniePop2.Gameplay;
 using Newtonsoft.Json;
 using System;
 using System.Collections;
@@ -18,6 +19,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
     {
         public const string APVersion = "0.5.0";
         private const string game = "Hunie Pop 2";
+        public int[] expectedworld = [3, 0, 0];
 
         public static bool Authenticated;
         private bool attemptingConnection;
@@ -30,6 +32,8 @@ namespace HunniePop2ArchipelagoClient.Archipelago
         public static int totalloc = 0;
         public static int totalitem = 0;
         public bool slotstate = false;
+
+        public string worldversion = "";
 
         /// <summary>
         /// call to connect to an Archipelago session. Connection info should already be set up on ServerData
@@ -46,7 +50,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
             }
             catch (Exception e)
             {
-                Plugin.BepinLogger.LogError(e);
+                HuniePop2Archipelago.BepinLogger.LogError(e);
             }
 
             TryConnect();
@@ -84,7 +88,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
             }
             catch (Exception e)
             {
-                Plugin.BepinLogger.LogError(e);
+                HuniePop2Archipelago.BepinLogger.LogError(e);
                 HandleConnectResult(new LoginFailure(e.ToString()));
                 attemptingConnection = false;
             }
@@ -104,7 +108,15 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                 ServerData.SetupSession(success.SlotData, session.RoomState.Seed);
                 Authenticated = true;
 
-                Plugin.BepinLogger.LogMessage($"CONNECTED TO SERVER | CLIENT V{Plugin.PluginVersion}, SERVER V{ServerData.slotData["world_version"]}");
+                var t = JsonConvert.DeserializeObject<int[]>(ServerData.slotData["world_version"].ToString()); 
+
+                HuniePop2Archipelago.BepinLogger.LogMessage($"CONNECTED TO SERVER | CLIENT V{HuniePop2Archipelago.PluginVersion}, SERVER V{t[0]}.{t[1]}.{t[2]}");
+                worldversion = $"{t[0]}.{t[1]}.{t[2]}";
+
+                if (t[0] != expectedworld[0] || t[1] != expectedworld[1] || t[2] != expectedworld[2])
+                {
+                    ArchipelagoConsole.LogError($"APWORLD VERSION ERROR\nEXPECTED: V{expectedworld[0]}.{expectedworld[1]}.{expectedworld[2]} GOT V{t[0]}.{t[1]}.{t[2]}");
+                }
 
                 alist = new ArchipelageItemList();
 
@@ -121,17 +133,19 @@ namespace HunniePop2ArchipelagoClient.Archipelago
 
                 outText = $"Successfully connected to {ServerData.Uri} as {ServerData.SlotName}!";
 
+                ServerData.gamedata = JsonConvert.DeserializeObject < Dictionary<string, Dictionary<string, int>>>(ServerData.slotData["gamedata"].ToString());
+
                 string alists = session.DataStorage[Scope.Slot, "archdata"];
                 if (alists.IsNullOrWhiteSpace())
                 {
-                    Plugin.BepinLogger.LogMessage("SERVER ARCHDATA = NULL");
+                    HuniePop2Archipelago.BepinLogger.LogMessage("SERVER ARCHDATA = NULL");
                     alist.seed = session.RoomState.Seed;
                 }
                 else
                 {
                     ArchipelageItemList alist2 = JsonConvert.DeserializeObject<ArchipelageItemList>(alists);
-                    Plugin.BepinLogger.LogMessage("SERVER ARCHDATA:");
-                    Plugin.BepinLogger.LogMessage(alists.ToString());
+                    HuniePop2Archipelago.BepinLogger.LogMessage("SERVER ARCHDATA:");
+                    HuniePop2Archipelago.BepinLogger.LogMessage(alists.ToString());
                     if (alist2.seed != "")
                     {
                         alist.merge(alist2.list);
@@ -148,7 +162,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                 outText = $"Failed to connect to {ServerData.Uri} as {ServerData.SlotName}.";
                 outText = failure.Errors.Aggregate(outText, (current, error) => current + $"\n    {error}");
 
-                Plugin.BepinLogger.LogError(outText);
+                HuniePop2Archipelago.BepinLogger.LogError(outText);
 
                 Authenticated = false;
                 Disconnect();
@@ -163,7 +177,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
         /// </summary>
         private void Disconnect()
         {
-            Plugin.BepinLogger.LogDebug("disconnecting from server...");
+            HuniePop2Archipelago.BepinLogger.LogDebug("disconnecting from server...");
             session?.Socket.DisconnectAsync();
             session = null;
             Authenticated = false;
@@ -194,15 +208,21 @@ namespace HunniePop2ArchipelagoClient.Archipelago
             ServerData.Index++;
         }
 
-        public static void sendloc(int loc)
+        public static void sendloc(int loc, bool t)
         {
             session.Locations.CompleteLocationChecks(loc);
+        }
+
+        public static void sendloc(string set,int offset)
+        {
+            HuniePop2Archipelago.BepinLogger.LogMessage($"SENDING LOCATION: SET:{set}, OFFSET:{offset}");
+            sendloc(Convert.ToInt32(ServerData.slotData[set]) + offset, true);
         }
 
         public static ScoutedItemInfo getshopitem(int loc)
         {
             if (!Authenticated) { return null; }
-            long key = 69420505 + loc;
+            long key = Convert.ToInt32(ServerData.slotData["shop_loc_start"]) + loc;
             if (shopdict.ContainsKey(key))
             {
                 return shopdict[key];
@@ -213,7 +233,8 @@ namespace HunniePop2ArchipelagoClient.Archipelago
         public void buildshoplocations(int num)
         {
             long[] shopids = new long[num];
-            for (int i = 0; i < shopids.Length; i++) { shopids[i] = 69420506 + i; }
+            int shopstart = Convert.ToInt32(ServerData.slotData["shop_loc_start"]);
+            for (int i = 0; i < shopids.Length; i++) { shopids[i] = shopstart + i; }
 
 
             Task<Dictionary<long, ScoutedItemInfo>> scoutedInfoTask = Task.Run(async () => await session.Locations.ScoutLocationsAsync(shopids));
@@ -276,7 +297,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
         /// <param name="message">message received from the server</param>
         private void OnSessionErrorReceived(Exception e, string message)
         {
-            Plugin.BepinLogger.LogError(e);
+            HuniePop2Archipelago.BepinLogger.LogError(e);
             ArchipelagoConsole.LogMessage(message);
         }
 
@@ -286,7 +307,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
         /// <param name="reason"></param>
         private void OnSessionSocketClosed(string reason)
         {
-            Plugin.BepinLogger.LogError($"Connection to Archipelago lost: {reason}");
+            HuniePop2Archipelago.BepinLogger.LogError($"Connection to Archipelago lost: {reason}");
             Disconnect();
         }
 
@@ -305,11 +326,14 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                     break;
                 case "$voidfiller":
                     ArchipelagoConsole.LogMessage("REMOVING UNPROCESSED FILLER ITEMS FROM BEING PROCESSED");
+
+                    DepartLocation.filler_item_start ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["filler_item_start"]);
+                    DepartLocation.arch_item_start ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["arch_item_start"]);
+
                     foreach (ArchipelagoItem i in alist.list)
                     {
-                        if (i.Id > 69420344 && i.Id < 69420422)
+                        if (i.Id > DepartLocation.filler_item_start && i.Id <= DepartLocation.arch_item_start)
                         {
-                            Plugin.BepinLogger.LogMessage($"setting item({i.ToString()}) to be processed");
                             i.processed = true;
                         }
                     }
@@ -334,38 +358,55 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                     ArchipelagoConsole.LogMessage($"{alist.ToString()}");
                     ArchipelagoConsole.LogMessage($"------------ARCHDATA END -----------");
                     break;
-                case "$verifygame":
-                    PlayerFile playerFilea = Game.Persistence.playerData.files[4];
+                case "$ripdata":
+                    ArchipelagoConsole.LogMessage("RIPPING ALL DATA");
 
-                    ArchipelagoConsole.LogMessage("RESENDING PLAYER LOCATIONS");
-                    foreach (PlayerFileGirl girl in playerFilea.girls)
+                    ArchipelagoConsole.LogMessage("-------------GIRLS--------------");
+                    foreach (var g in Game.Data.Girls.GetAll())
                     {
-                        ArchipelagoConsole.LogMessage($"RESENDING {girl.girlDefinition.name} LOCATIONS");
-                        foreach (int q in girl.learnedFavs)
+                        ArchipelagoConsole.LogMessage("-----------------------------------");
+                        ArchipelagoConsole.LogMessage($"Girl ID: {g.id}");
+                        ArchipelagoConsole.LogMessage($"Girl Name: {g.girlName}");
+                        ArchipelagoConsole.LogMessage($"fav affection: {g.favoriteAffectionType}");
+                        ArchipelagoConsole.LogMessage($"dis affection: {g.leastFavoriteAffectionType}");
+                        ArchipelagoConsole.LogMessage($"----------SHOES---------");
+                        foreach (var s in g.shoesItemDefs)
                         {
-                            sendloc(69420144 + (girl.girlDefinition.id - 1) * 20 + q);
+                            ArchipelagoConsole.LogMessage($"shoe id: {s.id} |shoe name: {s.itemName}");
                         }
-                        foreach (int s in girl.receivedShoes)
+                        ArchipelagoConsole.LogMessage($"----------UNIQUES---------");
+                        foreach (var s in g.uniqueItemDefs)
                         {
-                            sendloc(IDs.idtoflag(girl.girlDefinition.shoesItemDefs[s].id) - 44);
+                            ArchipelagoConsole.LogMessage($"unique id: {s.id} |unique name: {s.itemName}");
                         }
-                        foreach (int u in girl.receivedUniques)
+                        ArchipelagoConsole.LogMessage($"----------BAGGAGE---------");
+                        foreach (var s in g.baggageItemDefs)
                         {
-                            sendloc(IDs.idtoflag(girl.girlDefinition.uniqueItemDefs[u].id) - 44);
+                            ArchipelagoConsole.LogMessage($"baggabe id: {s.id} |baggage name: {s.itemName}");
                         }
+
+                        ArchipelagoConsole.LogMessage("-----------------------------------");
                     }
-                    foreach (PlayerFileGirlPair pair in playerFilea.girlPairs)
+                    ArchipelagoConsole.LogMessage("-------------PAIRS--------------");
+                    foreach (var p in Game.Data.GirlPairs.GetAll())
                     {
-                        ArchipelagoConsole.LogMessage($"RESENDING {pair.girlPairDefinition.name} LOCATIONS");
-                        if (pair.relationshipType == GirlPairRelationshipType.ATTRACTED)
-                        {
-                            sendloc(69420000 + pair.girlPairDefinition.id);
-                        }
-                        if (pair.relationshipType == GirlPairRelationshipType.LOVERS)
-                        {
-                            sendloc(69420024 + pair.girlPairDefinition.id);
-                        }
+                        ArchipelagoConsole.LogMessage("-----------------------------------");
+                        ArchipelagoConsole.LogMessage($"Pair ID: {p.id}");
+                        ArchipelagoConsole.LogMessage($"Pair Name: {p.name}");
+                        ArchipelagoConsole.LogMessage($"Girl 1 ID: {p.girlDefinitionOne.id} |Girl 1 Name: {p.girlDefinitionOne.girlName}");
+                        ArchipelagoConsole.LogMessage($"Girl 2 ID: {p.girlDefinitionTwo.id} |Girl 2 Name: {p.girlDefinitionTwo.girlName}");
+                        ArchipelagoConsole.LogMessage("-----------------------------------");
                     }
+                    ArchipelagoConsole.LogMessage("-------------ITEMS--------------");
+                    foreach (var i in Game.Data.Items.GetAll())
+                    {
+                        ArchipelagoConsole.LogMessage("-----------------------------------");
+                        ArchipelagoConsole.LogMessage($"Item ID: {i.id}");
+                        ArchipelagoConsole.LogMessage($"Item Name: {i.name}");
+                        ArchipelagoConsole.LogMessage($"Item type: {i.itemType}");
+                        ArchipelagoConsole.LogMessage("-----------------------------------");
+                    }
+
                     break;
                 default:
                     break;

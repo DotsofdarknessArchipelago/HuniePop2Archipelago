@@ -36,8 +36,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 if (setup)
                 {
                     string playerfile = ArchipelagoClient.session.DataStorage[Scope.Slot, $"savefile"];
-                    Plugin.BepinLogger.LogMessage("PLAYERFILE:");
-                    Plugin.BepinLogger.LogMessage(playerfile);
+                    HuniePop2Archipelago.BepinLogger.LogMessage("PLAYERFILE:");
+                    HuniePop2Archipelago.BepinLogger.LogMessage(playerfile);
                     Game.Persistence.playerData.files[savindex] = new PlayerFile(JsonConvert.DeserializeObject<SaveFile>(playerfile));
 
                     Game.Persistence.Apply(savindex);
@@ -248,16 +248,15 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                     for (int g = 1; g < 13; g++)
                     {
                         PlayerFileGirl gl = playerFile.GetPlayerFileGirl(Game.Data.Girls.Get(g));
-                        int bflag = ((g - 1) * 3) + 69420189;
-                        List<ItemDefinition> deflist = new List<ItemDefinition>();
-                        if (ArchipelagoClient.alist.hasitem(bflag)) { deflist.Add(gl.girlDefinition.baggageItemDefs[0]); }
-                        else { deflist.Add(Baggage.baggagestuff()); }
-                        if (ArchipelagoClient.alist.hasitem(bflag + 1)) { deflist.Add(gl.girlDefinition.baggageItemDefs[1]); }
-                        else { deflist.Add(Baggage.baggagestuff()); }
-                        if (ArchipelagoClient.alist.hasitem(bflag + 2)) { deflist.Add(gl.girlDefinition.baggageItemDefs[2]); }
-                        else { deflist.Add(Baggage.baggagestuff()); }
-
-                        gl.girlDefinition.baggageItemDefs = deflist;
+                        //int bflag = ((g - 1) * 3) + 69420189;
+                        //List<ItemDefinition> deflist = new List<ItemDefinition>();
+                        //if (ArchipelagoClient.alist.hasitem(bflag)) { deflist.Add(gl.girlDefinition.baggageItemDefs[0]); }
+                        //else { deflist.Add(Baggage.baggagestuff()); }
+                        //if (ArchipelagoClient.alist.hasitem(bflag + 1)) { deflist.Add(gl.girlDefinition.baggageItemDefs[1]); }
+                        //else { deflist.Add(Baggage.baggagestuff()); }
+                        //if (ArchipelagoClient.alist.hasitem(bflag + 2)) { deflist.Add(gl.girlDefinition.baggageItemDefs[2]); }
+                        //else { deflist.Add(Baggage.baggagestuff()); }
+                        //gl.girlDefinition.baggageItemDefs = deflist;
 
                         gl.stylesOnDates = true;
                     }
@@ -375,18 +374,18 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                         DepartLocation.archflagprocess(playerFile);
 
                         //overwrite baggage here with either temp one or the normal baggage if unlocked
-                        for (int g = 1; g < 13; g++)
-                        {
-                            PlayerFileGirl gl = playerFile.GetPlayerFileGirl(Game.Data.Girls.Get(g));
-                            int bflag = ((g - 1) * 3) + 69420189;
-                            List<ItemDefinition> deflist = new List<ItemDefinition>();
-                            if (ArchipelagoClient.alist.hasitem(bflag)) { deflist.Add(gl.girlDefinition.baggageItemDefs[0]); }
-                            else { deflist.Add(Baggage.baggagestuff()); }
-                            if (ArchipelagoClient.alist.hasitem(bflag + 1)) { deflist.Add(gl.girlDefinition.baggageItemDefs[1]); }
-                            else { deflist.Add(Baggage.baggagestuff()); }
-                            if (ArchipelagoClient.alist.hasitem(bflag + 2)) { deflist.Add(gl.girlDefinition.baggageItemDefs[2]); }
-                            else { deflist.Add(Baggage.baggagestuff()); }
-                        }
+                        //for (int g = 1; g < 13; g++)
+                        //{
+                        //    PlayerFileGirl gl = playerFile.GetPlayerFileGirl(Game.Data.Girls.Get(g));
+                        //    int bflag = ((g - 1) * 3) + 69420189;
+                        //    List<ItemDefinition> deflist = new List<ItemDefinition>();
+                        //    if (ArchipelagoClient.alist.hasitem(bflag)) { deflist.Add(gl.girlDefinition.baggageItemDefs[0]); }
+                        //    else { deflist.Add(Baggage.baggagestuff()); }
+                        //    if (ArchipelagoClient.alist.hasitem(bflag + 1)) { deflist.Add(gl.girlDefinition.baggageItemDefs[1]); }
+                        //    else { deflist.Add(Baggage.baggagestuff()); }
+                        //    if (ArchipelagoClient.alist.hasitem(bflag + 2)) { deflist.Add(gl.girlDefinition.baggageItemDefs[2]); }
+                        //    else { deflist.Add(Baggage.baggagestuff()); }
+                        //}
 
                         //save and apply any changes
                         Game.Persistence.Apply(3);
@@ -611,16 +610,16 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 for (int g = 1; g < 13; g++)
                 {
                     PlayerFileGirl gl = playerFile.GetPlayerFileGirl(Game.Data.Girls.Get(g));
-                    int bflag = ((g - 1) * 3) + 69420189;
-                    List<ItemDefinition> deflist = new List<ItemDefinition>();
-                    if (ArchipelagoClient.alist.hasitem(bflag)) { deflist.Add(gl.girlDefinition.baggageItemDefs[0]); }
-                    else { deflist.Add(Baggage.baggagestuff()); }
-                    if (ArchipelagoClient.alist.hasitem(bflag + 1)) { deflist.Add(gl.girlDefinition.baggageItemDefs[1]); }
-                    else { deflist.Add(Baggage.baggagestuff()); }
-                    if (ArchipelagoClient.alist.hasitem(bflag + 2)) { deflist.Add(gl.girlDefinition.baggageItemDefs[2]); }
-                    else { deflist.Add(Baggage.baggagestuff()); }
-
-                    gl.girlDefinition.baggageItemDefs = deflist;
+                    //int bflag = ((g - 1) * 3) + 69420189;
+                    //List<ItemDefinition> deflist = new List<ItemDefinition>();
+                    //if (ArchipelagoClient.alist.hasitem(bflag)) { deflist.Add(gl.girlDefinition.baggageItemDefs[0]); }
+                    //else { deflist.Add(Baggage.baggagestuff()); }
+                    //if (ArchipelagoClient.alist.hasitem(bflag + 1)) { deflist.Add(gl.girlDefinition.baggageItemDefs[1]); }
+                    //else { deflist.Add(Baggage.baggagestuff()); }
+                    //if (ArchipelagoClient.alist.hasitem(bflag + 2)) { deflist.Add(gl.girlDefinition.baggageItemDefs[2]); }
+                    //else { deflist.Add(Baggage.baggagestuff()); }
+                    //
+                    //gl.girlDefinition.baggageItemDefs = deflist;
 
                     gl.stylesOnDates = true;
                 }

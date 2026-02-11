@@ -14,7 +14,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.UI
             //ArchipelagoConsole.LogMessage($"UICELLPHONE LOADING APP ID{appIndex}");
             if (appIndex >= 3 || (GameObject.Find("Canvas").GetComponent<UiTitleCanvas>() == null))
             {
-                Plugin.test = false;
+                HuniePop2Archipelago.test = false;
                 return true; 
             }
             //ArchipelagoConsole.LogMessage($"APP ID{appIndex} SKIPED");
@@ -32,7 +32,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.UI
             }
             ____currentApp = null;
             ____currentAppIndex = appIndex;
-            Plugin.test = true;
+            HuniePop2Archipelago.test = true;
             return false;
         }
 

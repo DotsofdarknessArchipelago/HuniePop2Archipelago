@@ -43,34 +43,34 @@ namespace HunniePop2ArchipelagoClient.Archipelago
 
         public void add(ItemInfo netitem)
         {
-            Plugin.BepinLogger.LogMessage($"trying to add new netitem{{{netitem.ItemName} from {netitem.Player.Slot}:{netitem.Player.Name} AT {netitem.LocationId}:{netitem.LocationName}}}");
+            //HuniePop2Archipelago.BepinLogger.LogMessage($"trying to add new netitem{{{netitem.ItemName} from {netitem.Player.Slot}:{netitem.Player.Name} AT {netitem.LocationId}:{netitem.LocationName}}}");
             for (int i = 0; i < list.Count; i++)
             {
                 if (list[i].Id == netitem.ItemId && list[i].PlayerName == netitem.Player.Name && list[i].LocationId == netitem.LocationId)
                 {
-                    Plugin.BepinLogger.LogMessage($"item skipped already in list");
+                    //HuniePop2Archipelago.BepinLogger.LogMessage($"item skipped already in list");
                     return;
                 }
             }
-            Plugin.BepinLogger.LogMessage($"item not in list adding");
+            //HuniePop2Archipelago.BepinLogger.LogMessage($"item not in list adding");
             ArchipelagoItem item = new ArchipelagoItem(netitem);
             list.Add(item);
         }
 
         public void add(ArchipelagoItem ai)
         {
-            Plugin.BepinLogger.LogMessage($"trying to add new architem {ai.ToString()}");
+            //HuniePop2Archipelago.BepinLogger.LogMessage($"trying to add new architem {ai.ToString()}");
             for (int i = 0; i < list.Count; i++)
             {
                 if (list[i].Id == ai.Id && list[i].PlayerName == ai.PlayerName && list[i].LocationId == ai.LocationId)
                 {
-                    Plugin.BepinLogger.LogMessage($"item already in list setting processed to {ai.processed} and putinshop to {ai.putinshop}");
+                    //HuniePop2Archipelago.BepinLogger.LogMessage($"item already in list setting processed to {ai.processed} and putinshop to {ai.putinshop}");
                     list[i].processed = ai.processed;
                     list[i].putinshop = ai.putinshop;
                     return;
                 }
             }
-            Plugin.BepinLogger.LogMessage($"item not in list adding");
+            //HuniePop2Archipelago.BepinLogger.LogMessage($"item not in list adding");
             list.Add(ai);
         }
 
@@ -94,6 +94,19 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                 }
             }
             return false;
+        }
+
+        public int coutnitem(int item)
+        {
+            int j = 0;
+            for (int i = 0; i < list.Count; i++)
+            {
+                if (list[i].Id == item)
+                {
+                    j++;
+                }
+            }
+            return j;
         }
 
         public bool needprocessing()

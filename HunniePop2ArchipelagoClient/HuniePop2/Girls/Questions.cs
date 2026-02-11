@@ -3,6 +3,7 @@ using Mono.Cecil.Cil;
 using MonoMod.Cil;
 using System.Collections.Generic;
 using System.Reflection;
+using UnityEngine;
 
 namespace HunniePop2ArchipelagoClient.HuniePop2.Girls
 {
@@ -23,7 +24,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Girls
             {
                 if (Game.Persistence.playerFile.GetFlagValue("question:" + __instance.girlDefinition.id + ":" + questionDef.id) != 1)
                 {
-                    Archipelago.ArchipelagoClient.sendloc(69420144 + (__instance.girlDefinition.id - 1) * 20 + questionDef.id);
+                    //Archipelago.ArchipelagoClient.sendloc(69420144 + (__instance.girlDefinition.id - 1) * 20 + questionDef.id);
+                    Archipelago.ArchipelagoClient.sendloc($"{__instance.girlDefinition.girlName.ToLower()}_questions_loc_start", questionDef.id);
                     Game.Persistence.playerFile.SetFlagValue("question:" + __instance.girlDefinition.id + ":" + questionDef.id, 1);
                 }
             }
@@ -82,6 +84,97 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Girls
                 }
             }
             return true;
+        }
+
+        [HarmonyPatch(typeof(TalkManager), "TalkWith")]
+        [HarmonyPrefix]
+        public static bool questi3on(
+            int dollIndex,
+            TalkManager __instance,
+            ref GirlPairDefinition ____girlPair,
+            ref PlayerFileGirlPair ____fileGirlPair,
+            ref bool ____altGirl,
+            ref PuzzleStatusGirl ____statusGirl,
+            ref PuzzleStatusGirl ____oppositeStatusGirl,
+            ref UiDoll ____targetDoll,
+            ref UiDoll ____oppositeDoll,
+            ref PlayerFileGirl ____fileGirl,
+            ref PlayerFileGirl ____oppositeFileGirl,
+            ref TalkWithType ____talkType,
+            ref bool ____isTalking,
+            ref int ____talkStepIndex
+            )
+        {
+            if (Game.Session.Location.currentGirlPair == null)
+            {
+                return false;
+            }
+            ____girlPair = Game.Session.Location.currentGirlPair;
+            ____fileGirlPair = Game.Persistence.playerFile.GetPlayerFileGirlPair(____girlPair);
+            ____altGirl = dollIndex > 0;
+            ____statusGirl = Game.Session.Puzzle.puzzleStatus.GetStatusGirl(____altGirl);
+            ____oppositeStatusGirl = Game.Session.Puzzle.puzzleStatus.GetStatusGirl(!____altGirl);
+            ____targetDoll = Game.Session.gameCanvas.GetDoll(____altGirl);
+            ____oppositeDoll = Game.Session.gameCanvas.GetDoll(!____altGirl);
+            ____fileGirl = Game.Persistence.playerFile.GetPlayerFileGirl(____targetDoll.girlDefinition);
+            ____oppositeFileGirl = Game.Persistence.playerFile.GetPlayerFileGirl(____oppositeDoll.girlDefinition);
+            Game.Session.Puzzle.puzzleStatus.SetGirlFocus(____altGirl);
+            if (____statusGirl.stamina >= 2)
+            {
+                bool flag = false;
+                if (____targetDoll.girlDefinition == __instance.telepathGirlDefinition)
+                {
+                    List<GirlDefinition> allBySpecial = Game.Data.Girls.GetAllBySpecial(false);
+                    for (int i = 0; i < allBySpecial.Count; i++)
+                    {
+                        if (!Game.Persistence.playerFile.GetPlayerFileGirl(allBySpecial[i]).playerMet)
+                        {
+                            flag = true;
+                            break;
+                        }
+                    }
+                }
+                ____talkType = ((!flag) ? (MathUtils.RandomBool() ? TalkWithType.HER_QUESTION : TalkWithType.FAVORITE_QUESTION) : TalkWithType.FAVORITE_QUESTION);
+                //if (____statusGirl.playerFileGirl.learnedBaggage.Count < ____statusGirl.girlDefinition.baggageItemDefs.Count && ____statusGirl.playerFileGirl.relationshipPoints >= __instance.baggageThresholdsPoint[Mathf.Clamp(____statusGirl.playerFileGirl.learnedBaggage.Count, 0, __instance.baggageThresholdsPoint.Length - 1)])
+                //{
+                //    ____talkType = TalkWithType.BAGGAGE_CONVO;
+                //}
+                ____isTalking = true;
+                ____talkStepIndex = -1;
+                //if (____talkType != TalkWithType.BAGGAGE_CONVO)
+                //{
+                //    Game.Persistence.playerFile.relationshipPoints += 2;
+                //    ____statusGirl.playerFileGirl.relationshipPoints += 2;
+                //}
+                Game.Session.Puzzle.puzzleStatus.AddResourceValue(PuzzleResourceType.STAMINA, -2, ____altGirl);
+                if (Game.Session.Puzzle.puzzleStatus.movesRemaining < Game.Session.Puzzle.puzzleStatus.maxMovesRemaining)
+                {
+                    Game.Session.Puzzle.puzzleStatus.AddResourceValue(PuzzleResourceType.MOVES, 1, ____altGirl);
+                    TokenDefinition byResourceType = Game.Data.Tokens.GetByResourceType(PuzzleResourceType.MOVES, PuzzleAffectionType.TALENT);
+                    Object.Instantiate<EnergyTrailBehavior>(__instance.energyTrailPrefab).Init(EnergyTrailFormat.START_AND_END, byResourceType.energyDefinition, null, ____targetDoll, "+1 " + byResourceType.resourceName);
+                    Game.Manager.Audio.Play(AudioCategory.SOUND, __instance.sfxTalkReward, ____targetDoll.pauseDefinition);
+                }
+                Game.Session.Puzzle.puzzleStatus.CheckChanges();
+                Game.Manager.Audio.Play(AudioCategory.SOUND, Game.Session.Gift.sfxResourceFlourish, ____targetDoll.pauseDefinition);
+                if (Game.Manager.Windows.IsWindowActive(null, true, false))
+                {
+                    Game.Manager.Windows.HideWindow();
+                }
+
+
+                MethodInfo dynMethod = __instance.GetType().GetMethod("TalkStep", BindingFlags.NonPublic | BindingFlags.Instance);
+                dynMethod.Invoke(__instance, []);
+
+                //__instance.TalkStep();
+                return false;
+            }
+            Game.Manager.Audio.Play(AudioCategory.SOUND, Game.Manager.Ui.sfxReject, ____targetDoll.pauseDefinition);
+            if (Game.Manager.Windows.IsWindowActive(null, true, false))
+            {
+                Game.Manager.Windows.ShowWindow(Game.Session.Location.actionBubblesWindow, true);
+                Game.Manager.Windows.HideWindow();
+            }
+            return false;
         }
 
 

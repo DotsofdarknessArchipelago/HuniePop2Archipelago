@@ -17,7 +17,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Girls
             if (__instance.relationshipType == GirlPairRelationshipType.COMPATIBLE)
             {
                 __instance.relationshipType++;
-                Archipelago.ArchipelagoClient.sendloc(69420000 + __instance.girlPairDefinition.id);
+                Archipelago.ArchipelagoClient.sendloc("pair_attracted_loc_start", __instance.girlPairDefinition.id);
                 Game.Persistence.playerFile.GetPlayerFileGirl(__instance.girlPairDefinition.girlDefinitionOne).relationshipUpCount++;
                 Game.Persistence.playerFile.GetPlayerFileGirl(__instance.girlPairDefinition.girlDefinitionTwo).relationshipUpCount++;
                 Game.Persistence.playerFile.relationshipUpCount++;
@@ -25,8 +25,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Girls
             else if (__instance.relationshipType == GirlPairRelationshipType.ATTRACTED)
             {
                 __instance.relationshipType++;
-                Archipelago.ArchipelagoClient.sendloc(69420000 + __instance.girlPairDefinition.id);
-                Archipelago.ArchipelagoClient.sendloc(69420024 + __instance.girlPairDefinition.id);
+                Archipelago.ArchipelagoClient.sendloc("pair_attracted_loc_start", __instance.girlPairDefinition.id);
+                Archipelago.ArchipelagoClient.sendloc("pair_lovers_loc_start", __instance.girlPairDefinition.id);
                 Game.Persistence.playerFile.GetPlayerFileGirl(__instance.girlPairDefinition.girlDefinitionOne).relationshipUpCount++;
                 Game.Persistence.playerFile.GetPlayerFileGirl(__instance.girlPairDefinition.girlDefinitionTwo).relationshipUpCount++;
                 Game.Persistence.playerFile.relationshipUpCount++;

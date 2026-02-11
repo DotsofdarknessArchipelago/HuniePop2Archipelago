@@ -4,17 +4,20 @@ using HarmonyLib;
 using HunniePop2ArchipelagoClient.Archipelago;
 using HunniePop2ArchipelagoClient.HuniePop2.Gameplay;
 using HunniePop2ArchipelagoClient.HuniePop2.UI;
+using System;
+using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using UnityEngine;
 
 namespace HunniePop2ArchipelagoClient
 {
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
-    public class Plugin : BaseUnityPlugin
+    public class HuniePop2Archipelago : BaseUnityPlugin
     {
         public const string PluginGUID = "com.dots.hunniepop2";
         public const string PluginName = "HunniePop2Archielago";
-        public const string PluginVersion = "2.0.4";
+        public const string PluginVersion = "3.0.0";
 
         public const string ModDisplayInfo = $"{PluginName} v{PluginVersion}";
         private const string APDisplayInfo = $"Client V({PluginVersion})";
@@ -32,9 +35,10 @@ namespace HunniePop2ArchipelagoClient
         public static bool reserror = false;
 
         public GameData data=> Game.Data;
+        public Dictionary<int, GirlDefinition> data2=> HuniePop2.Girls.Data.girldata;
         public static ArchipelageItemList alistt => ArchipelagoClient.alist;
 
-
+        public static Sprite archicon;
 
         public static bool test = false;
         public GameObject test2;
@@ -49,6 +53,21 @@ namespace HunniePop2ArchipelagoClient
             ArchipelagoClient = new ArchipelagoClient();
 
             new Harmony(PluginGUID).PatchAll();
+
+            if (archicon == null)
+            {
+                if (File.Exists("BepInEx/plugins/HunniePop2ArchipelagoClient/arch.png"))
+                {
+                    var temp = new Texture2D(2, 2);
+                    var rawData = System.IO.File.ReadAllBytes("BepInEx/plugins/HunniePop2ArchipelagoClient/arch.png");
+                    temp.LoadImage(rawData);
+                    archicon = Sprite.Create(temp, new Rect(0, 0, temp.width, temp.height), new Vector2(0, 0), 100);
+                }
+                else
+                {
+                    ArchipelagoConsole.LogMessage("DEV forgot to package the nessary image files in the mod ask him to fix it");
+                }
+            }
 
             ArchipelagoConsole.Awake();
             ArchipelagoConsole.LogMessage($"{ModDisplayInfo} loaded!");
@@ -150,13 +169,13 @@ namespace HunniePop2ArchipelagoClient
                 // if your game doesn't usually show the cursor this line may be necessary
                 // Cursor.visible = false;
 
-                if (PluginVersion == (string)ArchipelagoClient.ServerData.slotData["world_version"])
+                if (PluginVersion == ArchipelagoClient.worldversion)
                 {
                     GUI.Label(new Rect(5, 20, 300, 20), "Client/World V(" + PluginVersion + ") : Status: Connected");
                 }
                 else
                 {
-                    GUI.Label(new Rect(5, 20, 300, 20), "Client V(" + PluginVersion + "), World V(" + ArchipelagoClient.ServerData.slotData["world_version"] + "): Status: Connected");
+                    GUI.Label(new Rect(5, 20, 300, 20), "Client V(" + PluginVersion + "), World V(" + ArchipelagoClient.worldversion + "): Status: Connected");
                 }
             }
             else
@@ -184,9 +203,19 @@ namespace HunniePop2ArchipelagoClient
                     state = "NEW GAME";
                     button = "START GAME";
                 }
+
+                float cl = ArchipelagoClient.session.Locations.AllLocationsChecked.Count();
+                float tl = ArchipelagoClient.totalloc;
+                float pl = cl / tl;
+
+                float ci = ArchipelagoClient.alist.list.Count();
+                float ti = ArchipelagoClient.totalitem;
+                float pi = ci / ti;
+
+
                 GUI.Label(new Rect(20, (main.height / 2) - 100, main.width - 40, 40), $"SERVER STATE: {state}", mlabel2);
-                GUI.Label(new Rect(20, (main.height / 2) - 50, main.width - 40, 40), $"LOCATIONS CHECKED: {ArchipelagoClient.session.Locations.AllLocationsChecked.Count()} OF {ArchipelagoClient.totalloc} ({((ArchipelagoClient.session.Locations.AllLocationsChecked.Count()/ ArchipelagoClient.totalloc)*100):G4}%)", mlabel2);
-                GUI.Label(new Rect(20, (main.height / 2), main.width - 40, 40), $"ITEMS RECIEVED: {ArchipelagoClient.alist.list.Count()} OF {ArchipelagoClient.totalitem} ({((ArchipelagoClient.alist.list.Count() / ArchipelagoClient.totalitem) * 100):G4}%)", mlabel2);
+                GUI.Label(new Rect(20, (main.height / 2) - 50, main.width - 40, 40), $"LOCATIONS CHECKED: {cl} OF {tl} ({pl:P})", mlabel2);
+                GUI.Label(new Rect(20, (main.height / 2), main.width - 40, 40), $"ITEMS RECIEVED: {ArchipelagoClient.alist.list.Count()} OF {ArchipelagoClient.totalitem} ({pi:P})", mlabel2);
                 if (GUI.Button(new Rect(main.width/2-100, (main.height / 2) + 50, 200, 60), button, mbutton))
                 {
                     StartGame.startarchipelago(GameObject.Find("Canvas").GetComponent<UiTitleCanvas>());

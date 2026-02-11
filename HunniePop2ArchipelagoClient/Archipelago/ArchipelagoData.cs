@@ -20,6 +20,8 @@ namespace HunniePop2ArchipelagoClient.Archipelago
 
         public Dictionary<string, object> slotData;
 
+        public Dictionary<string, Dictionary<string, int>> gamedata;
+
         public bool NeedSlotData => slotData == null;
 
         public ArchipelagoData()
