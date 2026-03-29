@@ -1,0 +1,3002 @@
+[
+    {
+        "name": "lola Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "480",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|1|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "587",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|2|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "693",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|3|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "800",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_unique_gift_id|lola|4|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "480",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|1|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "587",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|2|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "693",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|3|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "800",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift lola Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|lola"],
+                "visibility_rules": ["$girl_shoe_gift_id|lola|4|248"],
+                "item_count": 1
+            }
+        ]
+    }
+]

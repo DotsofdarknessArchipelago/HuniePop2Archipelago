@@ -1,0 +1,212 @@
+[
+    {
+        "name": "lillian Outfit 1",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lillian in Panda Bare Outfit",
+                "access_rules": [
+                    "lillianpandabareoutfit,$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Outfit 2",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lillian in Mall Goth Outfit",
+                "access_rules": [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Outfit 3",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lillian in Pentagram Outfit",
+                "access_rules": [
+                    "lillianpentagramoutfit,$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Outfit 4",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lillian in Trapped Soul Outfit",
+                "access_rules": [
+                    "lilliantrappedsouloutfit,$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Outfit 5",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lillian in Bat Wings Outfit",
+                "access_rules": [
+                    "lillianbatwingsoutfit,$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Outfit 6",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lillian in Vampiress Outfit",
+                "access_rules": [
+                    "lillianvampiressoutfit,$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Outfit 7",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lillian in Candy Corn Outfit",
+                "access_rules": [
+                    "lilliancandycornoutfit,$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Outfit 8",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lillian in Dark Queen Outfit",
+                "access_rules": [
+                    "lilliandarkqueenoutfit,$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Outfit 9",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lillian in Sweet Dreams Outfit",
+                "access_rules": [
+                    "lilliansweetdreamsoutfit,$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Outfit 10",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lillian in Mega Bitch Outfit",
+                "access_rules": [
+                    "lillianmegabitchoutfit,$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

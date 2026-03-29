@@ -1,0 +1,86 @@
+[
+    {
+        "name": "zoey|lillian",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (lillian|zoey)",
+                "ref": "lillian|zoey/Pair Attracted (lillian|zoey)"
+            },
+            {
+                "name": "Pair Lovers (lillian|zoey)",
+                "ref": "lillian|zoey/Pair Lovers (lillian|zoey)"
+            }
+        ]
+    },
+    {
+        "name": "zoey|lola",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (lola|zoey)",
+                "ref": "lola|zoey/Pair Attracted (lola|zoey)"
+            },
+            {
+                "name": "Pair Lovers (lola|zoey)",
+                "ref": "lola|zoey/Pair Lovers (lola|zoey)"
+            }
+        ]
+    },
+    {
+        "name": "zoey|polly",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (polly|zoey)",
+                "ref": "polly|zoey/Pair Attracted (polly|zoey)"
+            },
+            {
+                "name": "Pair Lovers (polly|zoey)",
+                "ref": "polly|zoey/Pair Lovers (polly|zoey)"
+            }
+        ]
+    },
+    {
+        "name": "zoey|sarah",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (sarah|zoey)",
+                "ref": "sarah|zoey/Pair Attracted (sarah|zoey)"
+            },
+            {
+                "name": "Pair Lovers (sarah|zoey)",
+                "ref": "sarah|zoey/Pair Lovers (sarah|zoey)"
+            }
+        ]
+    }
+]

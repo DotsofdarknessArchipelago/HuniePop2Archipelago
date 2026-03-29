@@ -1,0 +1,110 @@
+[
+    {
+        "name": "candace|abia",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (abia|candace)",
+                "ref": "abia|candace/Pair Attracted (abia|candace)"
+            },
+            {
+                "name": "Pair Lovers (abia|candace)",
+                "ref": "abia|candace/Pair Lovers (abia|candace)"
+            }
+        ]
+    },
+    {
+        "name": "candace|lailani",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (candace|lailani)",
+                "access_rules": [
+                    "$pair_unlocked|candace|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (candace|lailani)",
+                "access_rules": [
+                    "$pair_unlocked|candace|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace|nora",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (candace|nora)",
+                "access_rules": [
+                    "$pair_unlocked|candace|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (candace|nora)",
+                "access_rules": [
+                    "$pair_unlocked|candace|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace|polly",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (candace|polly)",
+                "access_rules": [
+                    "$pair_unlocked|candace|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (candace|polly)",
+                "access_rules": [
+                    "$pair_unlocked|candace|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

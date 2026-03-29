@@ -1,0 +1,482 @@
+[
+    {
+        "name": "abia Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite drink",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Music Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Movie Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Online Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia App Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Phone App",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Friday Night",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Weather",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Holiday",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Pet",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite School Subject",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Place to shop",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Own Body Part",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Sex Position",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Porn Category",
+                "access_rules": 
+                [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

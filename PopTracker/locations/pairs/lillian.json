@@ -1,0 +1,94 @@
+[
+    {
+        "name": "lillian|abia",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (abia|lillian)",
+                "ref": "abia|lillian/Pair Attracted (abia|lillian)"
+            },
+            {
+                "name": "Pair Lovers (abia|lillian)",
+                "ref": "abia|lillian/Pair Lovers (abia|lillian)"
+            }
+        ]
+    },
+    {
+        "name": "lillian|ashley",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (ashley|lillian)",
+                "ref": "ashley|lillian/Pair Attracted (ashley|lillian)"
+            },
+            {
+                "name": "Pair Lovers (ashley|lillian)",
+                "ref": "ashley|lillian/Pair Lovers (ashley|lillian)"
+            }
+        ]
+    },
+    {
+        "name": "lillian|lailani",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (lailani|lillian)",
+                "ref": "lailani|lillian/Pair Attracted (lailani|lillian)"
+            },
+            {
+                "name": "Pair Lovers (lailani|lillian)",
+                "ref": "lailani|lillian/Pair Lovers (lailani|lillian)"
+            }
+        ]
+    },
+    {
+        "name": "lillian|zoey",
+        "map_locations": [
+            {
+                "map": "lillian",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (lillian|zoey)",
+                "access_rules": [
+                    "$pair_unlocked|lillian|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lillian|zoey)",
+                "access_rules": [
+                    "$pair_unlocked|lillian|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

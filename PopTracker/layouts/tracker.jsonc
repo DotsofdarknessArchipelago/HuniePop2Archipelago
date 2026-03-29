@@ -1,0 +1,205 @@
+{
+  //sets the trackers layout
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Pairs",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "pair_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Girls",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "girl_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Unique Gifts",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "unique_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Shoe Gifts",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "shoe_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Outfits",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "outfit_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Wings",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "wing_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+                "title": "abia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "abia"
+                    ]
+                }
+            },
+            {
+                "title": "ashley",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ashley"
+                    ]
+                }
+            },
+            {
+                "title": "brooke",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "brooke"
+                    ]
+                }
+            },
+            {
+                "title": "candace",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "candace"
+                    ]
+                }
+            },
+            {
+                "title": "jessie",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "jessie"
+                    ]
+                }
+            },
+            {
+                "title": "lailani",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "lailani"
+                    ]
+                }
+            },
+            {
+                "title": "lillian",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "lillian"
+                    ]
+                }
+            },
+            {
+                "title": "lola",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "lola"
+                    ]
+                }
+            },
+            {
+                "title": "nora",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "nora"
+                    ]
+                }
+            },
+            {
+                "title": "polly",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "polly"
+                    ]
+                }
+            },
+            {
+                "title": "sarah",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "sarah"
+                    ]
+                }
+            },
+            {
+                "title": "zoey",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "zoey"
+                    ]
+                }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

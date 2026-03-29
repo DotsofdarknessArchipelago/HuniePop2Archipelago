@@ -1,0 +1,74 @@
+[
+    {
+        "name": "abia",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/abia.png"
+    },
+    {
+        "name": "ashley",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/ashley.png"
+    },
+    {
+        "name": "brooke",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/brooke.png"
+    },
+    {
+        "name": "candace",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/candace.png"
+    },
+    {
+        "name": "jessie",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/jessie.png"
+    },
+    {
+        "name": "lailani",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/lailani.png"
+    },
+    {
+        "name": "lillian",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/lillian.png"
+    },
+    {
+        "name": "lola",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/lola.png"
+    },
+    {
+        "name": "nora",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/nora.png"
+    },
+    {
+        "name": "polly",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/polly.png"
+    },
+    {
+        "name": "sarah",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/sarah.png"
+    },
+    {
+        "name": "zoey",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/zoey.png"
+    }
+]

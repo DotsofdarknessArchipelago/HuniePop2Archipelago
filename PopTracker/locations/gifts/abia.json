@@ -1,0 +1,3002 @@
+[
+    {
+        "name": "abia Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "480",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|1|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "587",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|2|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "693",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|3|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "800",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_unique_gift_id|abia|4|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "480",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|1|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "587",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|2|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "693",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|3|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "800",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift abia Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|abia"],
+                "visibility_rules": ["$girl_shoe_gift_id|abia|4|248"],
+                "item_count": 1
+            }
+        ]
+    }
+]

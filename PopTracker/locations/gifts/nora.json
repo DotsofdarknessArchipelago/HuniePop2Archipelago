@@ -1,0 +1,3002 @@
+[
+    {
+        "name": "nora Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "480",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|1|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "587",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|2|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "693",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|3|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "800",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_unique_gift_id|nora|4|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "480",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|1|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "587",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|2|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "693",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|3|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "800",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift nora Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|nora"],
+                "visibility_rules": ["$girl_shoe_gift_id|nora|4|248"],
+                "item_count": 1
+            }
+        ]
+    }
+]

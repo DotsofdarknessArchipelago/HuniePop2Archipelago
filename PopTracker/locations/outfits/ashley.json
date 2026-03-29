@@ -1,0 +1,212 @@
+[
+    {
+        "name": "ashley Outfit 1",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date ashley in Stay Black Outfit",
+                "access_rules": [
+                    "ashleystayblackoutfit,$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Outfit 2",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date ashley in Skater Girl Outfit",
+                "access_rules": [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Outfit 3",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date ashley in Punk Rock Outfit",
+                "access_rules": [
+                    "ashleypunkrockoutfit,$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Outfit 4",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date ashley in On Brand Outfit",
+                "access_rules": [
+                    "ashleyonbrandoutfit,$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Outfit 5",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date ashley in Red Thread Outfit",
+                "access_rules": [
+                    "ashleyredthreadoutfit,$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Outfit 6",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date ashley in Black Fly Outfit",
+                "access_rules": [
+                    "ashleyblackflyoutfit,$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Outfit 7",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date ashley in Clamouflage Outfit",
+                "access_rules": [
+                    "ashleyclamouflageoutfit,$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Outfit 8",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date ashley in Bumble Bea Outfit",
+                "access_rules": [
+                    "ashleybumblebeaoutfit,$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Outfit 9",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date ashley in Astronautical Outfit",
+                "access_rules": [
+                    "ashleyastronauticaloutfit,$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Outfit 10",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date ashley in Lazy Teacher Outfit",
+                "access_rules": [
+                    "ashleylazyteacheroutfit,$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

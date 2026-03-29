@@ -1,0 +1,212 @@
+[
+    {
+        "name": "nora Outfit 1",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date nora in Housekeeping Outfit",
+                "access_rules": [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Outfit 2",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date nora in Caliente Outfit",
+                "access_rules": [
+                    "noracalienteoutfit,$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Outfit 3",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date nora in Badass Bitch Outfit",
+                "access_rules": [
+                    "norabadassbitchoutfit,$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Outfit 4",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date nora in Streetwear Outfit",
+                "access_rules": [
+                    "norastreetwearoutfit,$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Outfit 5",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date nora in Aquarius Outfit",
+                "access_rules": [
+                    "noraaquariusoutfit,$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Outfit 6",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date nora in Nighty Night Outfit",
+                "access_rules": [
+                    "noranightynightoutfit,$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Outfit 7",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date nora in Spiral Scout Outfit",
+                "access_rules": [
+                    "noraspiralscoutoutfit,$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Outfit 8",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date nora in Tough Gal Outfit",
+                "access_rules": [
+                    "noratoughgaloutfit,$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Outfit 9",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date nora in Gangster Outfit",
+                "access_rules": [
+                    "noragangsteroutfit,$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Outfit 10",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date nora in Cousinly Love Outfit",
+                "access_rules": [
+                    "noracousinlyloveoutfit,$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

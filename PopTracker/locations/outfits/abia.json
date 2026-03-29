@@ -1,0 +1,212 @@
+[
+    {
+        "name": "abia Outfit 1",
+        "map_locations": [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date abia in Traditional Outfit",
+                "access_rules": [
+                    "$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Outfit 2",
+        "map_locations": [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date abia in Flarora Outfit",
+                "access_rules": [
+                    "abiaflaroraoutfit,$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Outfit 3",
+        "map_locations": [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date abia in Modesty Outfit",
+                "access_rules": [
+                    "abiamodestyoutfit,$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Outfit 4",
+        "map_locations": [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date abia in Arabian Allure Outfit",
+                "access_rules": [
+                    "abiaarabianallureoutfit,$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Outfit 5",
+        "map_locations": [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date abia in Invisikini Outfit",
+                "access_rules": [
+                    "abiainvisikinioutfit,$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Outfit 6",
+        "map_locations": [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date abia in Silk Road Outfit",
+                "access_rules": [
+                    "abiasilkroadoutfit,$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Outfit 7",
+        "map_locations": [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date abia in Morning Delight Outfit",
+                "access_rules": [
+                    "abiamorningdelightoutfit,$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Outfit 8",
+        "map_locations": [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date abia in Airport Security Outfit",
+                "access_rules": [
+                    "abiaairportsecurityoutfit,$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Outfit 9",
+        "map_locations": [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date abia in Assassin Outfit",
+                "access_rules": [
+                    "abiaassassinoutfit,$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia Outfit 10",
+        "map_locations": [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date abia in Birthday Suit Outfit",
+                "access_rules": [
+                    "abiabirthdaysuitoutfit,$girl_unlocked|abia"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

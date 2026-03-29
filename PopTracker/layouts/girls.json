@@ -1,0 +1,59 @@
+{
+    "girl_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "center",
+                        "rows": [
+                            [
+                                "unlockgirl(abia)"
+                            ],
+                            [
+                                "unlockgirl(ashley)"
+                            ],
+                            [
+                                "unlockgirl(brooke)"
+                            ],
+                            [
+                                "unlockgirl(candace)"
+                            ],
+                            [
+                                "unlockgirl(jessie)"
+                            ],
+                            [
+                                "unlockgirl(lailani)"
+                            ],
+                            [
+                                "unlockgirl(lillian)"
+                            ],
+                            [
+                                "unlockgirl(lola)"
+                            ],
+                            [
+                                "unlockgirl(nora)"
+                            ],
+                            [
+                                "unlockgirl(polly)"
+                            ],
+                            [
+                                "unlockgirl(sarah)"
+                            ],
+                            [
+                                "unlockgirl(zoey)"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

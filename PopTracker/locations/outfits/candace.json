@@ -1,0 +1,212 @@
+[
+    {
+        "name": "candace Outfit 1",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date candace in Buckled Up Outfit",
+                "access_rules": [
+                    "candacebuckledupoutfit,$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Outfit 2",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date candace in Candy Wrapper Outfit",
+                "access_rules": [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Outfit 3",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date candace in Vanilla Cream Outfit",
+                "access_rules": [
+                    "candacevanillacreamoutfit,$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Outfit 4",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date candace in Shiny Treasure Outfit",
+                "access_rules": [
+                    "candaceshinytreasureoutfit,$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Outfit 5",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date candace in Splish Splash Outfit",
+                "access_rules": [
+                    "candacesplishsplashoutfit,$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Outfit 6",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date candace in Strawberry Milk Outfit",
+                "access_rules": [
+                    "candacestrawberrymilkoutfit,$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Outfit 7",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date candace in Onahole Outfit",
+                "access_rules": [
+                    "candaceonaholeoutfit,$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Outfit 8",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date candace in Law & Order Outfit",
+                "access_rules": [
+                    "candacelaw&orderoutfit,$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Outfit 9",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date candace in Health Care Outfit",
+                "access_rules": [
+                    "candacehealthcareoutfit,$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Outfit 10",
+        "map_locations": [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date candace in Flasher Outfit",
+                "access_rules": [
+                    "candaceflasheroutfit,$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

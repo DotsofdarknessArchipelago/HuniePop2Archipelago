@@ -162,11 +162,13 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //if item id is between 69420000 and 69420025 process item as Fairy Wings
                 if (ArchipelagoClient.alist.list[i].Id > fairy_wings_item_start && ArchipelagoClient.alist.list[i].Id <= token_item_start)
                 {
+                    ArchipelagoConsole.debugLogMessage("fairy wings ITEM");
                     //get girl pair based on the id-69420000 to get the girl id
                     GirlPairDefinition def = Game.Data.GirlPairs.Get((int)ArchipelagoClient.alist.list[i].Id - (int)fairy_wings_item_start);
                     //add girl pair to list of completed girl pairs or if pair is already in the list output warning
                     if (!file.completedGirlPairs.Contains(def))
                     {
+                        ArchipelagoConsole.debugLogMessage("adding firy wings ITEM");
                         file.completedGirlPairs.Add(def);
                         ArchipelagoConsole.LogMessage("<color=green>" + def.name + " WING ITEM PROCESSED</color>");
                         ArchipelagoClient.alist.list[i].processed = true;
@@ -180,6 +182,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //if item id is between 69420024 and 69420057 process item as Token Power Level Up
                 else if (ArchipelagoClient.alist.list[i].Id > token_item_start && ArchipelagoClient.alist.list[i].Id <= girl_unlock_item_start)
                 {
+                    ArchipelagoConsole.debugLogMessage("power up ITEM");
                     //just say the item is prcessed as the token power up is handled elsewhere
                     ArchipelagoConsole.LogMessage("<color=green>TOKEN LV-UP PROCESSED</color>");
                     ArchipelagoClient.alist.list[i].processed = true;
@@ -187,6 +190,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //if item id is between 69420056 and 69420069 process item as Girl Unlock
                 else if (ArchipelagoClient.alist.list[i].Id > girl_unlock_item_start && ArchipelagoClient.alist.list[i].Id <= pair_unlock_item_start)
                 {
+                    ArchipelagoConsole.debugLogMessage("girl unlock ITEM");
                     //unlock girl by setting playermet to true
                     GirlDefinition def = Game.Data.Girls.Get((int)ArchipelagoClient.alist.list[i].Id - (int)girl_unlock_item_start);
                     file.GetPlayerFileGirl(def).playerMet = true;
@@ -197,6 +201,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //if item id is between 69420056 and 69420069 process item as Pair Unlock
                 else if (ArchipelagoClient.alist.list[i].Id > pair_unlock_item_start && ArchipelagoClient.alist.list[i].Id <= gift_unique_item_start)
                 {
+                    ArchipelagoConsole.debugLogMessage("girl pair unlock ITEM");
                     //unlock pair by setting RelationshipType from UNKNOWN to COMPATIABLE
                     GirlPairDefinition def = Game.Data.GirlPairs.Get((int)ArchipelagoClient.alist.list[i].Id - (int)pair_unlock_item_start);
                     PlayerFileGirlPair pair = file.GetPlayerFileGirlPair(def);
@@ -217,9 +222,11 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //if item id is between 69420092 and 69420141 process item as Unique Gift Unlock
                 else if (ArchipelagoClient.alist.list[i].Id > gift_unique_item_start && ArchipelagoClient.alist.list[i].Id <= gift_shoe_item_start)
                 {
+                    ArchipelagoConsole.debugLogMessage("unique gift ITEM");
                     //check if the players inventory is full if not add the relevient unique item
                     if (!file.IsInventoryFull())
                     {
+                        ArchipelagoConsole.debugLogMessage("adding unique gift ITEM");
                         ItemDefinition def = Game.Data.Items.Get(IDs.uniqueoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - gift_unique_item_start)));
                         file.AddInventoryItem(def);
                         ArchipelagoConsole.LogMessage("<color=green>" + def.itemName + " UNIQUE GIFT OBTAINED AND CAN NOW BE FOUND IN THE SHOP</color>");
@@ -233,9 +240,11 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //if item id is between 69420140 and 69420189 process item as Shoe Gift Unlock
                 else if (ArchipelagoClient.alist.list[i].Id > gift_shoe_item_start && ArchipelagoClient.alist.list[i].Id <= lola_baggage_item_start)
                 {
+                    ArchipelagoConsole.debugLogMessage("shoe gift ITEM");
                     //check if the players inventory is full if not add the relevient shoe item
                     if (!file.IsInventoryFull())
                     {
+                        ArchipelagoConsole.debugLogMessage("adding shoe gift ITEM");
                         ItemDefinition def = Game.Data.Items.Get(IDs.shoeoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - gift_shoe_item_start)));
                         file.AddInventoryItem(def);
                         ArchipelagoConsole.LogMessage("<color=green>" + def.itemName + " SHOES GIFT OBTAINED AND CAN NOW BE FOUND IN THE SHOP</color>");
@@ -249,66 +258,79 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //if item id is between 69420188 and 69420225 process item as Baggage Unlock
                 else if (ArchipelagoClient.alist.list[i].Id > lola_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= outfits_item_start)
                 {
+                    ArchipelagoConsole.debugLogMessage("GIRL BAGGAGE ITEM");
                     //overwrite the custom baggage with the regular baggage
                     GirlDefinition def;
                     ItemDefinition bagdef;
-                    if (ArchipelagoClient.alist.list[i].Id > lola_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= jessie_baggage_item_start ) 
-                    { 
+                    if (ArchipelagoClient.alist.list[i].Id > lola_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= jessie_baggage_item_start )
+                    {
+                        ArchipelagoConsole.debugLogMessage("LOLA BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(1);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - lola_baggage_item_start)));
                     }
-                    else if (ArchipelagoClient.alist.list[i].Id > jessie_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= lillian_baggage_item_start ) 
-                    { 
+                    else if (ArchipelagoClient.alist.list[i].Id > jessie_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= lillian_baggage_item_start )
+                    {
+                        ArchipelagoConsole.debugLogMessage("JESSIE BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(2);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - jessie_baggage_item_start)));
                     }
-                    else if (ArchipelagoClient.alist.list[i].Id > lillian_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= zoey_baggage_item_start ) 
-                    { 
+                    else if (ArchipelagoClient.alist.list[i].Id > lillian_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= zoey_baggage_item_start )
+                    {
+                        ArchipelagoConsole.debugLogMessage("lillian BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(3);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - lillian_baggage_item_start)));
                     }
-                    else if (ArchipelagoClient.alist.list[i].Id > zoey_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= sarah_baggage_item_start ) 
-                    { 
+                    else if (ArchipelagoClient.alist.list[i].Id > zoey_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= sarah_baggage_item_start )
+                    {
+                        ArchipelagoConsole.debugLogMessage("zoey BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(4);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - zoey_baggage_item_start)));
                     }
-                    else if (ArchipelagoClient.alist.list[i].Id > sarah_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= lailani_baggage_item_start ) 
-                    { 
+                    else if (ArchipelagoClient.alist.list[i].Id > sarah_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= lailani_baggage_item_start )
+                    {
+                        ArchipelagoConsole.debugLogMessage("sarah BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(5);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - sarah_baggage_item_start)));
                     }
-                    else if (ArchipelagoClient.alist.list[i].Id > lailani_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= candace_baggage_item_start ) 
-                    { 
+                    else if (ArchipelagoClient.alist.list[i].Id > lailani_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= candace_baggage_item_start )
+                    {
+                        ArchipelagoConsole.debugLogMessage("lailani BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(6);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - lailani_baggage_item_start)));
                     }
-                    else if (ArchipelagoClient.alist.list[i].Id > candace_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= nora_baggage_item_start ) 
-                    { 
+                    else if (ArchipelagoClient.alist.list[i].Id > candace_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= nora_baggage_item_start )
+                    {
+                        ArchipelagoConsole.debugLogMessage("candace BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(7);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - candace_baggage_item_start)));
                     }
-                    else if (ArchipelagoClient.alist.list[i].Id > nora_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= brooke_baggage_item_start ) 
-                    { 
+                    else if (ArchipelagoClient.alist.list[i].Id > nora_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= brooke_baggage_item_start )
+                    {
+                        ArchipelagoConsole.debugLogMessage("nora BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(8);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - nora_baggage_item_start)));
                     }
-                    else if (ArchipelagoClient.alist.list[i].Id > brooke_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= ashley_baggage_item_start ) 
-                    { 
+                    else if (ArchipelagoClient.alist.list[i].Id > brooke_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= ashley_baggage_item_start )
+                    {
+                        ArchipelagoConsole.debugLogMessage("brooke BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(9);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - brooke_baggage_item_start)));
                     }
-                    else if (ArchipelagoClient.alist.list[i].Id > ashley_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= abia_baggage_item_start ) 
-                    { 
+                    else if (ArchipelagoClient.alist.list[i].Id > ashley_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= abia_baggage_item_start )
+                    {
+                        ArchipelagoConsole.debugLogMessage("ashley BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(10);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - ashley_baggage_item_start)));
                     }
-                    else if (ArchipelagoClient.alist.list[i].Id > abia_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= polly_baggage_item_start) 
-                    { 
+                    else if (ArchipelagoClient.alist.list[i].Id > abia_baggage_item_start && ArchipelagoClient.alist.list[i].Id <= polly_baggage_item_start)
+                    {
+                        ArchipelagoConsole.debugLogMessage("abia BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(11);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - abia_baggage_item_start)));
                     }
-                    else 
-                    { 
+                    else
+                    {
+                        ArchipelagoConsole.debugLogMessage("polly BAGGAGE ITEM");
                         def = Game.Data.Girls.Get(12);
                         bagdef = Game.Data.Items.Get(IDs.baggageoffsettoid((int)(ArchipelagoClient.alist.list[i].Id - polly_baggage_item_start)));
                     }
@@ -322,6 +344,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //if item id is between 69420224 and 69420345 process item as Outfit Unlock
                 else if (ArchipelagoClient.alist.list[i].Id > outfits_item_start && ArchipelagoClient.alist.list[i].Id <= filler_item_start)
                 {
+                    ArchipelagoConsole.debugLogMessage("GIRL OUTFIT ITEM");
                     //add relevant outfit/style to the relivent girl
                     int u = (int)(ArchipelagoClient.alist.list[i].Id - outfits_item_start -1);
                     int girlid = (u / 10) + 1;
@@ -342,13 +365,14 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                     //if item id is 69420345 do nothing as its a nothing item
                     if ((int)ArchipelagoClient.alist.list[i].Id == (arch_item_start +1))
                     {
-                        //ArchipelagoConsole.LogMessage("nothing");
+                        ArchipelagoConsole.debugLogMessage("skipping nothing item");
                         ArchipelagoConsole.LogMessage("<color=green>OBTAINED NOTHING</color>");
                         ArchipelagoClient.alist.list[i].processed = true;
                     }
                     //if item id is 69420421 and a random amount of token/seeds to the player
-                    else if ((int)ArchipelagoClient.alist.list[i].Id == (arch_item_start + 1))
+                    else if ((int)ArchipelagoClient.alist.list[i].Id == (arch_item_start + 2))
                     {
+                        ArchipelagoConsole.debugLogMessage("adding seeds to inv");
                         //ArchipelagoConsole.LogMessage("tokens");
 
                         int b = UnityEngine.Random.Range(0, 20);
@@ -366,12 +390,14 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                     //skip these arch items
                     else if ((int)ArchipelagoClient.alist.list[i].Id == (arch_item_start + 3) || (int)ArchipelagoClient.alist.list[i].Id == (arch_item_start + 4))
                     {
+                        ArchipelagoConsole.debugLogMessage("skipping arch item");
                         ArchipelagoClient.alist.list[i].processed = true;
                     }
                     //otherwise add the relivent item to the players inventory if not full
                     else
                     {
-                        if (!file.IsInventoryFull())
+                        ArchipelagoConsole.debugLogMessage("adding game item to inv");
+                        if (!file.IsInventoryFull() && IDs.filleroffsettoid((int)(ArchipelagoClient.alist.list[i].Id - filler_item_start)) != -1)
                         {
                             ArchipelagoConsole.LogMessage(Game.Data.Items.Get(IDs.filleroffsettoid((int)(ArchipelagoClient.alist.list[i].Id - filler_item_start))).name);
                             //file.AddInventoryItem(Game.Data.Items.Get(Util.itemflagtoid((int)ArchipelagoClient.alist.list[i].item.ItemId)));
@@ -398,6 +424,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 }
 
             }
+
+            ArchipelagoConsole.debugLogMessage("PROCESSING ITEMS DONE");
         }
     }
 }

@@ -1,0 +1,3002 @@
+[
+    {
+        "name": "zoey Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "480",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|1|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "587",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|2|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "693",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|3|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "800",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_unique_gift_id|zoey|4|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "480",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|1|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "587",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|2|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "693",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|3|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "800",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift zoey Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|zoey"],
+                "visibility_rules": ["$girl_shoe_gift_id|zoey|4|248"],
+                "item_count": 1
+            }
+        ]
+    }
+]

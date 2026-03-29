@@ -1,0 +1,2666 @@
+[
+    {
+        "name": "pairunlock(abia|candace)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(abia.candace).png",
+        "codes": "pairunlock(abia|candace)"
+    },
+    {
+        "name": "pairunlock(abia|jessie)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(abia.jessie).png",
+        "codes": "pairunlock(abia|jessie)"
+    },
+    {
+        "name": "pairunlock(abia|lillian)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(abia.lillian).png",
+        "codes": "pairunlock(abia|lillian)"
+    },
+    {
+        "name": "pairunlock(abia|lola)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(abia.lola).png",
+        "codes": "pairunlock(abia|lola)"
+    },
+    {
+        "name": "pairunlock(ashley|brooke)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(ashley.brooke).png",
+        "codes": "pairunlock(ashley|brooke)"
+    },
+    {
+        "name": "pairunlock(ashley|lillian)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(ashley.lillian).png",
+        "codes": "pairunlock(ashley|lillian)"
+    },
+    {
+        "name": "pairunlock(ashley|nora)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(ashley.nora).png",
+        "codes": "pairunlock(ashley|nora)"
+    },
+    {
+        "name": "pairunlock(ashley|polly)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(ashley.polly).png",
+        "codes": "pairunlock(ashley|polly)"
+    },
+    {
+        "name": "pairunlock(brooke|jessie)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(brooke.jessie).png",
+        "codes": "pairunlock(brooke|jessie)"
+    },
+    {
+        "name": "pairunlock(brooke|polly)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(brooke.polly).png",
+        "codes": "pairunlock(brooke|polly)"
+    },
+    {
+        "name": "pairunlock(brooke|sarah)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(brooke.sarah).png",
+        "codes": "pairunlock(brooke|sarah)"
+    },
+    {
+        "name": "pairunlock(candace|lailani)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(candace.lailani).png",
+        "codes": "pairunlock(candace|lailani)"
+    },
+    {
+        "name": "pairunlock(candace|nora)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(candace.nora).png",
+        "codes": "pairunlock(candace|nora)"
+    },
+    {
+        "name": "pairunlock(candace|polly)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(candace.polly).png",
+        "codes": "pairunlock(candace|polly)"
+    },
+    {
+        "name": "pairunlock(jessie|lailani)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(jessie.lailani).png",
+        "codes": "pairunlock(jessie|lailani)"
+    },
+    {
+        "name": "pairunlock(jessie|lola)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(jessie.lola).png",
+        "codes": "pairunlock(jessie|lola)"
+    },
+    {
+        "name": "pairunlock(lailani|lillian)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(lailani.lillian).png",
+        "codes": "pairunlock(lailani|lillian)"
+    },
+    {
+        "name": "pairunlock(lailani|sarah)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(lailani.sarah).png",
+        "codes": "pairunlock(lailani|sarah)"
+    },
+    {
+        "name": "pairunlock(lillian|zoey)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(lillian.zoey).png",
+        "codes": "pairunlock(lillian|zoey)"
+    },
+    {
+        "name": "pairunlock(lola|nora)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(lola.nora).png",
+        "codes": "pairunlock(lola|nora)"
+    },
+    {
+        "name": "pairunlock(lola|zoey)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(lola.zoey).png",
+        "codes": "pairunlock(lola|zoey)"
+    },
+    {
+        "name": "pairunlock(nora|sarah)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(nora.sarah).png",
+        "codes": "pairunlock(nora|sarah)"
+    },
+    {
+        "name": "pairunlock(polly|zoey)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(polly.zoey).png",
+        "codes": "pairunlock(polly|zoey)"
+    },
+    {
+        "name": "pairunlock(sarah|zoey)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(sarah.zoey).png",
+        "codes": "pairunlock(sarah|zoey)"
+    },
+
+
+
+
+    {
+        "name": "unlockgirl(abia)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(abia).png",
+        "codes": "unlockgirl(abia)"
+    },
+    {
+        "name": "unlockgirl(ashley)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(ashley).png",
+        "codes": "unlockgirl(ashley)"
+    },
+    {
+        "name": "unlockgirl(brooke)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(brooke).png",
+        "codes": "unlockgirl(brooke)"
+    },
+    {
+        "name": "unlockgirl(candace)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(candace).png",
+        "codes": "unlockgirl(candace)"
+    },
+    {
+        "name": "unlockgirl(jessie)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(jessie).png",
+        "codes": "unlockgirl(jessie)"
+    },
+    {
+        "name": "unlockgirl(lailani)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(lailani).png",
+        "codes": "unlockgirl(lailani)"
+    },
+    {
+        "name": "unlockgirl(lillian)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(lillian).png",
+        "codes": "unlockgirl(lillian)"
+    },
+    {
+        "name": "unlockgirl(lola)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(lola).png",
+        "codes": "unlockgirl(lola)"
+    },
+    {
+        "name": "unlockgirl(nora)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(nora).png",
+        "codes": "unlockgirl(nora)"
+    },
+    {
+        "name": "unlockgirl(polly)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(polly).png",
+        "codes": "unlockgirl(polly)"
+    },
+    {
+        "name": "unlockgirl(sarah)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(sarah).png",
+        "codes": "unlockgirl(sarah)"
+    },
+    {
+        "name": "unlockgirl(zoey)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(zoey).png",
+        "codes": "unlockgirl(zoey)"
+    },
+
+
+
+
+    {
+        "name": "Scissors Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Scissors.png",
+        "codes": "scissorsuniquegift"
+    },
+    {
+        "name": "Spool Of Thread Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Spool Of Thread.png",
+        "codes": "spoolofthreaduniquegift"
+    },
+    {
+        "name": "Buttons Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Buttons.png",
+        "codes": "buttonsuniquegift"
+    },
+    {
+        "name": "Pincushion Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Pincushion.png",
+        "codes": "pincushionuniquegift"
+    },
+    {
+        "name": "Measuring Tape Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Measuring Tape.png",
+        "codes": "measuringtapeuniquegift"
+    },
+    {
+        "name": "Gin Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Gin.png",
+        "codes": "ginuniquegift"
+    },
+    {
+        "name": "Rum Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Rum.png",
+        "codes": "rumuniquegift"
+    },
+    {
+        "name": "Whisky Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Whisky.png",
+        "codes": "whiskyuniquegift"
+    },
+    {
+        "name": "Vodka Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Vodka.png",
+        "codes": "vodkauniquegift"
+    },
+    {
+        "name": "Tequila Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Tequila.png",
+        "codes": "tequilauniquegift"
+    },
+    {
+        "name": "Witch Hat Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Witch Hat.png",
+        "codes": "witchhatuniquegift"
+    },
+    {
+        "name": "Jack O Lantern Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Jack O Lantern.png",
+        "codes": "jack-o'-lanternuniquegift"
+    },
+    {
+        "name": "Ouija Board Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Ouija Board.png",
+        "codes": "ouijaboarduniquegift"
+    },
+    {
+        "name": "Voodoo Doll Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Voodoo Doll.png",
+        "codes": "voodoodolluniquegift"
+    },
+    {
+        "name": "Goat Skull Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Goat Skull.png",
+        "codes": "goatskulluniquegift"
+    },
+    {
+        "name": "Crystals Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Crystals.png",
+        "codes": "crystalsuniquegift"
+    },
+    {
+        "name": "Crystal Ball Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Crystal Ball.png",
+        "codes": "crystalballuniquegift"
+    },
+    {
+        "name": "Incense Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Incense.png",
+        "codes": "incenseuniquegift"
+    },
+    {
+        "name": "Hourglass Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Hourglass.png",
+        "codes": "hourglassuniquegift"
+    },
+    {
+        "name": "Tarot Cards Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Tarot Cards.png",
+        "codes": "tarotcardsuniquegift"
+    },
+    {
+        "name": "Manga Book Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Manga Book.png",
+        "codes": "mangabookuniquegift"
+    },
+    {
+        "name": "Booby Mousepad Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Booby Mousepad.png",
+        "codes": "boobymousepaduniquegift"
+    },
+    {
+        "name": "Cellphone Cover Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Cellphone Cover.png",
+        "codes": "cellphonecoveruniquegift"
+    },
+    {
+        "name": "Chibi Figurine Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Chibi Figurine.png",
+        "codes": "chibifigurineuniquegift"
+    },
+    {
+        "name": "Japanese Candy Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Japanese Candy.png",
+        "codes": "japanesecandyuniquegift"
+    },
+    {
+        "name": "Bath Salts Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Bath Salts.png",
+        "codes": "bathsaltsuniquegift"
+    },
+    {
+        "name": "Hot Stones Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Hot Stones.png",
+        "codes": "hotstonesuniquegift"
+    },
+    {
+        "name": "Loofah Sponge Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Loofah Sponge.png",
+        "codes": "loofahspongeuniquegift"
+    },
+    {
+        "name": "Warm Towels Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Warm Towels.png",
+        "codes": "warmtowelsuniquegift"
+    },
+    {
+        "name": "Cucumber Slices Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Cucumber Slices.png",
+        "codes": "cucumberslicesuniquegift"
+    },
+    {
+        "name": "Letter Blocks Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Letter Blocks.png",
+        "codes": "letterblocksuniquegift"
+    },
+    {
+        "name": "Ring Stacker Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Ring Stacker.png",
+        "codes": "ringstackeruniquegift"
+    },
+    {
+        "name": "Mini Xylophone Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Mini Xylophone.png",
+        "codes": "minixylophoneuniquegift"
+    },
+    {
+        "name": "Shapes Block Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Shapes Block.png",
+        "codes": "shapesblockuniquegift"
+    },
+    {
+        "name": "Animal Wheel Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Animal Wheel.png",
+        "codes": "animalwheeluniquegift"
+    },
+    {
+        "name": "Binky Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Binky.png",
+        "codes": "binkyuniquegift"
+    },
+    {
+        "name": "Baby Cap Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Baby Cap.png",
+        "codes": "babycapuniquegift"
+    },
+    {
+        "name": "Diapers Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Diapers.png",
+        "codes": "diapersuniquegift"
+    },
+    {
+        "name": "Baby Bottle Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Baby Bottle.png",
+        "codes": "babybottleuniquegift"
+    },
+    {
+        "name": "Car Carrier Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Car Carrier.png",
+        "codes": "carcarrieruniquegift"
+    },
+    {
+        "name": "Clutch Purse Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Clutch Purse.png",
+        "codes": "clutchpurseuniquegift"
+    },
+    {
+        "name": "Shoulder Bag Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Shoulder Bag.png",
+        "codes": "shoulderbaguniquegift"
+    },
+    {
+        "name": "Quilted Handbag Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Quilted Handbag.png",
+        "codes": "quiltedhandbaguniquegift"
+    },
+    {
+        "name": "Fancy Handbag Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Fancy Handbag.png",
+        "codes": "fancyhandbaguniquegift"
+    },
+    {
+        "name": "Elegant Tote Bag Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Elegant Tote Bag.png",
+        "codes": "eleganttotebaguniquegift"
+    },
+    {
+        "name": "Microphone Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Microphone.png",
+        "codes": "microphoneuniquegift"
+    },
+    {
+        "name": "Bass Guitar Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Bass Guitar.png",
+        "codes": "bassguitaruniquegift"
+    },
+    {
+        "name": "Drum Kit Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Drum Kit.png",
+        "codes": "drumkituniquegift"
+    },
+    {
+        "name": "Drum Sticks Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Drum Sticks.png",
+        "codes": "drumsticksuniquegift"
+    },
+    {
+        "name": "Guitar Amp Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Guitar Amp.png",
+        "codes": "guitarampuniquegift"
+    },
+    {
+        "name": "Spanking Paddle Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Spanking Paddle.png",
+        "codes": "spankingpaddleuniquegift"
+    },
+    {
+        "name": "Ball Gag Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Ball Gag.png",
+        "codes": "ballgaguniquegift"
+    },
+    {
+        "name": "Nipple Clamps Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Nipple Clamps.png",
+        "codes": "nippleclampsuniquegift"
+    },
+    {
+        "name": "Handcuffs Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Handcuffs.png",
+        "codes": "handcuffsuniquegift"
+    },
+    {
+        "name": "Chain Collar Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Chain Collar.png",
+        "codes": "chaincollaruniquegift"
+    },
+    {
+        "name": "Television Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Television.png",
+        "codes": "televisionuniquegift"
+    },
+    {
+        "name": "Jukebox Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Jukebox.png",
+        "codes": "jukeboxuniquegift"
+    },
+    {
+        "name": "Phonograph Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Phonograph.png",
+        "codes": "phonographuniquegift"
+    },
+    {
+        "name": "Radio Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Radio.png",
+        "codes": "radiouniquegift"
+    },
+    {
+        "name": "Soda Machine Unique Gift",
+        "type": "toggle",
+        "img": "images/items/Soda Machine.png",
+        "codes": "sodamachineuniquegift"
+    },
+
+
+
+
+    {
+        "name": "Knitted Boots Gift",
+        "type": "toggle",
+        "img": "images/items/Knitted Boots.png",
+        "codes": "knittedbootsgift"
+    },
+    {
+        "name": "Seasonal Boots Gift",
+        "type": "toggle",
+        "img": "images/items/Seasonal Boots.png",
+        "codes": "seasonalbootsgift"
+    },
+    {
+        "name": "Heavy Boots Gift",
+        "type": "toggle",
+        "img": "images/items/Heavy Boots.png",
+        "codes": "heavybootsgift"
+    },
+    {
+        "name": "Fuzzy Boots Gift",
+        "type": "toggle",
+        "img": "images/items/Fuzzy Boots.png",
+        "codes": "fuzzybootsgift"
+    },
+    {
+        "name": "Festive Boots Gift",
+        "type": "toggle",
+        "img": "images/items/Festive Boots.png",
+        "codes": "festivebootsgift"
+    },
+    {
+        "name": "Elegant Peep Toes Gift",
+        "type": "toggle",
+        "img": "images/items/Elegant Peep Toes.png",
+        "codes": "elegantpeeptoesgift"
+    },
+    {
+        "name": "Angel Peep Toes Gift",
+        "type": "toggle",
+        "img": "images/items/Angel Peep Toes.png",
+        "codes": "angelpeeptoesgift"
+    },
+    {
+        "name": "Plaid Peep Toes Gift",
+        "type": "toggle",
+        "img": "images/items/Plaid Peep Toes.png",
+        "codes": "plaidpeeptoesgift"
+    },
+    {
+        "name": "Ribbon Peep Toes Gift",
+        "type": "toggle",
+        "img": "images/items/Ribbon Peep Toes.png",
+        "codes": "ribbonpeeptoesgift"
+    },
+    {
+        "name": "Leopard Peep Toes Gift",
+        "type": "toggle",
+        "img": "images/items/Leopard Peep Toes.png",
+        "codes": "leopardpeeptoesgift"
+    },
+    {
+        "name": "Suede Booties Gift",
+        "type": "toggle",
+        "img": "images/items/Suede Booties.png",
+        "codes": "suedebootiesgift"
+    },
+    {
+        "name": "Striped Booties Gift",
+        "type": "toggle",
+        "img": "images/items/Striped Booties.png",
+        "codes": "stripedbootiesgift"
+    },
+    {
+        "name": "Goth Booties Gift",
+        "type": "toggle",
+        "img": "images/items/Goth Booties.png",
+        "codes": "gothbootiesgift"
+    },
+    {
+        "name": "Abstract Booties Gift",
+        "type": "toggle",
+        "img": "images/items/Abstract Booties.png",
+        "codes": "abstractbootiesgift"
+    },
+    {
+        "name": "Satanic Booties Gift",
+        "type": "toggle",
+        "img": "images/items/Satanic Booties.png",
+        "codes": "satanicbootiesgift"
+    },
+    {
+        "name": "Astro Boots Gift",
+        "type": "toggle",
+        "img": "images/items/Astro Boots.png",
+        "codes": "astrobootsgift"
+    },
+    {
+        "name": "Sacred Boots Gift",
+        "type": "toggle",
+        "img": "images/items/Sacred Boots.png",
+        "codes": "sacredbootsgift"
+    },
+    {
+        "name": "Sherbet Boots Gift",
+        "type": "toggle",
+        "img": "images/items/Sherbet Boots.png",
+        "codes": "sherbetbootsgift"
+    },
+    {
+        "name": "Hydro Boots Gift",
+        "type": "toggle",
+        "img": "images/items/Hydro Boots.png",
+        "codes": "hydrobootsgift"
+    },
+    {
+        "name": "Cosmic Boots Gift",
+        "type": "toggle",
+        "img": "images/items/Cosmic Boots.png",
+        "codes": "cosmicbootsgift"
+    },
+    {
+        "name": "Geta Platforms Gift",
+        "type": "toggle",
+        "img": "images/items/Geta Platforms.png",
+        "codes": "getaplatformsgift"
+    },
+    {
+        "name": "Candy Platforms Gift",
+        "type": "toggle",
+        "img": "images/items/Candy Platforms.png",
+        "codes": "candyplatformsgift"
+    },
+    {
+        "name": "Light Up Platforms Gift",
+        "type": "toggle",
+        "img": "images/items/Light Up Platforms.png",
+        "codes": "lightupplatformsgift"
+    },
+    {
+        "name": "Rainbow Platforms Gift",
+        "type": "toggle",
+        "img": "images/items/Rainbow Platforms.png",
+        "codes": "rainbowplatformsgift"
+    },
+    {
+        "name": "Star Platforms Gift",
+        "type": "toggle",
+        "img": "images/items/Star Platforms.png",
+        "codes": "starplatformsgift"
+    },
+    {
+        "name": "Comfy Flip Flops Gift",
+        "type": "toggle",
+        "img": "images/items/Comfy Flip Flops.png",
+        "codes": "comfyflipflopsgift"
+    },
+    {
+        "name": "Palm Flip Flops Gift",
+        "type": "toggle",
+        "img": "images/items/Palm Flip Flops.png",
+        "codes": "palmflipflopsgift"
+    },
+    {
+        "name": "Melon Flip Flops Gift",
+        "type": "toggle",
+        "img": "images/items/Melon Flip Flops.png",
+        "codes": "melonflipflopsgift"
+    },
+    {
+        "name": "Aqua Flip Flops Gift",
+        "type": "toggle",
+        "img": "images/items/Aqua Flip Flops.png",
+        "codes": "aquaflipflopsgift"
+    },
+    {
+        "name": "Garden Flip Flops Gift",
+        "type": "toggle",
+        "img": "images/items/Garden Flip Flops.png",
+        "codes": "gardenflipflopsgift"
+    },
+    {
+        "name": "Glittery Heels Gift",
+        "type": "toggle",
+        "img": "images/items/Glittery Heels.png",
+        "codes": "glitteryheelsgift"
+    },
+    {
+        "name": "Golden Heels Gift",
+        "type": "toggle",
+        "img": "images/items/Golden Heels.png",
+        "codes": "goldenheelsgift"
+    },
+    {
+        "name": "Studded Heels Gift",
+        "type": "toggle",
+        "img": "images/items/Studded Heels.png",
+        "codes": "studdedheelsgift"
+    },
+    {
+        "name": "Neon Heels Gift",
+        "type": "toggle",
+        "img": "images/items/Neon Heels.png",
+        "codes": "neonheelsgift"
+    },
+    {
+        "name": "Clear Heels Gift",
+        "type": "toggle",
+        "img": "images/items/Clear Heels.png",
+        "codes": "clearheelsgift"
+    },
+    {
+        "name": "Skater Sneakers Gift",
+        "type": "toggle",
+        "img": "images/items/Skater Sneakers.png",
+        "codes": "skatersneakersgift"
+    },
+    {
+        "name": "Ballin' Sneakers Gift",
+        "type": "toggle",
+        "img": "images/items/Ballin' Sneakers.png",
+        "codes": "ballin'sneakersgift"
+    },
+    {
+        "name": "High Top Sneakers Gift",
+        "type": "toggle",
+        "img": "images/items/High Top Sneakers.png",
+        "codes": "hightopsneakersgift"
+    },
+    {
+        "name": "Airy Sneakers Gift",
+        "type": "toggle",
+        "img": "images/items/Airy Sneakers.png",
+        "codes": "airysneakersgift"
+    },
+    {
+        "name": "Training Sneakers Gift",
+        "type": "toggle",
+        "img": "images/items/Training Sneakers.png",
+        "codes": "trainingsneakersgift"
+    },
+    {
+        "name": "Patriotic Wedges Gift",
+        "type": "toggle",
+        "img": "images/items/Patriotic Wedges.png",
+        "codes": "patrioticwedgesgift"
+    },
+    {
+        "name": "Charcoal Wedges Gift",
+        "type": "toggle",
+        "img": "images/items/Charcoal Wedges.png",
+        "codes": "charcoalwedgesgift"
+    },
+    {
+        "name": "Cork Wedges Gift",
+        "type": "toggle",
+        "img": "images/items/Cork Wedges.png",
+        "codes": "corkwedgesgift"
+    },
+    {
+        "name": "Wooden Wedges Gift",
+        "type": "toggle",
+        "img": "images/items/Wooden Wedges.png",
+        "codes": "woodenwedgesgift"
+    },
+    {
+        "name": "Denim Wedges Gift",
+        "type": "toggle",
+        "img": "images/items/Denim Wedges.png",
+        "codes": "denimwedgesgift"
+    },
+    {
+        "name": "Zip Up Gladiators Gift",
+        "type": "toggle",
+        "img": "images/items/Zip Up Gladiators.png",
+        "codes": "zipupgladiatorsgift"
+    },
+    {
+        "name": "Strap Gladiators Gift",
+        "type": "toggle",
+        "img": "images/items/Strap Gladiators.png",
+        "codes": "strapgladiatorsgift"
+    },
+    {
+        "name": "Weave Gladiators Gift",
+        "type": "toggle",
+        "img": "images/items/Weave Gladiators.png",
+        "codes": "weavegladiatorsgift"
+    },
+    {
+        "name": "Modest Gladiators Gift",
+        "type": "toggle",
+        "img": "images/items/Modest Gladiators.png",
+        "codes": "modestgladiatorsgift"
+    },
+    {
+        "name": "Web Gladiators Gift",
+        "type": "toggle",
+        "img": "images/items/Web Gladiators.png",
+        "codes": "webgladiatorsgift"
+    },
+    {
+        "name": "Crafted Flats Gift",
+        "type": "toggle",
+        "img": "images/items/Crafted Flats.png",
+        "codes": "craftedflatsgift"
+    },
+    {
+        "name": "Basic Flats Gift",
+        "type": "toggle",
+        "img": "images/items/Basic Flats.png",
+        "codes": "basicflatsgift"
+    },
+    {
+        "name": "Floral Flats Gift",
+        "type": "toggle",
+        "img": "images/items/Floral Flats.png",
+        "codes": "floralflatsgift"
+    },
+    {
+        "name": "Open Flats Gift",
+        "type": "toggle",
+        "img": "images/items/Open Flats.png",
+        "codes": "openflatsgift"
+    },
+    {
+        "name": "Cozy Flats Gift",
+        "type": "toggle",
+        "img": "images/items/Cozy Flats.png",
+        "codes": "cozyflatsgift"
+    },
+    {
+        "name": "Girly Pumps Gift",
+        "type": "toggle",
+        "img": "images/items/Girly Pumps.png",
+        "codes": "girlypumpsgift"
+    },
+    {
+        "name": "Classy Pumps Gift",
+        "type": "toggle",
+        "img": "images/items/Classy Pumps.png",
+        "codes": "classypumpsgift"
+    },
+    {
+        "name": "Shiny Pumps Gift",
+        "type": "toggle",
+        "img": "images/items/Shiny Pumps.png",
+        "codes": "shinypumpsgift"
+    },
+    {
+        "name": "Polka Dot Pumps Gift",
+        "type": "toggle",
+        "img": "images/items/Polka Dot Pumps.png",
+        "codes": "polkadotpumpsgift"
+    },
+    {
+        "name": "Fancy Pumps Gift",
+        "type": "toggle",
+        "img": "images/items/Fancy Pumps.png",
+        "codes": "fancypumpsgift"
+    },
+
+
+
+
+    {
+        "name": "abiatraditionaloutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "abiatraditionaloutfit"
+    },
+    {
+        "name": "abiaflaroraoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiaflaroraoutfit"
+    },
+    {
+        "name": "abiamodestyoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiamodestyoutfit"
+    },
+    {
+        "name": "abiaarabianallureoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiaarabianallureoutfit"
+    },
+    {
+        "name": "abiainvisikinioutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiainvisikinioutfit"
+    },
+    {
+        "name": "abiasilkroadoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiasilkroadoutfit"
+    },
+    {
+        "name": "abiamorningdelightoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiamorningdelightoutfit"
+    },
+    {
+        "name": "abiaairportsecurityoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiaairportsecurityoutfit"
+    },
+    {
+        "name": "abiaassassinoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiaassassinoutfit"
+    },
+    {
+        "name": "abiabirthdaysuitoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiabirthdaysuitoutfit"
+    },
+    {
+        "name": "ashleystayblackoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleystayblackoutfit"
+    },
+    {
+        "name": "ashleyskatergirloutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyskatergirloutfit"
+    },
+    {
+        "name": "ashleypunkrockoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleypunkrockoutfit"
+    },
+    {
+        "name": "ashleyonbrandoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyonbrandoutfit"
+    },
+    {
+        "name": "ashleyredthreadoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyredthreadoutfit"
+    },
+    {
+        "name": "ashleyblackflyoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyblackflyoutfit"
+    },
+    {
+        "name": "ashleyclamouflageoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyclamouflageoutfit"
+    },
+    {
+        "name": "ashleybumblebeaoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleybumblebeaoutfit"
+    },
+    {
+        "name": "ashleyastronauticaloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyastronauticaloutfit"
+    },
+    {
+        "name": "ashleylazyteacheroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleylazyteacheroutfit"
+    },
+    {
+        "name": "brookebathtimeoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookebathtimeoutfit"
+    },
+    {
+        "name": "brookeprofessionaloutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "brookeprofessionaloutfit"
+    },
+    {
+        "name": "brookepricelessoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookepricelessoutfit"
+    },
+    {
+        "name": "brookekitchencookoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookekitchencookoutfit"
+    },
+    {
+        "name": "brookevikinioutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookevikinioutfit"
+    },
+    {
+        "name": "brookecougaroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookecougaroutfit"
+    },
+    {
+        "name": "brookestars&stripesoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookestars&stripesoutfit"
+    },
+    {
+        "name": "brookecaptainmommyoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookecaptainmommyoutfit"
+    },
+    {
+        "name": "brookeglamorousoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookeglamorousoutfit"
+    },
+    {
+        "name": "brookelovegoddessoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookelovegoddessoutfit"
+    },
+    {
+        "name": "candacebuckledupoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacebuckledupoutfit"
+    },
+    {
+        "name": "candacecandywrapperoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "candacecandywrapperoutfit"
+    },
+    {
+        "name": "candacevanillacreamoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacevanillacreamoutfit"
+    },
+    {
+        "name": "candaceshinytreasureoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candaceshinytreasureoutfit"
+    },
+    {
+        "name": "candacesplishsplashoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacesplishsplashoutfit"
+    },
+    {
+        "name": "candacestrawberrymilkoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacestrawberrymilkoutfit"
+    },
+    {
+        "name": "candaceonaholeoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candaceonaholeoutfit"
+    },
+    {
+        "name": "candacelaw&orderoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacelaw&orderoutfit"
+    },
+    {
+        "name": "candacehealthcareoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacehealthcareoutfit"
+    },
+    {
+        "name": "candaceflasheroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candaceflasheroutfit"
+    },
+    {
+        "name": "jessiehibiscusoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiehibiscusoutfit"
+    },
+    {
+        "name": "jessieleopardoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "jessieleopardoutfit"
+    },
+    {
+        "name": "jessiepillowtalkoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiepillowtalkoutfit"
+    },
+    {
+        "name": "jessietiffanyoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessietiffanyoutfit"
+    },
+    {
+        "name": "jessiebluewaveoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiebluewaveoutfit"
+    },
+    {
+        "name": "jessiecloudnineoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiecloudnineoutfit"
+    },
+    {
+        "name": "jessienaughtylistoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessienaughtylistoutfit"
+    },
+    {
+        "name": "jessiesweetangeloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiesweetangeloutfit"
+    },
+    {
+        "name": "jessiesinfuldeviloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiesinfuldeviloutfit"
+    },
+    {
+        "name": "jessiewrappedupoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiewrappedupoutfit"
+    },
+    {
+        "name": "lailaniseafoamoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailaniseafoamoutfit"
+    },
+    {
+        "name": "lailanisarongsongoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "lailanisarongsongoutfit"
+    },
+    {
+        "name": "lailanisunnydayoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailanisunnydayoutfit"
+    },
+    {
+        "name": "lailanihuladanceroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailanihuladanceroutfit"
+    },
+    {
+        "name": "lailaniinfinityoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailaniinfinityoutfit"
+    },
+    {
+        "name": "lailanimasseuseoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailanimasseuseoutfit"
+    },
+    {
+        "name": "lailanikoimonooutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailanikoimonooutfit"
+    },
+    {
+        "name": "lailaninativechicoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailaninativechicoutfit"
+    },
+    {
+        "name": "lailaniblupeeoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailaniblupeeoutfit"
+    },
+    {
+        "name": "lailaniclosetfreakoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailaniclosetfreakoutfit"
+    },
+    {
+        "name": "lillianpandabareoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lillianpandabareoutfit"
+    },
+    {
+        "name": "lillianmallgothoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "lillianmallgothoutfit"
+    },
+    {
+        "name": "lillianpentagramoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lillianpentagramoutfit"
+    },
+    {
+        "name": "lilliantrappedsouloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lilliantrappedsouloutfit"
+    },
+    {
+        "name": "lillianbatwingsoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lillianbatwingsoutfit"
+    },
+    {
+        "name": "lillianvampiressoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lillianvampiressoutfit"
+    },
+    {
+        "name": "lilliancandycornoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lilliancandycornoutfit"
+    },
+    {
+        "name": "lilliandarkqueenoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lilliandarkqueenoutfit"
+    },
+    {
+        "name": "lilliansweetdreamsoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lilliansweetdreamsoutfit"
+    },
+    {
+        "name": "lillianmegabitchoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lillianmegabitchoutfit"
+    },
+    {
+        "name": "lolapoppin'offoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolapoppin'offoutfit"
+    },
+    {
+        "name": "lolastewardessoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "lolastewardessoutfit"
+    },
+    {
+        "name": "lolaeleganceoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolaeleganceoutfit"
+    },
+    {
+        "name": "lolacreampuffoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolacreampuffoutfit"
+    },
+    {
+        "name": "lolajamaikinioutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolajamaikinioutfit"
+    },
+    {
+        "name": "lolamochalatteoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolamochalatteoutfit"
+    },
+    {
+        "name": "lolaafrikinioutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolaafrikinioutfit"
+    },
+    {
+        "name": "lolatennisoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolatennisoutfit"
+    },
+    {
+        "name": "lolabasketballoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolabasketballoutfit"
+    },
+    {
+        "name": "lolafootballoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolafootballoutfit"
+    },
+    {
+        "name": "norahousekeepingoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "norahousekeepingoutfit"
+    },
+    {
+        "name": "noracalienteoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noracalienteoutfit"
+    },
+    {
+        "name": "norabadassbitchoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "norabadassbitchoutfit"
+    },
+    {
+        "name": "norastreetwearoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "norastreetwearoutfit"
+    },
+    {
+        "name": "noraaquariusoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noraaquariusoutfit"
+    },
+    {
+        "name": "noranightynightoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noranightynightoutfit"
+    },
+    {
+        "name": "noraspiralscoutoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noraspiralscoutoutfit"
+    },
+    {
+        "name": "noratoughgaloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noratoughgaloutfit"
+    },
+    {
+        "name": "noragangsteroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noragangsteroutfit"
+    },
+    {
+        "name": "noracousinlyloveoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noracousinlyloveoutfit"
+    },
+    {
+        "name": "pollyfiftiesoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollyfiftiesoutfit"
+    },
+    {
+        "name": "pollyfortiesoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollyfortiesoutfit"
+    },
+    {
+        "name": "pollyseventiesoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollyseventiesoutfit"
+    },
+    {
+        "name": "pollyeightiesoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "pollyeightiesoutfit"
+    },
+    {
+        "name": "pollypin-upgirloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollypin-upgirloutfit"
+    },
+    {
+        "name": "pollywifematerialoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollywifematerialoutfit"
+    },
+    {
+        "name": "pollytuxedooutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollytuxedooutfit"
+    },
+    {
+        "name": "pollysexsymboloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollysexsymboloutfit"
+    },
+    {
+        "name": "pollyrollerskateoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollyrollerskateoutfit"
+    },
+    {
+        "name": "pollyweddingnightoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollyweddingnightoutfit"
+    },
+    {
+        "name": "sarahkimonochioutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahkimonochioutfit"
+    },
+    {
+        "name": "sarahgangurooutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "sarahgangurooutfit"
+    },
+    {
+        "name": "sarahoveralloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahoveralloutfit"
+    },
+    {
+        "name": "sarahsailoroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahsailoroutfit"
+    },
+    {
+        "name": "sarahbubblebathoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahbubblebathoutfit"
+    },
+    {
+        "name": "sarahkittykatoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahkittykatoutfit"
+    },
+    {
+        "name": "sarahcowgirloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahcowgirloutfit"
+    },
+    {
+        "name": "sarahpandahoodieoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahpandahoodieoutfit"
+    },
+    {
+        "name": "sarahturboskankoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahturboskankoutfit"
+    },
+    {
+        "name": "sarahhealingtouchoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahhealingtouchoutfit"
+    },
+    {
+        "name": "zoeycitrusacidoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "zoeycitrusacidoutfit"
+    },
+    {
+        "name": "zoeytoxicityoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeytoxicityoutfit"
+    },
+    {
+        "name": "zoeysacrilegeoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeysacrilegeoutfit"
+    },
+    {
+        "name": "zoeysugarhighoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeysugarhighoutfit"
+    },
+    {
+        "name": "zoeycheetahoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeycheetahoutfit"
+    },
+    {
+        "name": "zoeydreamsicleoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeydreamsicleoutfit"
+    },
+    {
+        "name": "zoeyscarehoeoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeyscarehoeoutfit"
+    },
+    {
+        "name": "zoeycyberslaveoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeycyberslaveoutfit"
+    },
+    {
+        "name": "zoeygamergirloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeygamergirloutfit"
+    },
+    {
+        "name": "zoeyluvendassoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeyluvendassoutfit"
+    },
+
+
+
+
+    {
+        "name": "fairywings(abia|candace)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(abia|candace)"
+    },
+    {
+        "name": "fairywings(abia|jessie)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(abia|jessie)"
+    },
+    {
+        "name": "fairywings(abia|lillian)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(abia|lillian)"
+    },
+    {
+        "name": "fairywings(abia|lola)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(abia|lola)"
+    },
+    {
+        "name": "fairywings(ashley|brooke)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(ashley|brooke)"
+    },
+    {
+        "name": "fairywings(ashley|lillian)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(ashley|lillian)"
+    },
+    {
+        "name": "fairywings(ashley|nora)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(ashley|nora)"
+    },
+    {
+        "name": "fairywings(ashley|polly)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(ashley|polly)"
+    },
+    {
+        "name": "fairywings(brooke|jessie)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(brooke|jessie)"
+    },
+    {
+        "name": "fairywings(brooke|polly)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(brooke|polly)"
+    },
+    {
+        "name": "fairywings(brooke|sarah)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(brooke|sarah)"
+    },
+    {
+        "name": "fairywings(candace|lailani)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(candace|lailani)"
+    },
+    {
+        "name": "fairywings(candace|nora)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(candace|nora)"
+    },
+    {
+        "name": "fairywings(candace|polly)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(candace|polly)"
+    },
+    {
+        "name": "fairywings(jessie|lailani)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(jessie|lailani)"
+    },
+    {
+        "name": "fairywings(jessie|lola)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(jessie|lola)"
+    },
+    {
+        "name": "fairywings(lailani|lillian)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(lailani|lillian)"
+    },
+    {
+        "name": "fairywings(lailani|sarah)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(lailani|sarah)"
+    },
+    {
+        "name": "fairywings(lillian|zoey)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(lillian|zoey)"
+    },
+    {
+        "name": "fairywings(lola|nora)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(lola|nora)"
+    },
+    {
+        "name": "fairywings(lola|zoey)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(lola|zoey)"
+    },
+    {
+        "name": "fairywings(nora|sarah)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(nora|sarah)"
+    },
+    {
+        "name": "fairywings(polly|zoey)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(polly|zoey)"
+    },
+    {
+        "name": "fairywings(sarah|zoey)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(sarah|zoey)"
+    },
+
+
+
+
+        {
+        "name": "progressivesexuallv-up",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/sex.png",
+        "overlay_background": "#000000",
+        "codes": "progressivesexuallv-up"
+        
+    },
+    {
+        "name": "progressivetalentlv-up",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/talent.png",
+        "overlay_background": "#000000",
+        "codes": "progressivetalentlv-up"
+        
+    },
+    {
+        "name": "progressiveflirtationlv-up",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/flirtation.png",
+        "overlay_background": "#000000",
+        "codes": "progressiveflirtationlv-up"
+    },
+    {
+        "name": "progressiveromancelv-up",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/romance.png",
+        "overlay_background": "#000000",
+        "codes": "progressiveromancelv-up"
+    },
+    {
+        "name": "progressivestylelv-up",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 8,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/style.png",
+        "overlay_background": "#000000",
+        "codes": "progressivestylelv-up"
+    },
+    {
+        "name": "progressivepassionlv-up",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 8,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/passion.png",
+        "overlay_background": "#000000",
+        "codes": "progressivepassionlv-up"
+    },
+
+
+
+
+    {
+        "name": "abia unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 179,
+        "codes": "abia unique1"
+    },
+    {
+        "name": "abia unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 180,
+        "codes": "abia unique2"
+    },
+    {
+        "name": "abia unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 181,
+        "codes": "abia unique3"
+    },
+    {
+        "name": "abia unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 182,
+        "codes": "abia unique4"
+    },
+    {
+        "name": "abia shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 239,
+        "codes": "abia shoe1"
+    },
+    {
+        "name": "abia shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 240,
+        "codes": "abia shoe2"
+    },
+    {
+        "name": "abia shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 241,
+        "codes": "abia shoe3"
+    },
+    {
+        "name": "abia shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 243,
+        "codes": "abia shoe4"
+    },
+    {
+        "name": "ashley unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 174,
+        "codes": "ashley unique1"
+    },
+    {
+        "name": "ashley unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 175,
+        "codes": "ashley unique2"
+    },
+    {
+        "name": "ashley unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 177,
+        "codes": "ashley unique3"
+    },
+    {
+        "name": "ashley unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 178,
+        "codes": "ashley unique4"
+    },
+    {
+        "name": "ashley shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 234,
+        "codes": "ashley shoe1"
+    },
+    {
+        "name": "ashley shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 235,
+        "codes": "ashley shoe2"
+    },
+    {
+        "name": "ashley shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 236,
+        "codes": "ashley shoe3"
+    },
+    {
+        "name": "ashley shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 237,
+        "codes": "ashley shoe4"
+    },
+    {
+        "name": "brooke unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 169,
+        "codes": "brooke unique1"
+    },
+    {
+        "name": "brooke unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 170,
+        "codes": "brooke unique2"
+    },
+    {
+        "name": "brooke unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 171,
+        "codes": "brooke unique3"
+    },
+    {
+        "name": "brooke unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 173,
+        "codes": "brooke unique4"
+    },
+    {
+        "name": "brooke shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 230,
+        "codes": "brooke shoe1"
+    },
+    {
+        "name": "brooke shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 231,
+        "codes": "brooke shoe2"
+    },
+    {
+        "name": "brooke shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 232,
+        "codes": "brooke shoe3"
+    },
+    {
+        "name": "brooke shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 233,
+        "codes": "brooke shoe4"
+    },
+    {
+        "name": "candace unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 159,
+        "codes": "candace unique1"
+    },
+    {
+        "name": "candace unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 160,
+        "codes": "candace unique2"
+    },
+    {
+        "name": "candace unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 162,
+        "codes": "candace unique3"
+    },
+    {
+        "name": "candace unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 163,
+        "codes": "candace unique4"
+    },
+    {
+        "name": "candace shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 219,
+        "codes": "candace shoe1"
+    },
+    {
+        "name": "candace shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 221,
+        "codes": "candace shoe2"
+    },
+    {
+        "name": "candace shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 222,
+        "codes": "candace shoe3"
+    },
+    {
+        "name": "candace shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 223,
+        "codes": "candace shoe4"
+    },
+    {
+        "name": "jessie unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 134,
+        "codes": "jessie unique1"
+    },
+    {
+        "name": "jessie unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 135,
+        "codes": "jessie unique2"
+    },
+    {
+        "name": "jessie unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 136,
+        "codes": "jessie unique3"
+    },
+    {
+        "name": "jessie unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 137,
+        "codes": "jessie unique4"
+    },
+    {
+        "name": "jessie shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 195,
+        "codes": "jessie shoe1"
+    },
+    {
+        "name": "jessie shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 196,
+        "codes": "jessie shoe2"
+    },
+    {
+        "name": "jessie shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 197,
+        "codes": "jessie shoe3"
+    },
+    {
+        "name": "jessie shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 198,
+        "codes": "jessie shoe4"
+    },
+    {
+        "name": "lailani unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 154,
+        "codes": "lailani unique1"
+    },
+    {
+        "name": "lailani unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 155,
+        "codes": "lailani unique2"
+    },
+    {
+        "name": "lailani unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 156,
+        "codes": "lailani unique3"
+    },
+    {
+        "name": "lailani unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 157,
+        "codes": "lailani unique4"
+    },
+    {
+        "name": "lailani shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 215,
+        "codes": "lailani shoe1"
+    },
+    {
+        "name": "lailani shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 216,
+        "codes": "lailani shoe2"
+    },
+    {
+        "name": "lailani shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 217,
+        "codes": "lailani shoe3"
+    },
+    {
+        "name": "lailani shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 218,
+        "codes": "lailani shoe4"
+    },
+    {
+        "name": "lillian unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 139,
+        "codes": "lillian unique1"
+    },
+    {
+        "name": "lillian unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 140,
+        "codes": "lillian unique2"
+    },
+    {
+        "name": "lillian unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 141,
+        "codes": "lillian unique3"
+    },
+    {
+        "name": "lillian unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 142,
+        "codes": "lillian unique4"
+    },
+    {
+        "name": "lillian shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 199,
+        "codes": "lillian shoe1"
+    },
+    {
+        "name": "lillian shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 200,
+        "codes": "lillian shoe2"
+    },
+    {
+        "name": "lillian shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 201,
+        "codes": "lillian shoe3"
+    },
+    {
+        "name": "lillian shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 203,
+        "codes": "lillian shoe4"
+    },
+    {
+        "name": "lola unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 130,
+        "codes": "lola unique1"
+    },
+    {
+        "name": "lola unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 131,
+        "codes": "lola unique2"
+    },
+    {
+        "name": "lola unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 132,
+        "codes": "lola unique3"
+    },
+    {
+        "name": "lola unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 133,
+        "codes": "lola unique4"
+    },
+    {
+        "name": "lola shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 189,
+        "codes": "lola shoe1"
+    },
+    {
+        "name": "lola shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 190,
+        "codes": "lola shoe2"
+    },
+    {
+        "name": "lola shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 191,
+        "codes": "lola shoe3"
+    },
+    {
+        "name": "lola shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 192,
+        "codes": "lola shoe4"
+    },
+    {
+        "name": "nora unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 164,
+        "codes": "nora unique1"
+    },
+    {
+        "name": "nora unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 166,
+        "codes": "nora unique2"
+    },
+    {
+        "name": "nora unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 167,
+        "codes": "nora unique3"
+    },
+    {
+        "name": "nora unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 168,
+        "codes": "nora unique4"
+    },
+    {
+        "name": "nora shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 225,
+        "codes": "nora shoe1"
+    },
+    {
+        "name": "nora shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 226,
+        "codes": "nora shoe2"
+    },
+    {
+        "name": "nora shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 227,
+        "codes": "nora shoe3"
+    },
+    {
+        "name": "nora shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 228,
+        "codes": "nora shoe4"
+    },
+    {
+        "name": "polly unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 184,
+        "codes": "polly unique1"
+    },
+    {
+        "name": "polly unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 185,
+        "codes": "polly unique2"
+    },
+    {
+        "name": "polly unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 186,
+        "codes": "polly unique3"
+    },
+    {
+        "name": "polly unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 187,
+        "codes": "polly unique4"
+    },
+    {
+        "name": "polly shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 244,
+        "codes": "polly shoe1"
+    },
+    {
+        "name": "polly shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 245,
+        "codes": "polly shoe2"
+    },
+    {
+        "name": "polly shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 246,
+        "codes": "polly shoe3"
+    },
+    {
+        "name": "polly shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 247,
+        "codes": "polly shoe4"
+    },
+    {
+        "name": "sarah unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 149,
+        "codes": "sarah unique1"
+    },
+    {
+        "name": "sarah unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 150,
+        "codes": "sarah unique2"
+    },
+    {
+        "name": "sarah unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 151,
+        "codes": "sarah unique3"
+    },
+    {
+        "name": "sarah unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 152,
+        "codes": "sarah unique4"
+    },
+    {
+        "name": "sarah shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 209,
+        "codes": "sarah shoe1"
+    },
+    {
+        "name": "sarah shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 210,
+        "codes": "sarah shoe2"
+    },
+    {
+        "name": "sarah shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 212,
+        "codes": "sarah shoe3"
+    },
+    {
+        "name": "sarah shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 213,
+        "codes": "sarah shoe4"
+    },
+    {
+        "name": "zoey unique1",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 144,
+        "codes": "zoey unique1"
+    },
+    {
+        "name": "zoey unique2",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 145,
+        "codes": "zoey unique2"
+    },
+    {
+        "name": "zoey unique3",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 147,
+        "codes": "zoey unique3"
+    },
+    {
+        "name": "zoey unique4",
+        "type": "consumable",
+        "min_quantity": 128,
+        "max_quantity": 189,
+        "initial_quantity": 148,
+        "codes": "zoey unique4"
+    },
+    {
+        "name": "zoey shoe1",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 204,
+        "codes": "zoey shoe1"
+    },
+    {
+        "name": "zoey shoe2",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 205,
+        "codes": "zoey shoe2"
+    },
+    {
+        "name": "zoey shoe3",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 206,
+        "codes": "zoey shoe3"
+    },
+    {
+        "name": "zoey shoe4",
+        "type": "consumable",
+        "min_quantity": 188,
+        "max_quantity": 249,
+        "initial_quantity": 207,
+        "codes": "zoey shoe4"
+    },
+]

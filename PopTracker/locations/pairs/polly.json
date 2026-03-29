@@ -1,0 +1,94 @@
+[
+    {
+        "name": "polly|ashley",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (ashley|polly)",
+                "ref": "ashley|polly/Pair Attracted (ashley|polly)"
+            },
+            {
+                "name": "Pair Lovers (ashley|polly)",
+                "ref": "ashley|polly/Pair Lovers (ashley|polly)"
+            }
+        ]
+    },
+    {
+        "name": "polly|brooke",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (brooke|polly)",
+                "ref": "brooke|polly/Pair Attracted (brooke|polly)"
+            },
+            {
+                "name": "Pair Lovers (brooke|polly)",
+                "ref": "brooke|polly/Pair Lovers (brooke|polly)"
+            }
+        ]
+    },
+    {
+        "name": "polly|candace",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (candace|polly)",
+                "ref": "candace|polly/Pair Attracted (candace|polly)"
+            },
+            {
+                "name": "Pair Lovers (candace|polly)",
+                "ref": "candace|polly/Pair Lovers (candace|polly)"
+            }
+        ]
+    },
+    {
+        "name": "polly|zoey",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (polly|zoey)",
+                "access_rules": [
+                    "$pair_unlocked|polly|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (polly|zoey)",
+                "access_rules": [
+                    "$pair_unlocked|polly|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "name": "sarah|brooke",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (brooke|sarah)",
+                "ref": "brooke|sarah/Pair Attracted (brooke|sarah)"
+            },
+            {
+                "name": "Pair Lovers (brooke|sarah)",
+                "ref": "brooke|sarah/Pair Lovers (brooke|sarah)"
+            }
+        ]
+    },
+    {
+        "name": "sarah|lailani",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (lailani|sarah)",
+                "ref": "lailani|sarah/Pair Attracted (lailani|sarah)"
+            },
+            {
+                "name": "Pair Lovers (lailani|sarah)",
+                "ref": "lailani|sarah/Pair Lovers (lailani|sarah)"
+            }
+        ]
+    },
+    {
+        "name": "sarah|nora",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (nora|sarah)",
+                "ref": "nora|sarah/Pair Attracted (nora|sarah)"
+            },
+            {
+                "name": "Pair Lovers (nora|sarah)",
+                "ref": "nora|sarah/Pair Lovers (nora|sarah)"
+            }
+        ]
+    },
+    {
+        "name": "sarah|zoey",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (sarah|zoey)",
+                "access_rules": [
+                    "$pair_unlocked|sarah|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (sarah|zoey)",
+                "access_rules": [
+                    "$pair_unlocked|sarah|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

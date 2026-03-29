@@ -1,0 +1,212 @@
+[
+    {
+        "name": "lailani Outfit 1",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lailani in Sea Foam Outfit",
+                "access_rules": [
+                    "lailaniseafoamoutfit,$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Outfit 2",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lailani in Sarong Song Outfit",
+                "access_rules": [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Outfit 3",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lailani in Sunny Day Outfit",
+                "access_rules": [
+                    "lailanisunnydayoutfit,$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Outfit 4",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lailani in Hula Dancer Outfit",
+                "access_rules": [
+                    "lailanihuladanceroutfit,$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Outfit 5",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lailani in Infinity Outfit",
+                "access_rules": [
+                    "lailaniinfinityoutfit,$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Outfit 6",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lailani in Masseuse Outfit",
+                "access_rules": [
+                    "lailanimasseuseoutfit,$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Outfit 7",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lailani in Koimono Outfit",
+                "access_rules": [
+                    "lailanikoimonooutfit,$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Outfit 8",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lailani in Native Chic Outfit",
+                "access_rules": [
+                    "lailaninativechicoutfit,$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Outfit 9",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lailani in Blupee Outfit",
+                "access_rules": [
+                    "lailaniblupeeoutfit,$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Outfit 10",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lailani in Closet Freak Outfit",
+                "access_rules": [
+                    "lailaniclosetfreakoutfit,$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

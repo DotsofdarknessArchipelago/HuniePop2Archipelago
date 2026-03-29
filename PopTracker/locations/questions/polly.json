@@ -1,0 +1,482 @@
+[
+    {
+        "name": "polly Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite drink",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Music Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Movie Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Online Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly App Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Phone App",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Friday Night",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Weather",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Holiday",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Pet",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite School Subject",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Place to shop",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Own Body Part",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Sex Position",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "polly",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "polly favourite Porn Category",
+                "access_rules": 
+                [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

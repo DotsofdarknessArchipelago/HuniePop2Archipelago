@@ -1,0 +1,110 @@
+[
+    {
+        "name": "brooke|ashley",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (ashley|brooke)",
+                "ref": "ashley|brooke/Pair Attracted (ashley|brooke)"
+            },
+            {
+                "name": "Pair Lovers (ashley|brooke)",
+                "ref": "ashley|brooke/Pair Lovers (ashley|brooke)"
+            }
+        ]
+    },
+    {
+        "name": "brooke|jessie",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (brooke|jessie)",
+                "access_rules": [
+                    "$pair_unlocked|brooke|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (brooke|jessie)",
+                "access_rules": [
+                    "$pair_unlocked|brooke|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke|polly",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (brooke|polly)",
+                "access_rules": [
+                    "$pair_unlocked|brooke|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (brooke|polly)",
+                "access_rules": [
+                    "$pair_unlocked|brooke|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke|sarah",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (brooke|sarah)",
+                "access_rules": [
+                    "$pair_unlocked|brooke|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (brooke|sarah)",
+                "access_rules": [
+                    "$pair_unlocked|brooke|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

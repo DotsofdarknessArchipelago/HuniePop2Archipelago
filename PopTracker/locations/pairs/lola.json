@@ -1,0 +1,102 @@
+[
+    {
+        "name": "lola|abia",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (abia|lola)",
+                "ref": "abia|lola/Pair Attracted (abia|lola)"
+            },
+            {
+                "name": "Pair Lovers (abia|lola)",
+                "ref": "abia|lola/Pair Lovers (abia|lola)"
+            }
+        ]
+    },
+    {
+        "name": "lola|jessie",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (jessie|lola)",
+                "ref": "jessie|lola/Pair Attracted (jessie|lola)"
+            },
+            {
+                "name": "Pair Lovers (jessie|lola)",
+                "ref": "jessie|lola/Pair Lovers (jessie|lola)"
+            }
+        ]
+    },
+    {
+        "name": "lola|nora",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (lola|nora)",
+                "access_rules": [
+                    "$pair_unlocked|lola|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lola|nora)",
+                "access_rules": [
+                    "$pair_unlocked|lola|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola|zoey",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (lola|zoey)",
+                "access_rules": [
+                    "$pair_unlocked|lola|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lola|zoey)",
+                "access_rules": [
+                    "$pair_unlocked|lola|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "name": "abia|candace",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|candace)",
+                "access_rules": 
+                [
+                    "$pair_unlocked|abia|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|candace)",
+                "access_rules": 
+                [
+                    "$pair_unlocked|abia|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia|jessie",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|jessie)",
+                "access_rules": 
+                [
+                    "$pair_unlocked|abia|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|jessie)",
+                "access_rules": 
+                [
+                    "$pair_unlocked|abia|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia|lillian",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|lillian)",
+                "access_rules": 
+                [
+                    "$pair_unlocked|abia|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|lillian)",
+                "access_rules": 
+                [
+                    "$pair_unlocked|abia|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "abia|lola",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|lola)",
+                "access_rules": 
+                [
+                    "$pair_unlocked|abia|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|lola)",
+                "access_rules": 
+                [
+                    "$pair_unlocked|abia|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+{
+    "pair_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "pairunlock(abia|candace)",
+                                "pairunlock(abia|jessie)"                            
+                            ],
+                            [
+                                "pairunlock(abia|lillian)",
+                                "pairunlock(abia|lola)"                            
+                            ],
+                            [
+                                "pairunlock(ashley|brooke)",
+                                "pairunlock(ashley|lillian)"                            
+                            ],
+                            [
+                                "pairunlock(ashley|nora)",
+                                "pairunlock(ashley|polly)"                            
+                            ],
+                            [
+                                "pairunlock(brooke|jessie)",
+                                "pairunlock(brooke|polly)"                            
+                            ],
+                            [
+                                "pairunlock(brooke|sarah)",
+                                "pairunlock(candace|lailani)"                            
+                            ],
+                            [
+                                "pairunlock(candace|nora)",
+                                "pairunlock(candace|polly)"                            
+                            ],
+                            [
+                                "pairunlock(jessie|lailani)",
+                                "pairunlock(jessie|lola)"                            
+                            ],
+                            [
+                                "pairunlock(lailani|lillian)",
+                                "pairunlock(lailani|sarah)"                            
+                            ],
+                            [
+                                "pairunlock(lillian|zoey)",
+                                "pairunlock(lola|nora)"                            
+                            ],
+                            [
+                                "pairunlock(lola|zoey)",
+                                "pairunlock(nora|sarah)"                            
+                            ],
+                            [
+                                "pairunlock(polly|zoey)",
+                                "pairunlock(sarah|zoey)"                            
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

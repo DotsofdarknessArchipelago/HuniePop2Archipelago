@@ -1,0 +1,212 @@
+[
+    {
+        "name": "sarah Outfit 1",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date sarah in Kimonochi Outfit",
+                "access_rules": [
+                    "sarahkimonochioutfit,$girl_unlocked|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Outfit 2",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date sarah in Ganguro Outfit",
+                "access_rules": [
+                    "$girl_unlocked|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Outfit 3",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date sarah in Over All Outfit",
+                "access_rules": [
+                    "sarahoveralloutfit,$girl_unlocked|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Outfit 4",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date sarah in Sailor Outfit",
+                "access_rules": [
+                    "sarahsailoroutfit,$girl_unlocked|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Outfit 5",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date sarah in Bubble Bath Outfit",
+                "access_rules": [
+                    "sarahbubblebathoutfit,$girl_unlocked|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Outfit 6",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date sarah in Kitty Kat Outfit",
+                "access_rules": [
+                    "sarahkittykatoutfit,$girl_unlocked|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Outfit 7",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date sarah in Cow Girl Outfit",
+                "access_rules": [
+                    "sarahcowgirloutfit,$girl_unlocked|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Outfit 8",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date sarah in Panda Hoodie Outfit",
+                "access_rules": [
+                    "sarahpandahoodieoutfit,$girl_unlocked|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Outfit 9",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date sarah in Turbo Skank Outfit",
+                "access_rules": [
+                    "sarahturboskankoutfit,$girl_unlocked|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Outfit 10",
+        "map_locations": [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date sarah in Healing Touch Outfit",
+                "access_rules": [
+                    "sarahhealingtouchoutfit,$girl_unlocked|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

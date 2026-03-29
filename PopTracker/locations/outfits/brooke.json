@@ -1,0 +1,212 @@
+[
+    {
+        "name": "brooke Outfit 1",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date brooke in Bath Time Outfit",
+                "access_rules": [
+                    "brookebathtimeoutfit,$girl_unlocked|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke Outfit 2",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date brooke in Professional Outfit",
+                "access_rules": [
+                    "$girl_unlocked|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke Outfit 3",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date brooke in Priceless Outfit",
+                "access_rules": [
+                    "brookepricelessoutfit,$girl_unlocked|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke Outfit 4",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date brooke in Kitchen Cook Outfit",
+                "access_rules": [
+                    "brookekitchencookoutfit,$girl_unlocked|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke Outfit 5",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date brooke in Vikini Outfit",
+                "access_rules": [
+                    "brookevikinioutfit,$girl_unlocked|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke Outfit 6",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date brooke in Cougar Outfit",
+                "access_rules": [
+                    "brookecougaroutfit,$girl_unlocked|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke Outfit 7",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date brooke in Stars & Stripes Outfit",
+                "access_rules": [
+                    "brookestars&stripesoutfit,$girl_unlocked|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke Outfit 8",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date brooke in Captain Mommy Outfit",
+                "access_rules": [
+                    "brookecaptainmommyoutfit,$girl_unlocked|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke Outfit 9",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date brooke in Glamorous Outfit",
+                "access_rules": [
+                    "brookeglamorousoutfit,$girl_unlocked|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "brooke Outfit 10",
+        "map_locations": [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date brooke in Love Goddess Outfit",
+                "access_rules": [
+                    "brookelovegoddessoutfit,$girl_unlocked|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

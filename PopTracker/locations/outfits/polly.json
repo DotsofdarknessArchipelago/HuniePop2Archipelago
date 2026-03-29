@@ -1,0 +1,212 @@
+[
+    {
+        "name": "polly Outfit 1",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date polly in Fifties Outfit",
+                "access_rules": [
+                    "pollyfiftiesoutfit,$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Outfit 2",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date polly in Forties Outfit",
+                "access_rules": [
+                    "pollyfortiesoutfit,$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Outfit 3",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date polly in Seventies Outfit",
+                "access_rules": [
+                    "pollyseventiesoutfit,$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Outfit 4",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date polly in Eighties Outfit",
+                "access_rules": [
+                    "$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Outfit 5",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date polly in Pin-up Girl Outfit",
+                "access_rules": [
+                    "pollypin-upgirloutfit,$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Outfit 6",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date polly in Wife Material Outfit",
+                "access_rules": [
+                    "pollywifematerialoutfit,$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Outfit 7",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date polly in Tuxedo Outfit",
+                "access_rules": [
+                    "pollytuxedooutfit,$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Outfit 8",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date polly in Sex Symbol Outfit",
+                "access_rules": [
+                    "pollysexsymboloutfit,$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Outfit 9",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date polly in Roller Skate Outfit",
+                "access_rules": [
+                    "pollyrollerskateoutfit,$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "polly Outfit 10",
+        "map_locations": [
+            {
+                "map": "polly",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date polly in Wedding Night Outfit",
+                "access_rules": [
+                    "pollyweddingnightoutfit,$girl_unlocked|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

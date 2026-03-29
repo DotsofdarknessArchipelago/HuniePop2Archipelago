@@ -1,0 +1,212 @@
+[
+    {
+        "name": "jessie Outfit 1",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date jessie in Hibiscus Outfit",
+                "access_rules": [
+                    "jessiehibiscusoutfit,$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Outfit 2",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date jessie in Leopard Outfit",
+                "access_rules": [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Outfit 3",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date jessie in Pillow Talk Outfit",
+                "access_rules": [
+                    "jessiepillowtalkoutfit,$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Outfit 4",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date jessie in Tiffany Outfit",
+                "access_rules": [
+                    "jessietiffanyoutfit,$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Outfit 5",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date jessie in Blue Wave Outfit",
+                "access_rules": [
+                    "jessiebluewaveoutfit,$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Outfit 6",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date jessie in Cloud Nine Outfit",
+                "access_rules": [
+                    "jessiecloudnineoutfit,$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Outfit 7",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date jessie in Naughty List Outfit",
+                "access_rules": [
+                    "jessienaughtylistoutfit,$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Outfit 8",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date jessie in Sweet Angel Outfit",
+                "access_rules": [
+                    "jessiesweetangeloutfit,$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Outfit 9",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date jessie in Sinful Devil Outfit",
+                "access_rules": [
+                    "jessiesinfuldeviloutfit,$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Outfit 10",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date jessie in Wrapped Up Outfit",
+                "access_rules": [
+                    "jessiewrappedupoutfit,$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "name": "nora|ashley",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (ashley|nora)",
+                "ref": "ashley|nora/Pair Attracted (ashley|nora)"
+            },
+            {
+                "name": "Pair Lovers (ashley|nora)",
+                "ref": "ashley|nora/Pair Lovers (ashley|nora)"
+            }
+        ]
+    },
+    {
+        "name": "nora|candace",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (candace|nora)",
+                "ref": "candace|nora/Pair Attracted (candace|nora)"
+            },
+            {
+                "name": "Pair Lovers (candace|nora)",
+                "ref": "candace|nora/Pair Lovers (candace|nora)"
+            }
+        ]
+    },
+    {
+        "name": "nora|lola",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (lola|nora)",
+                "ref": "lola|nora/Pair Attracted (lola|nora)"
+            },
+            {
+                "name": "Pair Lovers (lola|nora)",
+                "ref": "lola|nora/Pair Lovers (lola|nora)"
+            }
+        ]
+    },
+    {
+        "name": "nora|sarah",
+        "map_locations": [
+            {
+                "map": "nora",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (nora|sarah)",
+                "access_rules": [
+                    "$pair_unlocked|nora|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (nora|sarah)",
+                "access_rules": [
+                    "$pair_unlocked|nora|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

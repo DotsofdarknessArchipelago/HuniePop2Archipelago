@@ -1,0 +1,71 @@
+{
+    "wing_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "fairywings(abia|candace)",
+                                "fairywings(abia|jessie)"                           
+                            ],
+                            [
+                                "fairywings(abia|lillian)",
+                                "fairywings(abia|lola)"                           
+                            ],
+                            [
+                                "fairywings(ashley|brooke)",
+                                "fairywings(ashley|lillian)"                           
+                            ],
+                            [
+                                "fairywings(ashley|nora)",
+                                "fairywings(ashley|polly)"                           
+                            ],
+                            [
+                                "fairywings(brooke|jessie)",
+                                "fairywings(brooke|polly)"                           
+                            ],
+                            [
+                                "fairywings(brooke|sarah)",
+                                "fairywings(candace|lailani)"                           
+                            ],
+                            [
+                                "fairywings(candace|nora)",
+                                "fairywings(candace|polly)"                           
+                            ],
+                            [
+                                "fairywings(jessie|lailani)",
+                                "fairywings(jessie|lola)"                        
+                            ],
+                            [
+                                "fairywings(lailani|lillian)",
+                                "fairywings(lailani|sarah)"                           
+                            ],
+                            [
+                                "fairywings(lillian|zoey)",
+                                "fairywings(lola|nora)"                         
+                            ],
+                            [
+                                "fairywings(lola|zoey)",
+                                "fairywings(nora|sarah)"                           
+                            ],
+                            [
+                                "fairywings(polly|zoey)",
+                                "fairywings(sarah|zoey)"                          
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

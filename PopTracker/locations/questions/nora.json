@@ -1,0 +1,482 @@
+[
+    {
+        "name": "nora Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite drink",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Music Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Movie Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Online Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora App Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Phone App",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Friday Night",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Weather",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Holiday",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Pet",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite School Subject",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Place to shop",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Own Body Part",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Sex Position",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "nora Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Porn Category",
+                "access_rules": 
+                [
+                    "$girl_unlocked|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

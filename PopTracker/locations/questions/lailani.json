@@ -1,0 +1,482 @@
+[
+    {
+        "name": "lailani Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite drink",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Music Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Movie Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Online Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani App Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Phone App",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Friday Night",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Weather",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Holiday",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Pet",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite School Subject",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Place to shop",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Own Body Part",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Sex Position",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Porn Category",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "jessie|abia",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (abia|jessie)",
+                "ref": "abia|jessie/Pair Attracted (abia|jessie)"
+            },
+            {
+                "name": "Pair Lovers (abia|jessie)",
+                "ref": "abia|jessie/Pair Lovers (abia|jessie)"
+            }
+        ]
+    },
+    {
+        "name": "jessie|brooke",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (brooke|jessie)",
+                "ref": "brooke|jessie/Pair Attracted (brooke|jessie)"
+            },
+            {
+                "name": "Pair Lovers (brooke|jessie)",
+                "ref": "brooke|jessie/Pair Lovers (brooke|jessie)"
+            }
+        ]
+    },
+    {
+        "name": "jessie|lailani",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (jessie|lailani)",
+                "access_rules": [
+                    "$pair_unlocked|jessie|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (jessie|lailani)",
+                "access_rules": [
+                    "$pair_unlocked|jessie|lailani"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie|lola",
+        "map_locations": [
+            {
+                "map": "jessie",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (jessie|lola)",
+                "access_rules": [
+                    "$pair_unlocked|jessie|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (jessie|lola)",
+                "access_rules": [
+                    "$pair_unlocked|jessie|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

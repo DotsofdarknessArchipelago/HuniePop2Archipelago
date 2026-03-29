@@ -1,0 +1,212 @@
+[
+    {
+        "name": "zoey Outfit 1",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date zoey in Citrus Acid Outfit",
+                "access_rules": [
+                    "$girl_unlocked|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Outfit 2",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date zoey in Toxicity Outfit",
+                "access_rules": [
+                    "zoeytoxicityoutfit,$girl_unlocked|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Outfit 3",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date zoey in Sacrilege Outfit",
+                "access_rules": [
+                    "zoeysacrilegeoutfit,$girl_unlocked|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Outfit 4",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date zoey in Sugar High Outfit",
+                "access_rules": [
+                    "zoeysugarhighoutfit,$girl_unlocked|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Outfit 5",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date zoey in Cheetah Outfit",
+                "access_rules": [
+                    "zoeycheetahoutfit,$girl_unlocked|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Outfit 6",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date zoey in Dreamsicle Outfit",
+                "access_rules": [
+                    "zoeydreamsicleoutfit,$girl_unlocked|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Outfit 7",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date zoey in Scarehoe Outfit",
+                "access_rules": [
+                    "zoeyscarehoeoutfit,$girl_unlocked|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Outfit 8",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date zoey in Cyber Slave Outfit",
+                "access_rules": [
+                    "zoeycyberslaveoutfit,$girl_unlocked|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Outfit 9",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date zoey in Gamer Girl Outfit",
+                "access_rules": [
+                    "zoeygamergirloutfit,$girl_unlocked|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "zoey Outfit 10",
+        "map_locations": [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date zoey in Luvendass Outfit",
+                "access_rules": [
+                    "zoeyluvendassoutfit,$girl_unlocked|zoey"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

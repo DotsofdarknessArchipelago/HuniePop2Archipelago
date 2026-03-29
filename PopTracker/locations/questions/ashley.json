@@ -1,0 +1,482 @@
+[
+    {
+        "name": "ashley Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite drink",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Music Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Movie Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Online Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley App Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Phone App",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Friday Night",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Weather",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Holiday",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Pet",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite School Subject",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Place to shop",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Own Body Part",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Sex Position",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Porn Category",
+                "access_rules": 
+                [
+                    "$girl_unlocked|ashley"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

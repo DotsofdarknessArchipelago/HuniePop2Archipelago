@@ -1,0 +1,167 @@
+{
+    "outfit_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "abiatraditionaloutfit",
+                                "abiaflaroraoutfit",
+                                "abiamodestyoutfit",
+                                "abiaarabianallureoutfit",
+                                "abiainvisikinioutfit",
+                                "abiasilkroadoutfit",
+                                "abiamorningdelightoutfit",
+                                "abiaairportsecurityoutfit",
+                                "abiaassassinoutfit",
+                                "abiabirthdaysuitoutfit"
+                            ],
+                            [
+                                "ashleystayblackoutfit",
+                                "ashleyskatergirloutfit",
+                                "ashleypunkrockoutfit",
+                                "ashleyonbrandoutfit",
+                                "ashleyredthreadoutfit",
+                                "ashleyblackflyoutfit",
+                                "ashleyclamouflageoutfit",
+                                "ashleybumblebeaoutfit",
+                                "ashleyastronauticaloutfit",
+                                "ashleylazyteacheroutfit"
+                            ],
+                            [
+                                "brookebathtimeoutfit",
+                                "brookeprofessionaloutfit",
+                                "brookepricelessoutfit",
+                                "brookekitchencookoutfit",
+                                "brookevikinioutfit",
+                                "brookecougaroutfit",
+                                "brookestars&stripesoutfit",
+                                "brookecaptainmommyoutfit",
+                                "brookeglamorousoutfit",
+                                "brookelovegoddessoutfit"
+                            ],
+                            [
+                                "candacebuckledupoutfit",
+                                "candacecandywrapperoutfit",
+                                "candacevanillacreamoutfit",
+                                "candaceshinytreasureoutfit",
+                                "candacesplishsplashoutfit",
+                                "candacestrawberrymilkoutfit",
+                                "candaceonaholeoutfit",
+                                "candacelaw&orderoutfit",
+                                "candacehealthcareoutfit",
+                                "candaceflasheroutfit"
+                            ],
+                            [
+                                "jessiehibiscusoutfit",
+                                "jessieleopardoutfit",
+                                "jessiepillowtalkoutfit",
+                                "jessietiffanyoutfit",
+                                "jessiebluewaveoutfit",
+                                "jessiecloudnineoutfit",
+                                "jessienaughtylistoutfit",
+                                "jessiesweetangeloutfit",
+                                "jessiesinfuldeviloutfit",
+                                "jessiewrappedupoutfit"
+                            ],
+                            [
+                                "lailaniseafoamoutfit",
+                                "lailanisarongsongoutfit",
+                                "lailanisunnydayoutfit",
+                                "lailanihuladanceroutfit",
+                                "lailaniinfinityoutfit",
+                                "lailanimasseuseoutfit",
+                                "lailanikoimonooutfit",
+                                "lailaninativechicoutfit",
+                                "lailaniblupeeoutfit",
+                                "lailaniclosetfreakoutfit"
+                            ],
+                            [
+                                "lillianpandabareoutfit",
+                                "lillianmallgothoutfit",
+                                "lillianpentagramoutfit",
+                                "lilliantrappedsouloutfit",
+                                "lillianbatwingsoutfit",
+                                "lillianvampiressoutfit",
+                                "lilliancandycornoutfit",
+                                "lilliandarkqueenoutfit",
+                                "lilliansweetdreamsoutfit",
+                                "lillianmegabitchoutfit"
+                            ],
+                            [
+                                "lolapoppin'offoutfit",
+                                "lolastewardessoutfit",
+                                "lolaeleganceoutfit",
+                                "lolacreampuffoutfit",
+                                "lolajamaikinioutfit",
+                                "lolamochalatteoutfit",
+                                "lolaafrikinioutfit",
+                                "lolatennisoutfit",
+                                "lolabasketballoutfit",
+                                "lolafootballoutfit"
+                            ],
+                            [
+                                "norahousekeepingoutfit",
+                                "noracalienteoutfit",
+                                "norabadassbitchoutfit",
+                                "norastreetwearoutfit",
+                                "noraaquariusoutfit",
+                                "noranightynightoutfit",
+                                "noraspiralscoutoutfit",
+                                "noratoughgaloutfit",
+                                "noragangsteroutfit",
+                                "noracousinlyloveoutfit"
+                            ],
+                            [
+                             "pollyfiftiesoutfit",
+                             "pollyfortiesoutfit",
+                             "pollyseventiesoutfit",
+                             "pollyeightiesoutfit",
+                             "pollypin-upgirloutfit",
+                             "pollywifematerialoutfit",
+                             "pollytuxedooutfit",
+                             "pollysexsymboloutfit",
+                             "pollyrollerskateoutfit",
+                             "pollyweddingnightoutfit"
+                         ],
+                            [
+                                "sarahkimonochioutfit",
+                                "sarahgangurooutfit",
+                                "sarahoveralloutfit",
+                                "sarahsailoroutfit",
+                                "sarahbubblebathoutfit",
+                                "sarahkittykatoutfit",
+                                "sarahcowgirloutfit",
+                                "sarahpandahoodieoutfit",
+                                "sarahturboskankoutfit",
+                                "sarahhealingtouchoutfit"
+                            ],
+                            [
+                                "zoeycitrusacidoutfit",
+                                "zoeytoxicityoutfit",
+                                "zoeysacrilegeoutfit",
+                                "zoeysugarhighoutfit",
+                                "zoeycheetahoutfit",
+                                "zoeydreamsicleoutfit",
+                                "zoeyscarehoeoutfit",
+                                "zoeycyberslaveoutfit",
+                                "zoeygamergirloutfit",
+                                "zoeyluvendassoutfit"
+                            ]
+                        ]
+}
+]
+}
+]
+}
+}

@@ -1,0 +1,482 @@
+[
+    {
+        "name": "lola Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite drink",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Music Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Movie Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Online Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola App Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Phone App",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Friday Night",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Weather",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Holiday",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Pet",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite School Subject",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Place to shop",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Own Body Part",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Sex Position",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Porn Category",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

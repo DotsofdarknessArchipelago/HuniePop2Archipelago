@@ -19,7 +19,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
     {
         public const string APVersion = "0.5.0";
         private const string game = "Hunie Pop 2";
-        public int[] expectedworld = [3, 0, 0];
+        public int[] expectedworld = [3, 0, 1];
 
         public static bool Authenticated;
         private bool attemptingConnection;
@@ -315,6 +315,10 @@ namespace HunniePop2ArchipelagoClient.Archipelago
         {
             switch (code)
             {
+                case "$debug":
+                    ArchipelagoConsole.LogMessage("setting debug flag");
+                    ArchipelagoConsole.debug = true;
+                    break;
                 case "$resync":
                     ArchipelagoConsole.LogMessage("Resyncing Items");
                     session.Socket.SendPacket(new SyncPacket());
@@ -322,6 +326,18 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                 case "$resetitems":
                     ArchipelagoConsole.LogMessage("RESETING SENT ITEM LIST ALL ITEMS WILL BE REPROCESSED");
                     session.DataStorage[Scope.Slot, "archdata"] = "";
+                    resetlist();
+                    break;
+                case "$resetsave":
+                    ArchipelagoConsole.LogMessage("RESETING SAVE FILE");
+                    session.DataStorage[Scope.Slot, "savefile"] = "";
+                    session.DataStorage[Scope.Slot, "slotsetup"] = false;
+                    break;
+                case "$resetgame":
+                    ArchipelagoConsole.LogMessage("RESETTING SAVFILE AND ITEMS RECIEVED");
+                    session.DataStorage[Scope.Slot, "archdata"] = "";
+                    session.DataStorage[Scope.Slot, "savefile"] = "";
+                    session.DataStorage[Scope.Slot, "slotsetup"] = false;
                     resetlist();
                     break;
                 case "$voidfiller":

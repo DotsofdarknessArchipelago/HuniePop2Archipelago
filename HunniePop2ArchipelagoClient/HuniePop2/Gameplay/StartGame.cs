@@ -21,6 +21,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
         public static void startarchipelago(UiTitleCanvas ____titleCanvas)
         {
             //make sure we are connected to an archipelago server and that the game slot hasnt already been started
+            ArchipelagoConsole.debugLogMessage("STARTING GAME");
             if (ArchipelagoClient.Authenticated)
             {
                 // test using save index of 4
@@ -35,9 +36,10 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 //ArchipelagoConsole.LogMessage($"DATASTORAGE FOR SETUP VALUE:{setup}");
                 if (setup)
                 {
+                    ArchipelagoConsole.debugLogMessage("SLOT STARTED ALREADY");
                     string playerfile = ArchipelagoClient.session.DataStorage[Scope.Slot, $"savefile"];
-                    HuniePop2Archipelago.BepinLogger.LogMessage("PLAYERFILE:");
-                    HuniePop2Archipelago.BepinLogger.LogMessage(playerfile);
+                    ArchipelagoConsole.debugLogMessage("PLAYERFILE:");
+                    ArchipelagoConsole.debugLogMessage(playerfile);
                     Game.Persistence.playerData.files[savindex] = new PlayerFile(JsonConvert.DeserializeObject<SaveFile>(playerfile));
 
                     Game.Persistence.Apply(savindex);
@@ -46,7 +48,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 }
                 else
                 {
-
+                    ArchipelagoConsole.debugLogMessage("SLOT NOT STARTED GENNING NEW GAME");
                     //probally dont have to reget the player file but it works
                     PlayerFile playerFile = new PlayerFile(new SaveFile());
 
@@ -105,6 +107,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
 
                     //if locations in shops show what type of item they contain
                     playerFile.SetFlagValue("disableshopslots", Convert.ToInt32(ArchipelagoClient.ServerData.slotData["hide_shop_item_details"]));
+
+                    ArchipelagoConsole.debugLogMessage("FLAGS SET");
 
                     //check if a girl is disabled in the randomiser and add all their pairs to the completed pairs list
                     //TODO MODIFY HOW THE GOAL IS COMPLETED SINCE PAIRS MAY BE OVER THE VANILLA AMOUNT
@@ -211,6 +215,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                         ArchipelagoConsole.LogMessage($"Starting Game With {w} wings due to having the following girls disabled: {gi}");
                     }
 
+                    ArchipelagoConsole.debugLogMessage("PAIRS CHECKED/DISABLED");
+
                     //check if the randomiser has locations in the shop and add flags for each item
                     if (Convert.ToInt32(ArchipelagoClient.ServerData.slotData["number_shop_items"]) > 0)
                     {
@@ -220,6 +226,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                             playerFile.SetFlagValue("shopslot" + s.ToString(), 0);
                         }
                     }
+
+                    ArchipelagoConsole.debugLogMessage("SHOP FLAGS SET");
 
                     //TODO GET SAVE DATA FROM ARCH SERVER AND APPLY IT
 
@@ -231,6 +239,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                     //set the starting number of fruit seeds based on the randomiser
                     //process any items recieved by the client
                     DepartLocation.archflagprocess(playerFile);
+
+                    ArchipelagoConsole.debugLogMessage("PROCESSED ARCH LIST");
 
                     //set the selected girl in the wardrobe to be the first girl that is unlocked
                     for (int p = 1; p < playerFile.girls.Count; p++)
@@ -261,9 +271,13 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                         gl.stylesOnDates = true;
                     }
 
+                    ArchipelagoConsole.debugLogMessage("GENNING STORE/FINDER");
+
                     //generate finder and shop slots/items based on our logic
                     playerFile.finderSlots = Finder.genfinder(playerFile);
                     playerFile.storeProducts = Store.genStore(playerFile);
+
+                    ArchipelagoConsole.debugLogMessage("FINISHED GENNING STORE/FINDER");
 
                     //set some default values that are based on a game just after the tutorial
                     playerFile.storyProgress = 7;
@@ -280,12 +294,17 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                     Game.Persistence.Apply(savindex);
                     Game.Persistence.SaveGame();
 
+                    ArchipelagoConsole.debugLogMessage("GENNING SAVE FILE DONE");
+
                     //save archdata
                     //SAVE DATA TO SERVER
                     //load into the game finally
                     ArchipelagoClient.session.DataStorage[Scope.Slot, "savefile"] = JsonConvert.SerializeObject(Game.Persistence.playerData.files[savindex].WriteData());
                     ArchipelagoClient.session.DataStorage[Scope.Slot, "archdata"] = JsonConvert.SerializeObject(ArchipelagoClient.alist);
                     ArchipelagoClient.session.DataStorage[Scope.Slot, "slotsetup"] = true;
+
+                    ArchipelagoConsole.debugLogMessage("CHANGING SCENES");
+
                     ____titleCanvas.LoadGame(savindex, "MainScene");
                 }
             }

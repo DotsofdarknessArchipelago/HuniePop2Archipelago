@@ -1,0 +1,482 @@
+[
+    {
+        "name": "candace Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite drink",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Music Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Movie Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Online Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace App Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Phone App",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Friday Night",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Weather",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Holiday",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Pet",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite School Subject",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Place to shop",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Own Body Part",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Sex Position",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "candace Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Porn Category",
+                "access_rules": 
+                [
+                    "$girl_unlocked|candace"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

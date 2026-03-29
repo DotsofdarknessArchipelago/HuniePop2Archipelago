@@ -1,0 +1,482 @@
+[
+    {
+        "name": "lillian Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite drink",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Music Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Movie Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Online Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian App Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Phone App",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Friday Night",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Weather",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Holiday",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Pet",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite School Subject",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Place to shop",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Own Body Part",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Sex Position",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lillian Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Porn Category",
+                "access_rules": 
+                [
+                    "$girl_unlocked|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

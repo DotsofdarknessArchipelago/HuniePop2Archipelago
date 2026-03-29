@@ -1,0 +1,212 @@
+[
+    {
+        "name": "lola Outfit 1",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lola in Poppin' Off Outfit",
+                "access_rules": [
+                    "lolapoppin'offoutfit,$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Outfit 2",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lola in Stewardess Outfit",
+                "access_rules": [
+                    "$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Outfit 3",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lola in Elegance Outfit",
+                "access_rules": [
+                    "lolaeleganceoutfit,$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Outfit 4",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lola in Cream Puff Outfit",
+                "access_rules": [
+                    "lolacreampuffoutfit,$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Outfit 5",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lola in Jamaikini Outfit",
+                "access_rules": [
+                    "lolajamaikinioutfit,$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Outfit 6",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lola in Mocha Latte Outfit",
+                "access_rules": [
+                    "lolamochalatteoutfit,$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Outfit 7",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lola in Afrikini Outfit",
+                "access_rules": [
+                    "lolaafrikinioutfit,$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Outfit 8",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lola in Tennis Outfit",
+                "access_rules": [
+                    "lolatennisoutfit,$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Outfit 9",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lola in Basketball Outfit",
+                "access_rules": [
+                    "lolabasketballoutfit,$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lola Outfit 10",
+        "map_locations": [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Date lola in Football Outfit",
+                "access_rules": [
+                    "lolafootballoutfit,$girl_unlocked|lola"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

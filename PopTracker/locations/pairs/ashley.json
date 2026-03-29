@@ -1,0 +1,118 @@
+[
+    {
+        "name": "ashley|brooke",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (ashley|brooke)",
+                "access_rules": [
+                    "$pair_unlocked|ashley|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|brooke)",
+                "access_rules": [
+                    "$pair_unlocked|ashley|brooke"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley|lillian",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (ashley|lillian)",
+                "access_rules": [
+                    "$pair_unlocked|ashley|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|lillian)",
+                "access_rules": [
+                    "$pair_unlocked|ashley|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley|nora",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (ashley|nora)",
+                "access_rules": [
+                    "$pair_unlocked|ashley|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|nora)",
+                "access_rules": [
+                    "$pair_unlocked|ashley|nora"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "ashley|polly",
+        "map_locations": [
+            {
+                "map": "ashley",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (ashley|polly)",
+                "access_rules": [
+                    "$pair_unlocked|ashley|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|polly)",
+                "access_rules": [
+                    "$pair_unlocked|ashley|polly"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

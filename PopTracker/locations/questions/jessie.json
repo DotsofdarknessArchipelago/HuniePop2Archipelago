@@ -1,0 +1,482 @@
+[
+    {
+        "name": "jessie Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite drink",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Music Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Movie Genre",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Online Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie App Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Phone App",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Friday Night",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Weather",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Holiday",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Pet",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite School Subject",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Place to shop",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Own Body Part",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Sex Position",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "jessie Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Porn Category",
+                "access_rules": 
+                [
+                    "$girl_unlocked|jessie"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]

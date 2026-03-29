@@ -33,13 +33,14 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
         /// </summary>
         public static List<PlayerFileFinderSlot> genfinder(PlayerFile file)
         {
-
+            ArchipelagoConsole.debugLogMessage("GENERATING FINDER LIST");
             List<GirlPairDefinition> pripair = new List<GirlPairDefinition>();
             List<GirlPairDefinition> pair = new List<GirlPairDefinition>();
 
             //iterate over the number of girl pairs
             for (int i = 0; i < file.girlPairs.Count; i++)
             {
+                ArchipelagoConsole.debugLogMessage($"CHEACKING GIRL PAIR: {file.girlPairs[i].girlPairDefinition.name}");
                 //if girl pair is not the standard gameplay pairs skip over them
                 if (file.girlPairs[i].girlPairDefinition.girlDefinitionOne.id >= 13 || file.girlPairs[i].girlPairDefinition.girlDefinitionTwo.id >= 13) { continue; }
                 //check if the pair is able to be met yet
@@ -51,6 +52,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                         if (file.girlPairs[i].relationshipType == GirlPairRelationshipType.COMPATIBLE || file.girlPairs[i].relationshipType == GirlPairRelationshipType.ATTRACTED)
                         {
                             pripair.Add(file.girlPairs[i].girlPairDefinition);
+                            ArchipelagoConsole.debugLogMessage($"GIRL PAIR ADDED TO PRIMARY (0): {file.girlPairs[i].girlPairDefinition.name}");
                             continue;
                         }
 
@@ -60,6 +62,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                         if (Game.Persistence.playerFile.GetFlagValue(g1.girlDefinition.id.ToString() + ":" + g1.outfitIndex.ToString()) == -1)
                         {
                             pripair.Add(file.girlPairs[i].girlPairDefinition);
+                            ArchipelagoConsole.debugLogMessage($"GIRL PAIR ADDED TO PRIMARY (1): {file.girlPairs[i].girlPairDefinition.name}");
                             continue;
                         }
                         foreach (var ui in g1.girlDefinition.uniqueItemDefs)
@@ -67,6 +70,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                             if (!g1.HasUnique(ui) && file.IsItemInInventory(ui, false))
                             {
                                 pripair.Add(file.girlPairs[i].girlPairDefinition);
+                                ArchipelagoConsole.debugLogMessage($"GIRL PAIR ADDED TO PRIMARY (2): {file.girlPairs[i].girlPairDefinition.name}");
                                 t = true;
                                 break;
                             }
@@ -77,6 +81,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                             if (!g1.HasShoes(ui) && file.IsItemInInventory(ui, false))
                             {
                                 pripair.Add(file.girlPairs[i].girlPairDefinition);
+                                ArchipelagoConsole.debugLogMessage($"GIRL PAIR ADDED TO PRIMARY (3): {file.girlPairs[i].girlPairDefinition.name}");
                                 t = true;
                                 break;
                             }
@@ -87,6 +92,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                         if (Game.Persistence.playerFile.GetFlagValue(g2.girlDefinition.id.ToString() + ":" + g2.outfitIndex.ToString()) == -1)
                         {
                             pripair.Add(file.girlPairs[i].girlPairDefinition);
+                            ArchipelagoConsole.debugLogMessage($"GIRL PAIR ADDED TO PRIMARY (4): {file.girlPairs[i].girlPairDefinition.name}");
                             continue;
                         }
                         foreach (var ui in g2.girlDefinition.uniqueItemDefs)
@@ -94,6 +100,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                             if (!g2.HasUnique(ui) && file.IsItemInInventory(ui, false))
                             {
                                 pripair.Add(file.girlPairs[i].girlPairDefinition);
+                                ArchipelagoConsole.debugLogMessage($"GIRL PAIR ADDED TO PRIMARY (5): {file.girlPairs[i].girlPairDefinition.name}");
                                 t = true;
                                 break;
                             }
@@ -104,6 +111,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                             if (!g2.HasShoes(ui) && file.IsItemInInventory(ui, false))
                             {
                                 pripair.Add(file.girlPairs[i].girlPairDefinition);
+                                ArchipelagoConsole.debugLogMessage($"GIRL PAIR ADDED TO PRIMARY (6): {file.girlPairs[i].girlPairDefinition.name}");
                                 t = true;
                                 break;
                             }
@@ -113,10 +121,12 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
 
                         //add to list
                         pair.Add(file.girlPairs[i].girlPairDefinition);
+                        ArchipelagoConsole.debugLogMessage($"GIRL PAIR ADDED TO NORMAL: {file.girlPairs[i].girlPairDefinition.name}");
                     }
                 }
             }
 
+            ArchipelagoConsole.debugLogMessage("PAIRS CHECK DONE");
 
             int initalpaircount = pair.Count;
 
@@ -130,6 +140,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                     areas.Add(a);
                 }
             }
+
+            ArchipelagoConsole.debugLogMessage("AREAS LIST DONE");
 
             List<PlayerFileFinderSlot> finder = new List<PlayerFileFinderSlot>();
 
@@ -197,6 +209,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                     pair.RemoveAt(p);
                 }
             }
+            ArchipelagoConsole.debugLogMessage("FINDER LIST DONE");
             //return finder list
             return finder;
         }

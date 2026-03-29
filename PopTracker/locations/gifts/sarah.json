@@ -1,0 +1,3002 @@
+[
+    {
+        "name": "sarah Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "480",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|1|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "587",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|2|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "693",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|3|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "800",
+                "y": "260",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Scissors Unique Gift",
+                "access_rules": ["scissorsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|129"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Spool Of Thread Unique Gift",
+                "access_rules": ["spoolofthreaduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|130"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Buttons Unique Gift",
+                "access_rules": ["buttonsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|131"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Pincushion Unique Gift",
+                "access_rules": ["pincushionuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|132"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Measuring Tape Unique Gift",
+                "access_rules": ["measuringtapeuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|133"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Gin Unique Gift",
+                "access_rules": ["ginuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|134"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Rum Unique Gift",
+                "access_rules": ["rumuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|135"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Whisky Unique Gift",
+                "access_rules": ["whiskyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|136"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Vodka Unique Gift",
+                "access_rules": ["vodkauniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|137"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Tequila Unique Gift",
+                "access_rules": ["tequilauniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|138"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Witch Hat Unique Gift",
+                "access_rules": ["witchhatuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|139"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Jack O Lantern Unique Gift",
+                "access_rules": ["jack-o'-lanternuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|140"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ouija Board Unique Gift",
+                "access_rules": ["ouijaboarduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|141"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Voodoo Doll Unique Gift",
+                "access_rules": ["voodoodolluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|142"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Goat Skull Unique Gift",
+                "access_rules": ["goatskulluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|143"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crystals Unique Gift",
+                "access_rules": ["crystalsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|144"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crystal Ball Unique Gift",
+                "access_rules": ["crystalballuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|145"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Incense Unique Gift",
+                "access_rules": ["incenseuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|146"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hourglass Unique Gift",
+                "access_rules": ["hourglassuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|147"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Tarot Cards Unique Gift",
+                "access_rules": ["tarotcardsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|148"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Manga Book Unique Gift",
+                "access_rules": ["mangabookuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|149"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Booby Mousepad Unique Gift",
+                "access_rules": ["boobymousepaduniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|150"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cellphone Cover Unique Gift",
+                "access_rules": ["cellphonecoveruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|151"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Chibi Figurine Unique Gift",
+                "access_rules": ["chibifigurineuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|152"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Japanese Candy Unique Gift",
+                "access_rules": ["japanesecandyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|153"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Bath Salts Unique Gift",
+                "access_rules": ["bathsaltsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|154"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hot Stones Unique Gift",
+                "access_rules": ["hotstonesuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|155"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Loofah Sponge Unique Gift",
+                "access_rules": ["loofahspongeuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|156"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Warm Towels Unique Gift",
+                "access_rules": ["warmtowelsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|157"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cucumber Slices Unique Gift",
+                "access_rules": ["cucumberslicesuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|158"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Letter Blocks Unique Gift",
+                "access_rules": ["letterblocksuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|159"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ring Stacker Unique Gift",
+                "access_rules": ["ringstackeruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|160"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Mini Xylophone Unique Gift",
+                "access_rules": ["minixylophoneuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|161"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shapes Block Unique Gift",
+                "access_rules": ["shapesblockuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|162"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Animal Wheel Unique Gift",
+                "access_rules": ["animalwheeluniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|163"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Binky Unique Gift",
+                "access_rules": ["binkyuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|164"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Baby Cap Unique Gift",
+                "access_rules": ["babycapuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|165"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Diapers Unique Gift",
+                "access_rules": ["diapersuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|166"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Baby Bottle Unique Gift",
+                "access_rules": ["babybottleuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|167"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Car Carrier Unique Gift",
+                "access_rules": ["carcarrieruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|168"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Clutch Purse Unique Gift",
+                "access_rules": ["clutchpurseuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|169"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shoulder Bag Unique Gift",
+                "access_rules": ["shoulderbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|170"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Quilted Handbag Unique Gift",
+                "access_rules": ["quiltedhandbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|171"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fancy Handbag Unique Gift",
+                "access_rules": ["fancyhandbaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|172"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Elegant Tote Bag Unique Gift",
+                "access_rules": ["eleganttotebaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|173"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Microphone Unique Gift",
+                "access_rules": ["microphoneuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|174"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Bass Guitar Unique Gift",
+                "access_rules": ["bassguitaruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|175"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Drum Kit Unique Gift",
+                "access_rules": ["drumkituniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|176"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Drum Sticks Unique Gift",
+                "access_rules": ["drumsticksuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|177"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Guitar Amp Unique Gift",
+                "access_rules": ["guitarampuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|178"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Spanking Paddle Unique Gift",
+                "access_rules": ["spankingpaddleuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|179"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ball Gag Unique Gift",
+                "access_rules": ["ballgaguniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|180"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Nipple Clamps Unique Gift",
+                "access_rules": ["nippleclampsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|181"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Handcuffs Unique Gift",
+                "access_rules": ["handcuffsuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|182"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Chain Collar Unique Gift",
+                "access_rules": ["chaincollaruniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|183"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Television Unique Gift",
+                "access_rules": ["televisionuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|184"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Jukebox Unique Gift",
+                "access_rules": ["jukeboxuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|185"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Phonograph Unique Gift",
+                "access_rules": ["phonographuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|186"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Radio Unique Gift",
+                "access_rules": ["radiouniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|187"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Soda Machine Unique Gift",
+                "access_rules": ["sodamachineuniquegift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_unique_gift_id|sarah|4|188"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "480",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|1|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "587",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|2|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "693",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|3|248"],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "sarah Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "800",
+                "y": "385",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Knitted Boots Gift",
+                "access_rules": ["knittedbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|189"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Seasonal Boots Gift",
+                "access_rules": ["seasonalbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|190"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Heavy Boots Gift",
+                "access_rules": ["heavybootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|191"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fuzzy Boots Gift",
+                "access_rules": ["fuzzybootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|192"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Festive Boots Gift",
+                "access_rules": ["festivebootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|193"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Elegant Peep Toes Gift",
+                "access_rules": ["elegantpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|194"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Angel Peep Toes Gift",
+                "access_rules": ["angelpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|195"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Plaid Peep Toes Gift",
+                "access_rules": ["plaidpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|196"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ribbon Peep Toes Gift",
+                "access_rules": ["ribbonpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|197"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Leopard Peep Toes Gift",
+                "access_rules": ["leopardpeeptoesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|198"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Suede Booties Gift",
+                "access_rules": ["suedebootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|199"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Striped Booties Gift",
+                "access_rules": ["stripedbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|200"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Goth Booties Gift",
+                "access_rules": ["gothbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|201"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Abstract Booties Gift",
+                "access_rules": ["abstractbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|202"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Satanic Booties Gift",
+                "access_rules": ["satanicbootiesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|203"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Astro Boots Gift",
+                "access_rules": ["astrobootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|204"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Sacred Boots Gift",
+                "access_rules": ["sacredbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|205"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Sherbet Boots Gift",
+                "access_rules": ["sherbetbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|206"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Hydro Boots Gift",
+                "access_rules": ["hydrobootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|207"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cosmic Boots Gift",
+                "access_rules": ["cosmicbootsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|208"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Geta Platforms Gift",
+                "access_rules": ["getaplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|209"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Candy Platforms Gift",
+                "access_rules": ["candyplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|210"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Light Up Platforms Gift",
+                "access_rules": ["lightupplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|211"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Rainbow Platforms Gift",
+                "access_rules": ["rainbowplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|212"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Star Platforms Gift",
+                "access_rules": ["starplatformsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|213"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Comfy Flip Flops Gift",
+                "access_rules": ["comfyflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|214"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Palm Flip Flops Gift",
+                "access_rules": ["palmflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|215"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Melon Flip Flops Gift",
+                "access_rules": ["melonflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|216"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Aqua Flip Flops Gift",
+                "access_rules": ["aquaflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|217"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Garden Flip Flops Gift",
+                "access_rules": ["gardenflipflopsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|218"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Glittery Heels Gift",
+                "access_rules": ["glitteryheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|219"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Golden Heels Gift",
+                "access_rules": ["goldenheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|220"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Studded Heels Gift",
+                "access_rules": ["studdedheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|221"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Neon Heels Gift",
+                "access_rules": ["neonheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|222"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Clear Heels Gift",
+                "access_rules": ["clearheelsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|223"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Skater Sneakers Gift",
+                "access_rules": ["skatersneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|224"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Ballin' Sneakers Gift",
+                "access_rules": ["ballin'sneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|225"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah High Top Sneakers Gift",
+                "access_rules": ["hightopsneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|226"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Airy Sneakers Gift",
+                "access_rules": ["airysneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|227"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Training Sneakers Gift",
+                "access_rules": ["trainingsneakersgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|228"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Patriotic Wedges Gift",
+                "access_rules": ["patrioticwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|229"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Charcoal Wedges Gift",
+                "access_rules": ["charcoalwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|230"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cork Wedges Gift",
+                "access_rules": ["corkwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|231"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Wooden Wedges Gift",
+                "access_rules": ["woodenwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|232"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Denim Wedges Gift",
+                "access_rules": ["denimwedgesgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|233"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Zip Up Gladiators Gift",
+                "access_rules": ["zipupgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|234"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Strap Gladiators Gift",
+                "access_rules": ["strapgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|235"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Weave Gladiators Gift",
+                "access_rules": ["weavegladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|236"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Modest Gladiators Gift",
+                "access_rules": ["modestgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|237"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Web Gladiators Gift",
+                "access_rules": ["webgladiatorsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|238"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Crafted Flats Gift",
+                "access_rules": ["craftedflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|239"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Basic Flats Gift",
+                "access_rules": ["basicflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|240"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Floral Flats Gift",
+                "access_rules": ["floralflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|241"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Open Flats Gift",
+                "access_rules": ["openflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|242"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Cozy Flats Gift",
+                "access_rules": ["cozyflatsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|243"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Girly Pumps Gift",
+                "access_rules": ["girlypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|244"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Classy Pumps Gift",
+                "access_rules": ["classypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|245"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Shiny Pumps Gift",
+                "access_rules": ["shinypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|246"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Polka Dot Pumps Gift",
+                "access_rules": ["polkadotpumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|247"],
+                "item_count": 1
+            },
+            {
+                "name": "Gift sarah Fancy Pumps Gift",
+                "access_rules": ["fancypumpsgift,$girl_unlocked|sarah"],
+                "visibility_rules": ["$girl_shoe_gift_id|sarah|4|248"],
+                "item_count": 1
+            }
+        ]
+    }
+]

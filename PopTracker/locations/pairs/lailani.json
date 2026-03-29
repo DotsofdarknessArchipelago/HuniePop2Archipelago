@@ -1,0 +1,102 @@
+[
+    {
+        "name": "lailani|candace",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (candace|lailani)",
+                "ref": "candace|lailani/Pair Attracted (candace|lailani)"
+            },
+            {
+                "name": "Pair Lovers (candace|lailani)",
+                "ref": "candace|lailani/Pair Lovers (candace|lailani)"
+            }
+        ]
+    },
+    {
+        "name": "lailani|jessie",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (jessie|lailani)",
+                "ref": "jessie|lailani/Pair Attracted (jessie|lailani)"
+            },
+            {
+                "name": "Pair Lovers (jessie|lailani)",
+                "ref": "jessie|lailani/Pair Lovers (jessie|lailani)"
+            }
+        ]
+    },
+    {
+        "name": "lailani|lillian",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (lailani|lillian)",
+                "access_rules": [
+                    "$pair_unlocked|lailani|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lailani|lillian)",
+                "access_rules": [
+                    "$pair_unlocked|lailani|lillian"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "lailani|sarah",
+        "map_locations": [
+            {
+                "map": "lailani",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections": [
+            {
+                "name": "Pair Attracted (lailani|sarah)",
+                "access_rules": [
+                    "$pair_unlocked|lailani|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lailani|sarah)",
+                "access_rules": [
+                    "$pair_unlocked|lailani|sarah"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    }
+]
