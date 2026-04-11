@@ -19,7 +19,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
     {
         public const string APVersion = "0.5.0";
         private const string game = "Hunie Pop 2";
-        public int[] expectedworld = [3, 0, 1];
+        public int[] expectedworld = [3, 0, 2];
 
         public static bool Authenticated;
         private bool attemptingConnection;
@@ -319,8 +319,13 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                     ArchipelagoConsole.LogMessage("setting debug flag");
                     ArchipelagoConsole.debug = true;
                     break;
+                //case "$sync":
+                //    ArchipelagoConsole.LogMessage("Resyncing Items");
+                //    session.Socket.SendPacket(new SyncPacket());
+                //    break;
                 case "$resync":
-                    ArchipelagoConsole.LogMessage("Resyncing Items");
+                    ArchipelagoConsole.LogMessage("Resyncing Game");
+                    //resyncgame();
                     session.Socket.SendPacket(new SyncPacket());
                     break;
                 case "$resetitems":
