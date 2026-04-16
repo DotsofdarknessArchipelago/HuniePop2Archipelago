@@ -19,7 +19,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
     {
         public const string APVersion = "0.5.0";
         private const string game = "Hunie Pop 2";
-        public int[] expectedworld = [3, 0, 2];
+        public int[] expectedworld = [3, 0, 3];
 
         public static bool Authenticated;
         private bool attemptingConnection;
