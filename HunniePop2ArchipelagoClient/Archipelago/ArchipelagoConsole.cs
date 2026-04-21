@@ -159,8 +159,12 @@ namespace HunniePop2ArchipelagoClient.Archipelago
 
         public static void debugLogMessage(string message)
         {
-            if (!debug) { return; }
             if (message.IsNullOrWhiteSpace()) return;
+            if (!debug)
+            {
+                HuniePop2Archipelago.BepinLogger.LogMessage(message);
+                return; 
+            }
 
             if (logLines.Count == MaxLogLines)
             {

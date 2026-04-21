@@ -117,6 +117,24 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
             }
         }
 
+        /// <summary>
+        /// clear any architems that are in the inventory
+        /// </summary>
+        [HarmonyPatch(typeof(PlayerFile), "ClearPerishableInventoryItems")]
+        [HarmonyPrefix]
+        public static void cleararchitems(PlayerFile __instance)
+        {
+            ArchipelagoConsole.debugLogMessage($"CLEARING ARCH ITEMS FROM INV");
+            for (int i = 0; i < __instance.inventorySlots.Count; i++)
+            {
+                if (__instance.inventorySlots[i].itemDefinition != null && __instance.inventorySlots[i].itemDefinition.id > 400)
+                {
+                    ArchipelagoConsole.debugLogMessage($"CLEARING INV ITEM ({i}) FROM INV");
+                    __instance.inventorySlots[i].Clear();
+                }
+            }
+        }
+
 
         /// <summary>
         /// generates a PlayerFileStoreProduct based on whats given
@@ -126,6 +144,11 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
         /// </summary>
         public static PlayerFileStoreProduct genproduct(int i, ItemDefinition item, int c)
         {
+            if (item == null)
+            {
+                ArchipelagoConsole.debugLogMessage($"ERROR ADDING ARCH ITEM (NULL ITEM)");
+            }
+
             PlayerFileStoreProduct product = new PlayerFileStoreProduct();
             product.productIndex = i;
             product.itemDefinition = item;
@@ -141,12 +164,12 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
         /// </summary>
         public static ItemDefinition genarchitem(int i, int hide)
         {
+            ArchipelagoConsole.debugLogMessage($"Genning arch item {i}");
             ScoutedItemInfo architem = ArchipelagoClient.getshopitem(i);
 
             if (architem == null) { return null; }
 
             ItemDefinition tmp = Game.Data.Items.Get(314);
-            //will through a warning since your not supposed to initilize an item definition like this but it works
             ItemDefinition item = ScriptableObject.CreateInstance<ItemDefinition>();
 
             if (hide != 1)
@@ -173,11 +196,11 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
             item.id = i + 400;
             if (hide == 1)
             {
-                item.itemDescription = "Buy this item to send it to " + architem.Player.Name + ", Trash after buying";
+                item.itemDescription = "Buy this item to send it to " + architem.Player.Name + ", Will disapear from inventory after moving locations";
             }
             else
             {
-                item.itemDescription = "Buy this item to send it to " + architem.Player.Name + $", Trash after buying, shop slot #{i}";
+                item.itemDescription = "Buy this item to send it to " + architem.Player.Name + $", Will disapear from inventory after moving locations, Shop Slot #{i}";
             }
             item.itemType = ItemType.FRUIT;
             item.energyDefinition = tmp.energyDefinition;
@@ -192,9 +215,21 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
             }
 
             //ArchipelagoConsole.LogMessage((i + 1).ToString());
+            ArchipelagoConsole.debugLogMessage($"Genning arch item {i} DONE");
             return item;
 
         }
+
+
+        public static int? shop_food_min;
+        public static int? shop_food_max;
+        public static int? shop_date_gift_min;
+        public static int? shop_date_gift_max;
+        public static int? shop_girl_gift_min;
+        public static int? shop_girl_gift_max;
+        public static int? shop_arch_min;
+        public static int? shop_arch_max;
+
 
         /// <summary>
         /// method to generate store list
@@ -208,6 +243,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
             List<ItemDefinition> food = Game.Data.Items.GetAllOfTypes(ItemType.FOOD);
             List<ItemDefinition> date = Game.Data.Items.GetAllOfTypes(ItemType.DATE_GIFT);
 
+            ArchipelagoConsole.debugLogMessage($"GENNING STORE");
             //get list of store locations that havent been collected yet
             List<int> architems = new List<int>();
             int shopstart = Convert.ToInt32(ArchipelagoClient.ServerData.slotData["shop_loc_start"]);
@@ -215,6 +251,7 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
             {
                 if (!ArchipelagoClient.locdone(shopstart + s + 1))
                 {
+                    ArchipelagoConsole.debugLogMessage($"Adding shop slot {s + 1} to list");
                     architems.Add(s + 1);
                 }
             }
@@ -274,6 +311,15 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 }
             }
 
+            shop_food_min ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["shop_food_min"]);
+            shop_food_max ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["shop_food_max"]);
+            shop_date_gift_min ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["shop_date_gift_min"]);
+            shop_date_gift_max ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["shop_date_gift_max"]);
+            shop_girl_gift_min ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["shop_girl_gift_min"]);
+            shop_girl_gift_max ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["shop_girl_gift_max"]);
+            shop_arch_min ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["shop_arch_min"]);
+            shop_arch_max ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["shop_arch_max"]);
+
             //loop through all shop slots
             for (int i = 0; i < 32; i++)
             {
@@ -283,14 +329,14 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 {
                     //populate the slot with "date gifts"
                     int num = UnityEngine.Random.Range(0, date.Count - 1);
-                    store.Add(genproduct(i, date[num], UnityEngine.Random.Range(1, 5)));
+                    store.Add(genproduct(i, date[num], UnityEngine.Random.Range((int)shop_date_gift_min, (int)shop_date_gift_max + 1)));
                     date.RemoveAt(num);
                 }
                 else if ((ran % 4 == 2) && architems.Count > 0)
                 {
                     //populate the slot with a custom archipelago item
                     int num = UnityEngine.Random.Range(0, architems.Count - 1);
-                    store.Add(genproduct(i, genarchitem(architems[num], file.GetFlagValue("disableshopslots")), UnityEngine.Random.Range(10, 20)));
+                    store.Add(genproduct(i, genarchitem(architems[num], file.GetFlagValue("disableshopslots")), UnityEngine.Random.Range((int)shop_arch_min, (int)shop_arch_max + 1)));
                     architems.RemoveAt(num);
                 }
                 else if (((ran % 4 == 1) && (girlgifts.Count + prigirlgifts.Count) > 0) || ((ran % 4 == 2) && (girlgifts.Count + prigirlgifts.Count) > 0))
@@ -299,13 +345,13 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                     if (prigirlgifts.Count > 0)
                     {
                         int num = UnityEngine.Random.Range(0, prigirlgifts.Count - 1);
-                        store.Add(genproduct(i, prigirlgifts[num], UnityEngine.Random.Range(1, 5)));
+                        store.Add(genproduct(i, prigirlgifts[num], UnityEngine.Random.Range((int)shop_girl_gift_min, (int)shop_girl_gift_max + 1)));
                         prigirlgifts.RemoveAt(num);
                     }
                     else
                     {
                         int num = UnityEngine.Random.Range(0, girlgifts.Count - 1);
-                        store.Add(genproduct(i, girlgifts[num], UnityEngine.Random.Range(1, 5)));
+                        store.Add(genproduct(i, girlgifts[num], UnityEngine.Random.Range((int)shop_girl_gift_min, (int)shop_girl_gift_max + 1)));
                         girlgifts.RemoveAt(num);
                     }
                 }
@@ -313,12 +359,14 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
                 {
                     //DEFAULT populate with food item
                     int num = UnityEngine.Random.Range(0, food.Count - 1);
-                    store.Add(genproduct(i, food[num], UnityEngine.Random.Range(1, 5)));
+                    store.Add(genproduct(i, food[num], UnityEngine.Random.Range((int)shop_food_min, (int)shop_food_max + 1)));
                     food.RemoveAt(num);
                 }
             }
 
+            ArchipelagoConsole.debugLogMessage($"GENNING STORE DONE");
             return store;
         }
+
     }
 }

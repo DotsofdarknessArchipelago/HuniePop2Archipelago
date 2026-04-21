@@ -16,6 +16,8 @@ namespace HunniePop2ArchipelagoClient.HuniePop2.Gameplay
         [HarmonyPrefix]
         public static bool affectionexp(PuzzleAffectionType affectionType, bool ofLevel, PlayerFile __instance, ref int __result)
         {
+            if (!ArchipelagoClient.Authenticated) { return true; }
+            
             DepartLocation.token_item_start ??= Convert.ToInt32(ArchipelagoClient.ServerData.slotData["token_item_start"]);
 
             if (DepartLocation.token_item_start == null) return true;

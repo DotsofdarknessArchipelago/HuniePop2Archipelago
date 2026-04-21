@@ -19,7 +19,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
     {
         public const string APVersion = "0.5.0";
         private const string game = "Hunie Pop 2";
-        public int[] expectedworld = [3, 0, 3];
+        public int[] expectedworld = [3, 1, 0];
 
         public static bool Authenticated;
         private bool attemptingConnection;
@@ -31,6 +31,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
         public static ArchipelageItemList alist = new ArchipelageItemList();
         public static int totalloc = 0;
         public static int totalitem = 0;
+        public static int startitems = 0;
         public bool slotstate = false;
 
         public string worldversion = "";
@@ -128,6 +129,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                 buildshoplocations(Convert.ToInt32(ArchipelagoClient.ServerData.slotData["number_shop_items"]));
                 totalitem = Convert.ToInt32(ServerData.slotData["total_items"]);
                 totalloc = Convert.ToInt32(ServerData.slotData["total_locations"]);
+                startitems = Convert.ToInt32(ServerData.slotData["startitems"]);
 
                 slotstate = session.DataStorage[Scope.Slot, "slotsetup"];
 
@@ -232,9 +234,14 @@ namespace HunniePop2ArchipelagoClient.Archipelago
 
         public void buildshoplocations(int num)
         {
+            ArchipelagoConsole.debugLogMessage("BUILDING ARCH ITEM SCOUT LIST");
             long[] shopids = new long[num];
             int shopstart = Convert.ToInt32(ServerData.slotData["shop_loc_start"]);
-            for (int i = 0; i < shopids.Length; i++) { shopids[i] = shopstart + i; }
+            for (int i = 0; i < shopids.Length; i++)
+            {
+                ArchipelagoConsole.debugLogMessage($"ADDING SHOP ITEM {i+1} TO LIST WITH ID {shopstart + i+1}");
+                shopids[i] = shopstart + i+1; 
+            }
 
 
             Task<Dictionary<long, ScoutedItemInfo>> scoutedInfoTask = Task.Run(async () => await session.Locations.ScoutLocationsAsync(shopids));
@@ -243,6 +250,7 @@ namespace HunniePop2ArchipelagoClient.Archipelago
                 ArchipelagoConsole.LogMessage("ERROR:"+scoutedInfoTask.Exception.GetBaseException().Message);
                 return;
             }
+            ArchipelagoConsole.debugLogMessage("ARCH ITEM SCOUT LIST DONE");
             shopdict = scoutedInfoTask.Result;
 
         }

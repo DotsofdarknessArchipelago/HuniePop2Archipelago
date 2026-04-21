@@ -17,7 +17,7 @@ namespace HunniePop2ArchipelagoClient
     {
         public const string PluginGUID = "com.dots.hunniepop2";
         public const string PluginName = "HunniePop2Archielago";
-        public const string PluginVersion = "3.0.3";
+        public const string PluginVersion = "3.1.0";
 
         public const string ModDisplayInfo = $"{PluginName} v{PluginVersion}";
         private const string APDisplayInfo = $"Client V({PluginVersion})";
@@ -208,14 +208,14 @@ namespace HunniePop2ArchipelagoClient
                 float tl = ArchipelagoClient.totalloc;
                 float pl = cl / tl;
 
-                float ci = ArchipelagoClient.alist.list.Count();
+                float ci = ArchipelagoClient.alist.list.Count() - ArchipelagoClient.startitems;
                 float ti = ArchipelagoClient.totalitem;
                 float pi = ci / ti;
 
 
                 GUI.Label(new Rect(20, (main.height / 2) - 100, main.width - 40, 40), $"SERVER STATE: {state}", mlabel2);
                 GUI.Label(new Rect(20, (main.height / 2) - 50, main.width - 40, 40), $"LOCATIONS CHECKED: {cl} OF {tl} ({pl:P})", mlabel2);
-                GUI.Label(new Rect(20, (main.height / 2), main.width - 40, 40), $"ITEMS RECIEVED: {ArchipelagoClient.alist.list.Count()} OF {ArchipelagoClient.totalitem} ({pi:P})", mlabel2);
+                GUI.Label(new Rect(20, (main.height / 2), main.width - 40, 40), $"ITEMS RECIEVED: {ci} OF {ArchipelagoClient.totalitem} ({pi:P})", mlabel2);
                 if (GUI.Button(new Rect(main.width/2-100, (main.height / 2) + 50, 200, 60), button, mbutton))
                 {
                     StartGame.startarchipelago(GameObject.Find("Canvas").GetComponent<UiTitleCanvas>());
