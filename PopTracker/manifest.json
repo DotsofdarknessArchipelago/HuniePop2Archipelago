@@ -4,7 +4,7 @@
   // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
   "name": "Hunie Pop 2 PopTracker Plugin",
   "game_name": "Hunie Pop 2: Double Date",
-  "package_version": "3.0.0",
+  "package_version": "3.1.0",
   "package_uid": "hp2_ap_plugin",
   "author": "Dotsofdarkness",
   // put the version you tested against here!

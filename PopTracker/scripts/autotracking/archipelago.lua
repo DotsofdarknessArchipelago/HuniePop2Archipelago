@@ -288,13 +288,13 @@ function getgiftlocation(giftmap)
     elseif  Tracker:ProviderCountForCode(test[1]..' unique4') == tonumber(test[2]) then
         return "@"..test[1].." Unique Gift 4/Gift "..test[1].." "..GIFT_MAPPING[tonumber(test[2])].." Unique Gift"
     elseif  Tracker:ProviderCountForCode(test[1]..' shoe1') == tonumber(test[2]) then
-        return "@"..test[1].." Shoe Gift 5/Gift "..test[1].." "..GIFT_MAPPING[tonumber(test[2])].." Gift"
+        return "@"..test[1].." Shoe Gift 1/Gift "..test[1].." "..GIFT_MAPPING[tonumber(test[2])].." Gift"
     elseif  Tracker:ProviderCountForCode(test[1]..' shoe2') == tonumber(test[2]) then
-        return "@"..test[1].." Shoe Gift 6/Gift "..test[1].." "..GIFT_MAPPING[tonumber(test[2])].." Gift"
+        return "@"..test[1].." Shoe Gift 2/Gift "..test[1].." "..GIFT_MAPPING[tonumber(test[2])].." Gift"
     elseif  Tracker:ProviderCountForCode(test[1]..' shoe3') == tonumber(test[2]) then
-        return "@"..test[1].." Shoe Gift 7/Gift "..test[1].." "..GIFT_MAPPING[tonumber(test[2])].." Gift"
+        return "@"..test[1].." Shoe Gift 3/Gift "..test[1].." "..GIFT_MAPPING[tonumber(test[2])].." Gift"
     elseif  Tracker:ProviderCountForCode(test[1]..' shoe4') == tonumber(test[2]) then
-        return "@"..test[1].." Shoe Gift 8/Gift "..test[1].." "..GIFT_MAPPING[tonumber(test[2])].." Gift"
+        return "@"..test[1].." Shoe Gift 4/Gift "..test[1].." "..GIFT_MAPPING[tonumber(test[2])].." Gift"
     
     end
     return "@ERROR/"..giftmap
